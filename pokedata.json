@@ -11,6 +11,12 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "chlorophyll" } },
 				{ "pokemon_v2_ability": { "name": "overgrow" } }
+			],
+			"type": [
+				[
+					{ "pokemon_v2_type": { "name": "grass" }, "pokemon_id": 1 },
+					{ "pokemon_v2_type": { "name": "poison" }, "pokemon_id": 1 }
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
@@ -28,6 +34,12 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "chlorophyll" } },
 				{ "pokemon_v2_ability": { "name": "overgrow" } }
+			],
+			"type": [
+				[
+					{ "pokemon_v2_type": { "name": "grass" }, "pokemon_id": 2 },
+					{ "pokemon_v2_type": { "name": "poison" }, "pokemon_id": 2 }
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
@@ -45,6 +57,12 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "chlorophyll" } },
 				{ "pokemon_v2_ability": { "name": "overgrow" } }
+			],
+			"type": [
+				[
+					{ "pokemon_v2_type": { "name": "grass" }, "pokemon_id": 3 },
+					{ "pokemon_v2_type": { "name": "poison" }, "pokemon_id": 3 }
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
@@ -62,6 +80,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "blaze" } },
 				{ "pokemon_v2_ability": { "name": "solar-power" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "fire" }, "pokemon_id": 4 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
@@ -79,6 +100,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "blaze" } },
 				{ "pokemon_v2_ability": { "name": "solar-power" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "fire" }, "pokemon_id": 5 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
@@ -96,6 +120,12 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "blaze" } },
 				{ "pokemon_v2_ability": { "name": "solar-power" } }
+			],
+			"type": [
+				[
+					{ "pokemon_v2_type": { "name": "fire" }, "pokemon_id": 6 },
+					{ "pokemon_v2_type": { "name": "flying" }, "pokemon_id": 6 }
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
@@ -113,6 +143,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "rain-dish" } },
 				{ "pokemon_v2_ability": { "name": "torrent" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 7 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
@@ -130,6 +163,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "rain-dish" } },
 				{ "pokemon_v2_ability": { "name": "torrent" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 8 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
@@ -147,6 +183,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "rain-dish" } },
 				{ "pokemon_v2_ability": { "name": "torrent" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 9 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
@@ -164,6 +203,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "shield-dust" } },
 				{ "pokemon_v2_ability": { "name": "run-away" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "bug" }, "pokemon_id": 10 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
@@ -180,6 +222,9 @@
 			"weight": 99,
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "shed-skin" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "bug" }, "pokemon_id": 11 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
@@ -197,6 +242,15 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "compound-eyes" } },
 				{ "pokemon_v2_ability": { "name": "tinted-lens" } }
+			],
+			"type": [
+				[
+					{ "pokemon_v2_type": { "name": "bug" }, "pokemon_id": 12 },
+					{
+						"pokemon_v2_type": { "name": "flying" },
+						"pokemon_id": 12
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
@@ -214,6 +268,15 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "shield-dust" } },
 				{ "pokemon_v2_ability": { "name": "run-away" } }
+			],
+			"type": [
+				[
+					{ "pokemon_v2_type": { "name": "bug" }, "pokemon_id": 13 },
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 13
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
@@ -230,6 +293,15 @@
 			"weight": 100,
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "shed-skin" } }
+			],
+			"type": [
+				[
+					{ "pokemon_v2_type": { "name": "bug" }, "pokemon_id": 14 },
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 14
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
@@ -247,6 +319,15 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "swarm" } },
 				{ "pokemon_v2_ability": { "name": "sniper" } }
+			],
+			"type": [
+				[
+					{ "pokemon_v2_type": { "name": "bug" }, "pokemon_id": 15 },
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 15
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
@@ -265,6 +346,18 @@
 				{ "pokemon_v2_ability": { "name": "keen-eye" } },
 				{ "pokemon_v2_ability": { "name": "tangled-feet" } },
 				{ "pokemon_v2_ability": { "name": "big-pecks" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "normal" },
+						"pokemon_id": 16
+					},
+					{
+						"pokemon_v2_type": { "name": "flying" },
+						"pokemon_id": 16
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
@@ -283,6 +376,18 @@
 				{ "pokemon_v2_ability": { "name": "keen-eye" } },
 				{ "pokemon_v2_ability": { "name": "tangled-feet" } },
 				{ "pokemon_v2_ability": { "name": "big-pecks" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "normal" },
+						"pokemon_id": 17
+					},
+					{
+						"pokemon_v2_type": { "name": "flying" },
+						"pokemon_id": 17
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
@@ -301,6 +406,18 @@
 				{ "pokemon_v2_ability": { "name": "keen-eye" } },
 				{ "pokemon_v2_ability": { "name": "tangled-feet" } },
 				{ "pokemon_v2_ability": { "name": "big-pecks" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "normal" },
+						"pokemon_id": 18
+					},
+					{
+						"pokemon_v2_type": { "name": "flying" },
+						"pokemon_id": 18
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
@@ -319,6 +436,9 @@
 				{ "pokemon_v2_ability": { "name": "run-away" } },
 				{ "pokemon_v2_ability": { "name": "hustle" } },
 				{ "pokemon_v2_ability": { "name": "guts" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "normal" }, "pokemon_id": 19 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
@@ -337,6 +457,9 @@
 				{ "pokemon_v2_ability": { "name": "run-away" } },
 				{ "pokemon_v2_ability": { "name": "hustle" } },
 				{ "pokemon_v2_ability": { "name": "guts" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "normal" }, "pokemon_id": 20 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
@@ -354,6 +477,18 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "keen-eye" } },
 				{ "pokemon_v2_ability": { "name": "sniper" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "normal" },
+						"pokemon_id": 21
+					},
+					{
+						"pokemon_v2_type": { "name": "flying" },
+						"pokemon_id": 21
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
@@ -371,6 +506,18 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "keen-eye" } },
 				{ "pokemon_v2_ability": { "name": "sniper" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "normal" },
+						"pokemon_id": 22
+					},
+					{
+						"pokemon_v2_type": { "name": "flying" },
+						"pokemon_id": 22
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
@@ -389,6 +536,9 @@
 				{ "pokemon_v2_ability": { "name": "intimidate" } },
 				{ "pokemon_v2_ability": { "name": "shed-skin" } },
 				{ "pokemon_v2_ability": { "name": "unnerve" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "poison" }, "pokemon_id": 23 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
@@ -407,6 +557,9 @@
 				{ "pokemon_v2_ability": { "name": "intimidate" } },
 				{ "pokemon_v2_ability": { "name": "shed-skin" } },
 				{ "pokemon_v2_ability": { "name": "unnerve" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "poison" }, "pokemon_id": 24 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
@@ -424,6 +577,14 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "static" } },
 				{ "pokemon_v2_ability": { "name": "lightning-rod" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "electric" },
+						"pokemon_id": 25
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
@@ -441,6 +602,14 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "static" } },
 				{ "pokemon_v2_ability": { "name": "lightning-rod" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "electric" },
+						"pokemon_id": 26
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
@@ -458,6 +627,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "sand-veil" } },
 				{ "pokemon_v2_ability": { "name": "sand-rush" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "ground" }, "pokemon_id": 27 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
@@ -475,6 +647,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "sand-veil" } },
 				{ "pokemon_v2_ability": { "name": "sand-rush" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "ground" }, "pokemon_id": 28 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
@@ -493,6 +668,9 @@
 				{ "pokemon_v2_ability": { "name": "poison-point" } },
 				{ "pokemon_v2_ability": { "name": "hustle" } },
 				{ "pokemon_v2_ability": { "name": "rivalry" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "poison" }, "pokemon_id": 29 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
@@ -511,6 +689,9 @@
 				{ "pokemon_v2_ability": { "name": "poison-point" } },
 				{ "pokemon_v2_ability": { "name": "hustle" } },
 				{ "pokemon_v2_ability": { "name": "rivalry" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "poison" }, "pokemon_id": 30 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
@@ -529,6 +710,18 @@
 				{ "pokemon_v2_ability": { "name": "poison-point" } },
 				{ "pokemon_v2_ability": { "name": "rivalry" } },
 				{ "pokemon_v2_ability": { "name": "sheer-force" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 31
+					},
+					{
+						"pokemon_v2_type": { "name": "ground" },
+						"pokemon_id": 31
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
@@ -547,6 +740,9 @@
 				{ "pokemon_v2_ability": { "name": "poison-point" } },
 				{ "pokemon_v2_ability": { "name": "hustle" } },
 				{ "pokemon_v2_ability": { "name": "rivalry" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "poison" }, "pokemon_id": 32 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
@@ -565,6 +761,9 @@
 				{ "pokemon_v2_ability": { "name": "poison-point" } },
 				{ "pokemon_v2_ability": { "name": "hustle" } },
 				{ "pokemon_v2_ability": { "name": "rivalry" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "poison" }, "pokemon_id": 33 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
@@ -583,6 +782,18 @@
 				{ "pokemon_v2_ability": { "name": "poison-point" } },
 				{ "pokemon_v2_ability": { "name": "rivalry" } },
 				{ "pokemon_v2_ability": { "name": "sheer-force" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 34
+					},
+					{
+						"pokemon_v2_type": { "name": "ground" },
+						"pokemon_id": 34
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
@@ -601,6 +812,9 @@
 				{ "pokemon_v2_ability": { "name": "cute-charm" } },
 				{ "pokemon_v2_ability": { "name": "magic-guard" } },
 				{ "pokemon_v2_ability": { "name": "friend-guard" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "fairy" }, "pokemon_id": 35 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
@@ -619,6 +833,9 @@
 				{ "pokemon_v2_ability": { "name": "cute-charm" } },
 				{ "pokemon_v2_ability": { "name": "magic-guard" } },
 				{ "pokemon_v2_ability": { "name": "unaware" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "fairy" }, "pokemon_id": 36 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
@@ -636,6 +853,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "flash-fire" } },
 				{ "pokemon_v2_ability": { "name": "drought" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "fire" }, "pokemon_id": 37 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
@@ -653,6 +873,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "flash-fire" } },
 				{ "pokemon_v2_ability": { "name": "drought" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "fire" }, "pokemon_id": 38 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
@@ -671,6 +894,15 @@
 				{ "pokemon_v2_ability": { "name": "cute-charm" } },
 				{ "pokemon_v2_ability": { "name": "friend-guard" } },
 				{ "pokemon_v2_ability": { "name": "competitive" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "normal" },
+						"pokemon_id": 39
+					},
+					{ "pokemon_v2_type": { "name": "fairy" }, "pokemon_id": 39 }
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
@@ -689,6 +921,15 @@
 				{ "pokemon_v2_ability": { "name": "cute-charm" } },
 				{ "pokemon_v2_ability": { "name": "frisk" } },
 				{ "pokemon_v2_ability": { "name": "competitive" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "normal" },
+						"pokemon_id": 40
+					},
+					{ "pokemon_v2_type": { "name": "fairy" }, "pokemon_id": 40 }
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
@@ -706,6 +947,18 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "inner-focus" } },
 				{ "pokemon_v2_ability": { "name": "infiltrator" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 41
+					},
+					{
+						"pokemon_v2_type": { "name": "flying" },
+						"pokemon_id": 41
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
@@ -723,6 +976,18 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "inner-focus" } },
 				{ "pokemon_v2_ability": { "name": "infiltrator" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 42
+					},
+					{
+						"pokemon_v2_type": { "name": "flying" },
+						"pokemon_id": 42
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
@@ -740,6 +1005,18 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "chlorophyll" } },
 				{ "pokemon_v2_ability": { "name": "run-away" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "grass" },
+						"pokemon_id": 43
+					},
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 43
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
@@ -757,6 +1034,18 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "stench" } },
 				{ "pokemon_v2_ability": { "name": "chlorophyll" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "grass" },
+						"pokemon_id": 44
+					},
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 44
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
@@ -774,6 +1063,18 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "effect-spore" } },
 				{ "pokemon_v2_ability": { "name": "chlorophyll" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "grass" },
+						"pokemon_id": 45
+					},
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 45
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
@@ -792,6 +1093,12 @@
 				{ "pokemon_v2_ability": { "name": "damp" } },
 				{ "pokemon_v2_ability": { "name": "effect-spore" } },
 				{ "pokemon_v2_ability": { "name": "dry-skin" } }
+			],
+			"type": [
+				[
+					{ "pokemon_v2_type": { "name": "bug" }, "pokemon_id": 46 },
+					{ "pokemon_v2_type": { "name": "grass" }, "pokemon_id": 46 }
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
@@ -810,6 +1117,12 @@
 				{ "pokemon_v2_ability": { "name": "damp" } },
 				{ "pokemon_v2_ability": { "name": "effect-spore" } },
 				{ "pokemon_v2_ability": { "name": "dry-skin" } }
+			],
+			"type": [
+				[
+					{ "pokemon_v2_type": { "name": "bug" }, "pokemon_id": 47 },
+					{ "pokemon_v2_type": { "name": "grass" }, "pokemon_id": 47 }
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
@@ -828,6 +1141,15 @@
 				{ "pokemon_v2_ability": { "name": "compound-eyes" } },
 				{ "pokemon_v2_ability": { "name": "run-away" } },
 				{ "pokemon_v2_ability": { "name": "tinted-lens" } }
+			],
+			"type": [
+				[
+					{ "pokemon_v2_type": { "name": "bug" }, "pokemon_id": 48 },
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 48
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
@@ -846,6 +1168,15 @@
 				{ "pokemon_v2_ability": { "name": "shield-dust" } },
 				{ "pokemon_v2_ability": { "name": "tinted-lens" } },
 				{ "pokemon_v2_ability": { "name": "wonder-skin" } }
+			],
+			"type": [
+				[
+					{ "pokemon_v2_type": { "name": "bug" }, "pokemon_id": 49 },
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 49
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
@@ -864,6 +1195,9 @@
 				{ "pokemon_v2_ability": { "name": "sand-veil" } },
 				{ "pokemon_v2_ability": { "name": "arena-trap" } },
 				{ "pokemon_v2_ability": { "name": "sand-force" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "ground" }, "pokemon_id": 50 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
@@ -882,6 +1216,9 @@
 				{ "pokemon_v2_ability": { "name": "sand-veil" } },
 				{ "pokemon_v2_ability": { "name": "arena-trap" } },
 				{ "pokemon_v2_ability": { "name": "sand-force" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "ground" }, "pokemon_id": 51 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
@@ -900,6 +1237,9 @@
 				{ "pokemon_v2_ability": { "name": "pickup" } },
 				{ "pokemon_v2_ability": { "name": "technician" } },
 				{ "pokemon_v2_ability": { "name": "unnerve" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "normal" }, "pokemon_id": 52 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
@@ -918,6 +1258,9 @@
 				{ "pokemon_v2_ability": { "name": "limber" } },
 				{ "pokemon_v2_ability": { "name": "technician" } },
 				{ "pokemon_v2_ability": { "name": "unnerve" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "normal" }, "pokemon_id": 53 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
@@ -936,6 +1279,9 @@
 				{ "pokemon_v2_ability": { "name": "damp" } },
 				{ "pokemon_v2_ability": { "name": "cloud-nine" } },
 				{ "pokemon_v2_ability": { "name": "swift-swim" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 54 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
@@ -954,6 +1300,9 @@
 				{ "pokemon_v2_ability": { "name": "damp" } },
 				{ "pokemon_v2_ability": { "name": "cloud-nine" } },
 				{ "pokemon_v2_ability": { "name": "swift-swim" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 55 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
@@ -972,6 +1321,14 @@
 				{ "pokemon_v2_ability": { "name": "vital-spirit" } },
 				{ "pokemon_v2_ability": { "name": "anger-point" } },
 				{ "pokemon_v2_ability": { "name": "defiant" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "fighting" },
+						"pokemon_id": 56
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
@@ -990,6 +1347,14 @@
 				{ "pokemon_v2_ability": { "name": "vital-spirit" } },
 				{ "pokemon_v2_ability": { "name": "anger-point" } },
 				{ "pokemon_v2_ability": { "name": "defiant" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "fighting" },
+						"pokemon_id": 57
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
@@ -1008,6 +1373,9 @@
 				{ "pokemon_v2_ability": { "name": "flash-fire" } },
 				{ "pokemon_v2_ability": { "name": "intimidate" } },
 				{ "pokemon_v2_ability": { "name": "justified" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "fire" }, "pokemon_id": 58 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
@@ -1026,6 +1394,9 @@
 				{ "pokemon_v2_ability": { "name": "flash-fire" } },
 				{ "pokemon_v2_ability": { "name": "intimidate" } },
 				{ "pokemon_v2_ability": { "name": "justified" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "fire" }, "pokemon_id": 59 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
@@ -1044,6 +1415,9 @@
 				{ "pokemon_v2_ability": { "name": "damp" } },
 				{ "pokemon_v2_ability": { "name": "water-absorb" } },
 				{ "pokemon_v2_ability": { "name": "swift-swim" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 60 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
@@ -1062,6 +1436,9 @@
 				{ "pokemon_v2_ability": { "name": "damp" } },
 				{ "pokemon_v2_ability": { "name": "water-absorb" } },
 				{ "pokemon_v2_ability": { "name": "swift-swim" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 61 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
@@ -1080,6 +1457,18 @@
 				{ "pokemon_v2_ability": { "name": "damp" } },
 				{ "pokemon_v2_ability": { "name": "water-absorb" } },
 				{ "pokemon_v2_ability": { "name": "swift-swim" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "water" },
+						"pokemon_id": 62
+					},
+					{
+						"pokemon_v2_type": { "name": "fighting" },
+						"pokemon_id": 62
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
@@ -1098,6 +1487,9 @@
 				{ "pokemon_v2_ability": { "name": "synchronize" } },
 				{ "pokemon_v2_ability": { "name": "inner-focus" } },
 				{ "pokemon_v2_ability": { "name": "magic-guard" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "psychic" }, "pokemon_id": 63 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
@@ -1116,6 +1508,9 @@
 				{ "pokemon_v2_ability": { "name": "synchronize" } },
 				{ "pokemon_v2_ability": { "name": "inner-focus" } },
 				{ "pokemon_v2_ability": { "name": "magic-guard" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "psychic" }, "pokemon_id": 64 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
@@ -1134,6 +1529,9 @@
 				{ "pokemon_v2_ability": { "name": "synchronize" } },
 				{ "pokemon_v2_ability": { "name": "inner-focus" } },
 				{ "pokemon_v2_ability": { "name": "magic-guard" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "psychic" }, "pokemon_id": 65 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
@@ -1152,6 +1550,14 @@
 				{ "pokemon_v2_ability": { "name": "guts" } },
 				{ "pokemon_v2_ability": { "name": "steadfast" } },
 				{ "pokemon_v2_ability": { "name": "no-guard" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "fighting" },
+						"pokemon_id": 66
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
@@ -1170,6 +1576,14 @@
 				{ "pokemon_v2_ability": { "name": "guts" } },
 				{ "pokemon_v2_ability": { "name": "steadfast" } },
 				{ "pokemon_v2_ability": { "name": "no-guard" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "fighting" },
+						"pokemon_id": 67
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
@@ -1188,6 +1602,14 @@
 				{ "pokemon_v2_ability": { "name": "guts" } },
 				{ "pokemon_v2_ability": { "name": "steadfast" } },
 				{ "pokemon_v2_ability": { "name": "no-guard" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "fighting" },
+						"pokemon_id": 68
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
@@ -1205,6 +1627,18 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "chlorophyll" } },
 				{ "pokemon_v2_ability": { "name": "gluttony" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "grass" },
+						"pokemon_id": 69
+					},
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 69
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
@@ -1222,6 +1656,18 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "chlorophyll" } },
 				{ "pokemon_v2_ability": { "name": "gluttony" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "grass" },
+						"pokemon_id": 70
+					},
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 70
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
@@ -1239,6 +1685,18 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "chlorophyll" } },
 				{ "pokemon_v2_ability": { "name": "gluttony" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "grass" },
+						"pokemon_id": 71
+					},
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 71
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
@@ -1257,6 +1715,18 @@
 				{ "pokemon_v2_ability": { "name": "clear-body" } },
 				{ "pokemon_v2_ability": { "name": "rain-dish" } },
 				{ "pokemon_v2_ability": { "name": "liquid-ooze" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "water" },
+						"pokemon_id": 72
+					},
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 72
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
@@ -1275,6 +1745,18 @@
 				{ "pokemon_v2_ability": { "name": "clear-body" } },
 				{ "pokemon_v2_ability": { "name": "rain-dish" } },
 				{ "pokemon_v2_ability": { "name": "liquid-ooze" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "water" },
+						"pokemon_id": 73
+					},
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 73
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
@@ -1293,6 +1775,15 @@
 				{ "pokemon_v2_ability": { "name": "sturdy" } },
 				{ "pokemon_v2_ability": { "name": "sand-veil" } },
 				{ "pokemon_v2_ability": { "name": "rock-head" } }
+			],
+			"type": [
+				[
+					{ "pokemon_v2_type": { "name": "rock" }, "pokemon_id": 74 },
+					{
+						"pokemon_v2_type": { "name": "ground" },
+						"pokemon_id": 74
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
@@ -1311,6 +1802,15 @@
 				{ "pokemon_v2_ability": { "name": "sturdy" } },
 				{ "pokemon_v2_ability": { "name": "sand-veil" } },
 				{ "pokemon_v2_ability": { "name": "rock-head" } }
+			],
+			"type": [
+				[
+					{ "pokemon_v2_type": { "name": "rock" }, "pokemon_id": 75 },
+					{
+						"pokemon_v2_type": { "name": "ground" },
+						"pokemon_id": 75
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
@@ -1329,6 +1829,15 @@
 				{ "pokemon_v2_ability": { "name": "sturdy" } },
 				{ "pokemon_v2_ability": { "name": "sand-veil" } },
 				{ "pokemon_v2_ability": { "name": "rock-head" } }
+			],
+			"type": [
+				[
+					{ "pokemon_v2_type": { "name": "rock" }, "pokemon_id": 76 },
+					{
+						"pokemon_v2_type": { "name": "ground" },
+						"pokemon_id": 76
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
@@ -1347,6 +1856,9 @@
 				{ "pokemon_v2_ability": { "name": "flash-fire" } },
 				{ "pokemon_v2_ability": { "name": "flame-body" } },
 				{ "pokemon_v2_ability": { "name": "run-away" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "fire" }, "pokemon_id": 77 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
@@ -1365,6 +1877,9 @@
 				{ "pokemon_v2_ability": { "name": "flash-fire" } },
 				{ "pokemon_v2_ability": { "name": "flame-body" } },
 				{ "pokemon_v2_ability": { "name": "run-away" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "fire" }, "pokemon_id": 78 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
@@ -1383,6 +1898,18 @@
 				{ "pokemon_v2_ability": { "name": "oblivious" } },
 				{ "pokemon_v2_ability": { "name": "own-tempo" } },
 				{ "pokemon_v2_ability": { "name": "regenerator" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "water" },
+						"pokemon_id": 79
+					},
+					{
+						"pokemon_v2_type": { "name": "psychic" },
+						"pokemon_id": 79
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
@@ -1401,6 +1928,18 @@
 				{ "pokemon_v2_ability": { "name": "oblivious" } },
 				{ "pokemon_v2_ability": { "name": "own-tempo" } },
 				{ "pokemon_v2_ability": { "name": "regenerator" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "water" },
+						"pokemon_id": 80
+					},
+					{
+						"pokemon_v2_type": { "name": "psychic" },
+						"pokemon_id": 80
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
@@ -1419,6 +1958,15 @@
 				{ "pokemon_v2_ability": { "name": "sturdy" } },
 				{ "pokemon_v2_ability": { "name": "magnet-pull" } },
 				{ "pokemon_v2_ability": { "name": "analytic" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "electric" },
+						"pokemon_id": 81
+					},
+					{ "pokemon_v2_type": { "name": "steel" }, "pokemon_id": 81 }
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
@@ -1437,6 +1985,15 @@
 				{ "pokemon_v2_ability": { "name": "sturdy" } },
 				{ "pokemon_v2_ability": { "name": "magnet-pull" } },
 				{ "pokemon_v2_ability": { "name": "analytic" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "electric" },
+						"pokemon_id": 82
+					},
+					{ "pokemon_v2_type": { "name": "steel" }, "pokemon_id": 82 }
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
@@ -1455,6 +2012,18 @@
 				{ "pokemon_v2_ability": { "name": "inner-focus" } },
 				{ "pokemon_v2_ability": { "name": "keen-eye" } },
 				{ "pokemon_v2_ability": { "name": "defiant" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "normal" },
+						"pokemon_id": 83
+					},
+					{
+						"pokemon_v2_type": { "name": "flying" },
+						"pokemon_id": 83
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
@@ -1473,6 +2042,18 @@
 				{ "pokemon_v2_ability": { "name": "early-bird" } },
 				{ "pokemon_v2_ability": { "name": "run-away" } },
 				{ "pokemon_v2_ability": { "name": "tangled-feet" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "normal" },
+						"pokemon_id": 84
+					},
+					{
+						"pokemon_v2_type": { "name": "flying" },
+						"pokemon_id": 84
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
@@ -1491,6 +2072,18 @@
 				{ "pokemon_v2_ability": { "name": "early-bird" } },
 				{ "pokemon_v2_ability": { "name": "run-away" } },
 				{ "pokemon_v2_ability": { "name": "tangled-feet" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "normal" },
+						"pokemon_id": 85
+					},
+					{
+						"pokemon_v2_type": { "name": "flying" },
+						"pokemon_id": 85
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
@@ -1509,6 +2102,9 @@
 				{ "pokemon_v2_ability": { "name": "thick-fat" } },
 				{ "pokemon_v2_ability": { "name": "hydration" } },
 				{ "pokemon_v2_ability": { "name": "ice-body" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 86 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
@@ -1527,6 +2123,15 @@
 				{ "pokemon_v2_ability": { "name": "thick-fat" } },
 				{ "pokemon_v2_ability": { "name": "hydration" } },
 				{ "pokemon_v2_ability": { "name": "ice-body" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "water" },
+						"pokemon_id": 87
+					},
+					{ "pokemon_v2_type": { "name": "ice" }, "pokemon_id": 87 }
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
@@ -1545,6 +2150,9 @@
 				{ "pokemon_v2_ability": { "name": "stench" } },
 				{ "pokemon_v2_ability": { "name": "sticky-hold" } },
 				{ "pokemon_v2_ability": { "name": "poison-touch" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "poison" }, "pokemon_id": 88 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
@@ -1563,6 +2171,9 @@
 				{ "pokemon_v2_ability": { "name": "stench" } },
 				{ "pokemon_v2_ability": { "name": "sticky-hold" } },
 				{ "pokemon_v2_ability": { "name": "poison-touch" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "poison" }, "pokemon_id": 89 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
@@ -1581,6 +2192,9 @@
 				{ "pokemon_v2_ability": { "name": "shell-armor" } },
 				{ "pokemon_v2_ability": { "name": "skill-link" } },
 				{ "pokemon_v2_ability": { "name": "overcoat" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 90 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
@@ -1599,6 +2213,15 @@
 				{ "pokemon_v2_ability": { "name": "shell-armor" } },
 				{ "pokemon_v2_ability": { "name": "skill-link" } },
 				{ "pokemon_v2_ability": { "name": "overcoat" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "water" },
+						"pokemon_id": 91
+					},
+					{ "pokemon_v2_type": { "name": "ice" }, "pokemon_id": 91 }
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
@@ -1615,6 +2238,18 @@
 			"weight": 1,
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "levitate" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "ghost" },
+						"pokemon_id": 92
+					},
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 92
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
@@ -1631,6 +2266,18 @@
 			"weight": 1,
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "levitate" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "ghost" },
+						"pokemon_id": 93
+					},
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 93
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
@@ -1647,6 +2294,18 @@
 			"weight": 405,
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "cursed-body" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "ghost" },
+						"pokemon_id": 94
+					},
+					{
+						"pokemon_v2_type": { "name": "poison" },
+						"pokemon_id": 94
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
@@ -1665,6 +2324,15 @@
 				{ "pokemon_v2_ability": { "name": "sturdy" } },
 				{ "pokemon_v2_ability": { "name": "rock-head" } },
 				{ "pokemon_v2_ability": { "name": "weak-armor" } }
+			],
+			"type": [
+				[
+					{ "pokemon_v2_type": { "name": "rock" }, "pokemon_id": 95 },
+					{
+						"pokemon_v2_type": { "name": "ground" },
+						"pokemon_id": 95
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
@@ -1683,6 +2351,9 @@
 				{ "pokemon_v2_ability": { "name": "insomnia" } },
 				{ "pokemon_v2_ability": { "name": "inner-focus" } },
 				{ "pokemon_v2_ability": { "name": "forewarn" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "psychic" }, "pokemon_id": 96 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
@@ -1701,6 +2372,9 @@
 				{ "pokemon_v2_ability": { "name": "insomnia" } },
 				{ "pokemon_v2_ability": { "name": "inner-focus" } },
 				{ "pokemon_v2_ability": { "name": "forewarn" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "psychic" }, "pokemon_id": 97 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
@@ -1719,6 +2393,9 @@
 				{ "pokemon_v2_ability": { "name": "hyper-cutter" } },
 				{ "pokemon_v2_ability": { "name": "shell-armor" } },
 				{ "pokemon_v2_ability": { "name": "sheer-force" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 98 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
@@ -1737,6 +2414,9 @@
 				{ "pokemon_v2_ability": { "name": "hyper-cutter" } },
 				{ "pokemon_v2_ability": { "name": "shell-armor" } },
 				{ "pokemon_v2_ability": { "name": "sheer-force" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 99 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
@@ -1755,6 +2435,14 @@
 				{ "pokemon_v2_ability": { "name": "static" } },
 				{ "pokemon_v2_ability": { "name": "soundproof" } },
 				{ "pokemon_v2_ability": { "name": "aftermath" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "electric" },
+						"pokemon_id": 100
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
@@ -1773,6 +2461,14 @@
 				{ "pokemon_v2_ability": { "name": "static" } },
 				{ "pokemon_v2_ability": { "name": "soundproof" } },
 				{ "pokemon_v2_ability": { "name": "aftermath" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "electric" },
+						"pokemon_id": 101
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
@@ -1790,6 +2486,18 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "chlorophyll" } },
 				{ "pokemon_v2_ability": { "name": "harvest" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "grass" },
+						"pokemon_id": 102
+					},
+					{
+						"pokemon_v2_type": { "name": "psychic" },
+						"pokemon_id": 102
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
@@ -1807,6 +2515,18 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "chlorophyll" } },
 				{ "pokemon_v2_ability": { "name": "harvest" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "grass" },
+						"pokemon_id": 103
+					},
+					{
+						"pokemon_v2_type": { "name": "psychic" },
+						"pokemon_id": 103
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
@@ -1825,6 +2545,9 @@
 				{ "pokemon_v2_ability": { "name": "battle-armor" } },
 				{ "pokemon_v2_ability": { "name": "lightning-rod" } },
 				{ "pokemon_v2_ability": { "name": "rock-head" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "ground" }, "pokemon_id": 104 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
@@ -1843,6 +2566,9 @@
 				{ "pokemon_v2_ability": { "name": "battle-armor" } },
 				{ "pokemon_v2_ability": { "name": "lightning-rod" } },
 				{ "pokemon_v2_ability": { "name": "rock-head" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "ground" }, "pokemon_id": 105 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
@@ -1861,6 +2587,14 @@
 				{ "pokemon_v2_ability": { "name": "limber" } },
 				{ "pokemon_v2_ability": { "name": "unburden" } },
 				{ "pokemon_v2_ability": { "name": "reckless" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "fighting" },
+						"pokemon_id": 106
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
@@ -1879,6 +2613,14 @@
 				{ "pokemon_v2_ability": { "name": "inner-focus" } },
 				{ "pokemon_v2_ability": { "name": "keen-eye" } },
 				{ "pokemon_v2_ability": { "name": "iron-fist" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "fighting" },
+						"pokemon_id": 107
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
@@ -1897,6 +2639,9 @@
 				{ "pokemon_v2_ability": { "name": "oblivious" } },
 				{ "pokemon_v2_ability": { "name": "cloud-nine" } },
 				{ "pokemon_v2_ability": { "name": "own-tempo" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "normal" }, "pokemon_id": 108 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
@@ -1915,6 +2660,9 @@
 				{ "pokemon_v2_ability": { "name": "stench" } },
 				{ "pokemon_v2_ability": { "name": "levitate" } },
 				{ "pokemon_v2_ability": { "name": "neutralizing-gas" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "poison" }, "pokemon_id": 109 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
@@ -1933,6 +2681,9 @@
 				{ "pokemon_v2_ability": { "name": "stench" } },
 				{ "pokemon_v2_ability": { "name": "levitate" } },
 				{ "pokemon_v2_ability": { "name": "neutralizing-gas" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "poison" }, "pokemon_id": 110 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
@@ -1951,6 +2702,15 @@
 				{ "pokemon_v2_ability": { "name": "lightning-rod" } },
 				{ "pokemon_v2_ability": { "name": "rock-head" } },
 				{ "pokemon_v2_ability": { "name": "reckless" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "ground" },
+						"pokemon_id": 111
+					},
+					{ "pokemon_v2_type": { "name": "rock" }, "pokemon_id": 111 }
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
@@ -1969,6 +2729,15 @@
 				{ "pokemon_v2_ability": { "name": "lightning-rod" } },
 				{ "pokemon_v2_ability": { "name": "rock-head" } },
 				{ "pokemon_v2_ability": { "name": "reckless" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "ground" },
+						"pokemon_id": 112
+					},
+					{ "pokemon_v2_type": { "name": "rock" }, "pokemon_id": 112 }
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
@@ -1987,6 +2756,9 @@
 				{ "pokemon_v2_ability": { "name": "natural-cure" } },
 				{ "pokemon_v2_ability": { "name": "serene-grace" } },
 				{ "pokemon_v2_ability": { "name": "healer" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "normal" }, "pokemon_id": 113 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
@@ -2005,6 +2777,9 @@
 				{ "pokemon_v2_ability": { "name": "chlorophyll" } },
 				{ "pokemon_v2_ability": { "name": "leaf-guard" } },
 				{ "pokemon_v2_ability": { "name": "regenerator" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "grass" }, "pokemon_id": 114 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
@@ -2023,6 +2798,9 @@
 				{ "pokemon_v2_ability": { "name": "inner-focus" } },
 				{ "pokemon_v2_ability": { "name": "early-bird" } },
 				{ "pokemon_v2_ability": { "name": "scrappy" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "normal" }, "pokemon_id": 115 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
@@ -2041,6 +2819,9 @@
 				{ "pokemon_v2_ability": { "name": "damp" } },
 				{ "pokemon_v2_ability": { "name": "swift-swim" } },
 				{ "pokemon_v2_ability": { "name": "sniper" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 116 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
@@ -2059,6 +2840,9 @@
 				{ "pokemon_v2_ability": { "name": "damp" } },
 				{ "pokemon_v2_ability": { "name": "poison-point" } },
 				{ "pokemon_v2_ability": { "name": "sniper" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 117 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
@@ -2077,6 +2861,9 @@
 				{ "pokemon_v2_ability": { "name": "lightning-rod" } },
 				{ "pokemon_v2_ability": { "name": "swift-swim" } },
 				{ "pokemon_v2_ability": { "name": "water-veil" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 118 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
@@ -2095,6 +2882,9 @@
 				{ "pokemon_v2_ability": { "name": "lightning-rod" } },
 				{ "pokemon_v2_ability": { "name": "swift-swim" } },
 				{ "pokemon_v2_ability": { "name": "water-veil" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 119 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
@@ -2113,6 +2903,9 @@
 				{ "pokemon_v2_ability": { "name": "natural-cure" } },
 				{ "pokemon_v2_ability": { "name": "illuminate" } },
 				{ "pokemon_v2_ability": { "name": "analytic" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 120 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
@@ -2131,6 +2924,18 @@
 				{ "pokemon_v2_ability": { "name": "natural-cure" } },
 				{ "pokemon_v2_ability": { "name": "illuminate" } },
 				{ "pokemon_v2_ability": { "name": "analytic" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "water" },
+						"pokemon_id": 121
+					},
+					{
+						"pokemon_v2_type": { "name": "psychic" },
+						"pokemon_id": 121
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
@@ -2149,6 +2954,18 @@
 				{ "pokemon_v2_ability": { "name": "soundproof" } },
 				{ "pokemon_v2_ability": { "name": "technician" } },
 				{ "pokemon_v2_ability": { "name": "filter" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "psychic" },
+						"pokemon_id": 122
+					},
+					{
+						"pokemon_v2_type": { "name": "fairy" },
+						"pokemon_id": 122
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
@@ -2167,6 +2984,15 @@
 				{ "pokemon_v2_ability": { "name": "swarm" } },
 				{ "pokemon_v2_ability": { "name": "steadfast" } },
 				{ "pokemon_v2_ability": { "name": "technician" } }
+			],
+			"type": [
+				[
+					{ "pokemon_v2_type": { "name": "bug" }, "pokemon_id": 123 },
+					{
+						"pokemon_v2_type": { "name": "flying" },
+						"pokemon_id": 123
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
@@ -2185,6 +3011,15 @@
 				{ "pokemon_v2_ability": { "name": "oblivious" } },
 				{ "pokemon_v2_ability": { "name": "dry-skin" } },
 				{ "pokemon_v2_ability": { "name": "forewarn" } }
+			],
+			"type": [
+				[
+					{ "pokemon_v2_type": { "name": "ice" }, "pokemon_id": 124 },
+					{
+						"pokemon_v2_type": { "name": "psychic" },
+						"pokemon_id": 124
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
@@ -2202,6 +3037,14 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "static" } },
 				{ "pokemon_v2_ability": { "name": "vital-spirit" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "electric" },
+						"pokemon_id": 125
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
@@ -2219,6 +3062,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "flame-body" } },
 				{ "pokemon_v2_ability": { "name": "vital-spirit" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "fire" }, "pokemon_id": 126 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
@@ -2237,6 +3083,9 @@
 				{ "pokemon_v2_ability": { "name": "hyper-cutter" } },
 				{ "pokemon_v2_ability": { "name": "mold-breaker" } },
 				{ "pokemon_v2_ability": { "name": "moxie" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "bug" }, "pokemon_id": 127 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
@@ -2255,6 +3104,9 @@
 				{ "pokemon_v2_ability": { "name": "intimidate" } },
 				{ "pokemon_v2_ability": { "name": "anger-point" } },
 				{ "pokemon_v2_ability": { "name": "sheer-force" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "normal" }, "pokemon_id": 128 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
@@ -2272,6 +3124,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "swift-swim" } },
 				{ "pokemon_v2_ability": { "name": "rattled" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 129 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
@@ -2289,6 +3144,18 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "intimidate" } },
 				{ "pokemon_v2_ability": { "name": "moxie" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "water" },
+						"pokemon_id": 130
+					},
+					{
+						"pokemon_v2_type": { "name": "flying" },
+						"pokemon_id": 130
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
@@ -2307,6 +3174,15 @@
 				{ "pokemon_v2_ability": { "name": "water-absorb" } },
 				{ "pokemon_v2_ability": { "name": "shell-armor" } },
 				{ "pokemon_v2_ability": { "name": "hydration" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "water" },
+						"pokemon_id": 131
+					},
+					{ "pokemon_v2_type": { "name": "ice" }, "pokemon_id": 131 }
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
@@ -2324,6 +3200,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "limber" } },
 				{ "pokemon_v2_ability": { "name": "imposter" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "normal" }, "pokemon_id": 132 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
@@ -2342,6 +3221,9 @@
 				{ "pokemon_v2_ability": { "name": "run-away" } },
 				{ "pokemon_v2_ability": { "name": "adaptability" } },
 				{ "pokemon_v2_ability": { "name": "anticipation" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "normal" }, "pokemon_id": 133 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
@@ -2359,6 +3241,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "water-absorb" } },
 				{ "pokemon_v2_ability": { "name": "hydration" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 134 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
@@ -2376,6 +3261,14 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "volt-absorb" } },
 				{ "pokemon_v2_ability": { "name": "quick-feet" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "electric" },
+						"pokemon_id": 135
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
@@ -2393,6 +3286,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "flash-fire" } },
 				{ "pokemon_v2_ability": { "name": "guts" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "fire" }, "pokemon_id": 136 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
@@ -2411,6 +3307,9 @@
 				{ "pokemon_v2_ability": { "name": "trace" } },
 				{ "pokemon_v2_ability": { "name": "download" } },
 				{ "pokemon_v2_ability": { "name": "analytic" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "normal" }, "pokemon_id": 137 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
@@ -2429,6 +3328,18 @@
 				{ "pokemon_v2_ability": { "name": "swift-swim" } },
 				{ "pokemon_v2_ability": { "name": "shell-armor" } },
 				{ "pokemon_v2_ability": { "name": "weak-armor" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "rock" },
+						"pokemon_id": 138
+					},
+					{
+						"pokemon_v2_type": { "name": "water" },
+						"pokemon_id": 138
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
@@ -2447,6 +3358,18 @@
 				{ "pokemon_v2_ability": { "name": "swift-swim" } },
 				{ "pokemon_v2_ability": { "name": "shell-armor" } },
 				{ "pokemon_v2_ability": { "name": "weak-armor" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "rock" },
+						"pokemon_id": 139
+					},
+					{
+						"pokemon_v2_type": { "name": "water" },
+						"pokemon_id": 139
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
@@ -2465,6 +3388,18 @@
 				{ "pokemon_v2_ability": { "name": "battle-armor" } },
 				{ "pokemon_v2_ability": { "name": "swift-swim" } },
 				{ "pokemon_v2_ability": { "name": "weak-armor" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "rock" },
+						"pokemon_id": 140
+					},
+					{
+						"pokemon_v2_type": { "name": "water" },
+						"pokemon_id": 140
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
@@ -2483,6 +3418,18 @@
 				{ "pokemon_v2_ability": { "name": "battle-armor" } },
 				{ "pokemon_v2_ability": { "name": "swift-swim" } },
 				{ "pokemon_v2_ability": { "name": "weak-armor" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "rock" },
+						"pokemon_id": 141
+					},
+					{
+						"pokemon_v2_type": { "name": "water" },
+						"pokemon_id": 141
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
@@ -2501,6 +3448,18 @@
 				{ "pokemon_v2_ability": { "name": "pressure" } },
 				{ "pokemon_v2_ability": { "name": "rock-head" } },
 				{ "pokemon_v2_ability": { "name": "unnerve" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "rock" },
+						"pokemon_id": 142
+					},
+					{
+						"pokemon_v2_type": { "name": "flying" },
+						"pokemon_id": 142
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
@@ -2519,6 +3478,9 @@
 				{ "pokemon_v2_ability": { "name": "immunity" } },
 				{ "pokemon_v2_ability": { "name": "thick-fat" } },
 				{ "pokemon_v2_ability": { "name": "gluttony" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "normal" }, "pokemon_id": 143 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
@@ -2536,6 +3498,15 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "pressure" } },
 				{ "pokemon_v2_ability": { "name": "snow-cloak" } }
+			],
+			"type": [
+				[
+					{ "pokemon_v2_type": { "name": "ice" }, "pokemon_id": 144 },
+					{
+						"pokemon_v2_type": { "name": "flying" },
+						"pokemon_id": 144
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
@@ -2553,6 +3524,18 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "static" } },
 				{ "pokemon_v2_ability": { "name": "pressure" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "electric" },
+						"pokemon_id": 145
+					},
+					{
+						"pokemon_v2_type": { "name": "flying" },
+						"pokemon_id": 145
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
@@ -2570,6 +3553,18 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "pressure" } },
 				{ "pokemon_v2_ability": { "name": "flame-body" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "fire" },
+						"pokemon_id": 146
+					},
+					{
+						"pokemon_v2_type": { "name": "flying" },
+						"pokemon_id": 146
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
@@ -2587,6 +3582,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "shed-skin" } },
 				{ "pokemon_v2_ability": { "name": "marvel-scale" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "dragon" }, "pokemon_id": 147 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
@@ -2604,6 +3602,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "shed-skin" } },
 				{ "pokemon_v2_ability": { "name": "marvel-scale" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "dragon" }, "pokemon_id": 148 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
@@ -2621,6 +3622,18 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "inner-focus" } },
 				{ "pokemon_v2_ability": { "name": "multiscale" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "dragon" },
+						"pokemon_id": 149
+					},
+					{
+						"pokemon_v2_type": { "name": "flying" },
+						"pokemon_id": 149
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
@@ -2638,6 +3651,14 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "pressure" } },
 				{ "pokemon_v2_ability": { "name": "unnerve" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "psychic" },
+						"pokemon_id": 150
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
@@ -2654,6 +3675,14 @@
 			"weight": 40,
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "synchronize" } }
+			],
+			"type": [
+				[
+					{
+						"pokemon_v2_type": { "name": "psychic" },
+						"pokemon_id": 151
+					}
+				]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
@@ -2671,6 +3700,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "overgrow" } },
 				{ "pokemon_v2_ability": { "name": "leaf-guard" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "grass" }, "pokemon_id": 152 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png",
@@ -2688,6 +3720,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "overgrow" } },
 				{ "pokemon_v2_ability": { "name": "leaf-guard" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "grass" }, "pokemon_id": 153 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png",
@@ -2705,6 +3740,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "overgrow" } },
 				{ "pokemon_v2_ability": { "name": "leaf-guard" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "grass" }, "pokemon_id": 154 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png",
@@ -2722,6 +3760,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "flash-fire" } },
 				{ "pokemon_v2_ability": { "name": "blaze" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "fire" }, "pokemon_id": 155 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png",
@@ -2739,6 +3780,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "flash-fire" } },
 				{ "pokemon_v2_ability": { "name": "blaze" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "fire" }, "pokemon_id": 156 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png",
@@ -2756,6 +3800,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "flash-fire" } },
 				{ "pokemon_v2_ability": { "name": "blaze" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "fire" }, "pokemon_id": 157 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png",
@@ -2773,6 +3820,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "torrent" } },
 				{ "pokemon_v2_ability": { "name": "sheer-force" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 158 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png",
@@ -2790,6 +3840,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "torrent" } },
 				{ "pokemon_v2_ability": { "name": "sheer-force" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 159 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png",
@@ -2807,6 +3860,9 @@
 			"pokemon_v2_pokemonabilities": [
 				{ "pokemon_v2_ability": { "name": "torrent" } },
 				{ "pokemon_v2_ability": { "name": "sheer-force" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "water" }, "pokemon_id": 160 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png",
@@ -2825,6 +3881,9 @@
 				{ "pokemon_v2_ability": { "name": "run-away" } },
 				{ "pokemon_v2_ability": { "name": "keen-eye" } },
 				{ "pokemon_v2_ability": { "name": "frisk" } }
+			],
+			"type": [
+				[{ "pokemon_v2_type": { "name": "normal" }, "pokemon_id": 161 }]
 			]
 		},
 		"imgURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png",
