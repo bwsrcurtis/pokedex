@@ -6,19 +6,22 @@ let types = []
 let abilities = []
 updatedPokeData.map((x, id) => {
     if (updatedPokeData[id].type) {
-    for (let i = 0; i < updatedPokeData[id].type.length; i++) {
-        types = [...types, (updatedPokeData[id].type[i].pokemon_v2_type.name)]
-        
-    }}
+        for (let i = 0; i < updatedPokeData[id].type.length; i++) {
+
+            types = [...types, (updatedPokeData[id].type[i].pokemon_v2_type.name)]
+
+        }
+    }
     x.type = types
     types = []
     if (updatedPokeData[id].abilities) {
         for (let i = 0; i < updatedPokeData[id].abilities.length; i++) {
             abilities = [...abilities, (updatedPokeData[id].abilities[i].pokemon_v2_ability.name)]
-            
-        }}
-        x.abilities = abilities
-        abilities = []
+
+        }
+    }
+    x.abilities = abilities
+    abilities = []
 })
 
 console.log(updatedPokeData[0])
