@@ -2,19 +2,23 @@ import pokeData from './pokedata.json' assert { type: 'json' };
 import * as fs from 'fs';
 let updatedPokeData = pokeData
 
-
-updatedPokeData.map((x) => {
-    // console.log(x)
-    x.name = x.pokemon_v2_pokemon.name
-    x.base_experience = x.pokemon_v2_pokemon.base_experience
-    x.height = x.pokemon_v2_pokemon.height
-    x.weight = x.pokemon_v2_pokemon.weight
-    x.is_default = x.pokemon_v2_pokemon.is_default
-    x.abilities = x.pokemon_v2_pokemon.pokemon_v2_pokemonabilities
-    x.type = x.pokemon_v2_pokemon.type
-})
-updatedPokeData.forEach((e) => {
-    delete e.pokemon_v2_pokemon
+let types = []
+let abilities = []
+updatedPokeData.map((x, id) => {
+    if (updatedPokeData[id].type) {
+    for (let i = 0; i < updatedPokeData[id].type.length; i++) {
+        types = [...types, (updatedPokeData[id].type[i].pokemon_v2_type.name)]
+        
+    }}
+    x.type = types
+    types = []
+    if (updatedPokeData[id].abilities) {
+        for (let i = 0; i < updatedPokeData[id].abilities.length; i++) {
+            abilities = [...abilities, (updatedPokeData[id].abilities[i].pokemon_v2_ability.name)]
+            
+        }}
+        x.abilities = abilities
+        abilities = []
 })
 
 console.log(updatedPokeData[0])
