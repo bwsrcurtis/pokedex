@@ -1,10 +1,10 @@
 import React from 'react'
 
-const PokeDesc = ({ pokeArr }) => {
+const PokeDesc = ({ pokeArr, selectedPokemon }) => {
     return (
-        <div className={`pokemon-desc-div ${pokeArr[0].type[0]}`}>
+        <div className={`pokemon-desc-div ${pokeArr[selectedPokemon].type[0]}`}>
             <h1>Pokedex Description</h1>
-            <h3>{pokeArr[0].pokedexDescription}</h3>
+            <h3>{pokeArr[selectedPokemon].pokedexDescription}</h3>
         </div>
     )
 }

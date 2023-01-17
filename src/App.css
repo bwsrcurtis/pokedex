@@ -39,9 +39,8 @@
 }
 
 .poke-img {
-	width: 150%;
+	width: 95%;
 	height: auto;
-	transform: translateX(-12.5%) translateY(-12.5%);
 	filter: drop-shadow(5px 5px 3px rgb(109, 99, 99));
 }
 

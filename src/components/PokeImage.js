@@ -1,9 +1,9 @@
 import React from 'react'
 
-const PokeImage = ({ pokeArr }) => {
+const PokeImage = ({ pokeArr, selectedPokemon }) => {
     return (
         <div className='image-div'>
-            <img className='poke-img' src={pokeArr[0].imgURL} alt={pokeArr[0].name}></img>
+            <img className='poke-img' src={pokeArr[selectedPokemon].imgURL} alt={pokeArr[selectedPokemon].name}></img>
         </div>
     )
 }
