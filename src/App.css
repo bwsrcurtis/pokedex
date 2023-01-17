@@ -1,9 +1,6 @@
-body {
-	color: white;
-}
-
 .App {
 	width: 100vw;
+	height: 100vh;
 	margin: 0 auto;
 }
 
@@ -13,11 +10,139 @@ body {
 
 .pokedex {
 	width: 80%;
-	height: 85vh;
+	height: 90vh;
 	margin: 0 auto;
-	background-color: red;
+	background-color: rgb(122, 18, 18);
 	left: 0;
 	right: 0;
-	position: absolute;
+	/* position: absolute; */
 	border-radius: 3%;
+}
+
+.pokedex-grid {
+	display: grid;
+	height: 85vh;
+	grid-template-rows: 1fr 1fr 2fr;
+	grid-template-columns: 1fr 2fr;
+}
+
+.image-div {
+	background-color: rgb(66, 66, 66);
+	width: 30vw;
+	height: 30vw;
+	border-radius: 5%;
+	margin: 0 1rem 0 1rem;
+	filter: drop-shadow(5px 5px 3px black);
+}
+
+.poke-img {
+	width: 30vw;
+	height: auto;
+	filter: drop-shadow(5px 5px 3px rgb(109, 99, 99));
+}
+
+.pokemon-name-list-div {
+	background-color: black;
+	grid-column: 2 / 3;
+	grid-row: 1 / 3;
+	margin: 0 1rem 0 0;
+	max-height: fit-content;
+	padding-bottom: 0.5rem;
+}
+
+.pokemon-list-div {
+	max-height: calc(42.5vh - 4.5rem);
+	overflow-y: scroll;
+	margin: 0;
+}
+
+.choose {
+	font-size: 1rem;
+	text-align: center;
+	margin: 0.25rem 0 0.25rem 0;
+	position: sticky;
+}
+
+.pokemon-list {
+	list-style: none;
+	text-align: left;
+	margin: 0;
+	text-align: center;
+	border-radius: 15%;
+}
+
+.normal {
+	background-color: #c5beb5;
+}
+
+.fire {
+	background-color: #ea410b;
+}
+
+.water {
+	background-color: #1e7edd;
+}
+
+.grass {
+	background-color: #6dbf31;
+}
+
+.electric {
+	background-color: #fabb1c;
+}
+
+.ice {
+	background-color: #a0e5fb;
+}
+
+.fighting {
+	background-color: #5f2114;
+}
+
+.poison {
+	background-color: #914493;
+}
+
+.ground {
+	background-color: #d1b25a;
+}
+
+.flying {
+	background-color: #5c73d4;
+}
+
+.psychic {
+	background-color: #e8497f;
+}
+
+.bug {
+	background-color: #8b990e;
+}
+
+.rock {
+	background-color: #b6a257;
+}
+
+.ghost {
+	background-color: #5c5cae;
+}
+
+.dark {
+	background-color: #3e2d23;
+}
+
+.dragon {
+	background-color: #735cda;
+}
+
+.steel {
+	background-color: #a3a2b2;
+}
+
+.fairy {
+	background-color: #f3b4f2;
+}
+
+.pokestats-div {
+	margin: 0 1rem;
 }
