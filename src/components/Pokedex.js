@@ -26,7 +26,9 @@ const Pokedex = () => {
         let filteredArr = initPokeArr.filter((x) => {
             return x.name === search ||
                 x.type[0] === search ||
-                x.type[1] === search;
+                x.type[1] === search ||
+                x.abilities[0] === search ||
+                x.abilities[1] === search;
         })
         if (filteredArr.length > 0) {
             setPokeArr(filteredArr)
@@ -40,7 +42,7 @@ const Pokedex = () => {
 
     return (
         <div className='pokedex'>
-            <h1 className='title'>Réact Pokédex</h1>
+            <h1 className='title'>Pokédex</h1>
             <div className='pokedex-grid'>
                 <PokeImage pokeArr={pokeArr} selectedPokemon={selectedPokemon} />
                 <PokeList pokeArr={pokeArr} selectPokemon={selectPokemon} filter={filterPokeArr} />

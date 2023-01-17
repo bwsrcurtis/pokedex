@@ -10,6 +10,8 @@
 	padding: 1rem 0 0 0;
 	font-family: "Press Start 2P", "cursive";
 	font-size: 1.5rem;
+	text-shadow: 0.07em 0 black, 0 0.07em black, -0.07em 0 black,
+		0 -0.07em black;
 }
 
 .pokedex {
@@ -42,6 +44,7 @@
 	width: 95%;
 	height: auto;
 	filter: drop-shadow(5px 5px 3px rgb(109, 99, 99));
+	margin: 0 auto;
 }
 
 .pokemon-name-list-div {
@@ -76,11 +79,12 @@
 
 .pokestats-div {
 	margin: 0 1rem;
-	transform: translateY(-15%);
 }
 
 .pokestats-div > h3 {
 	margin-top: 0;
+	text-shadow: 0.07em 0 black, 0 0.07em black, -0.07em 0 black,
+		0 -0.07em black;
 }
 
 .pokemon-desc-div {
@@ -98,6 +102,14 @@
 
 .pokemon-desc-div > h1 {
 	margin: 0;
+	text-shadow: 0.07em 0 black, 0 0.07em black, -0.07em 0 black,
+		0 -0.07em black;
+}
+
+.pokemon-desc-div > h3 {
+	text-shadow: 0.07em 0 black, 0 0.07em black, -0.07em 0 black,
+		0 -0.07em black;
+	font-size: 1rem;
 }
 
 .normal {
