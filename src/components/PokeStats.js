@@ -7,10 +7,11 @@ const PokeStats = ({ pokeArr }) => {
 
         <div className='pokestats-div'>
             <h3>{capitalize(pokeArr[0].name)} Stats</h3>
+            <p>Type: {`${capitalize(pokeArr[8].type[0])}, ${capitalize(pokeArr[8].type[1])}`}</p>
+            <p>Abilities: {`${capitalize(pokeArr[0].abilities[0])}, ${capitalize(pokeArr[0].abilities[1])}`}</p>
             <p>Height: {pokeArr[0].height}</p>
             <p>Weight: {pokeArr[0].weight}</p>
-            <p>Abilities: {`${capitalize(pokeArr[0].abilities[0])}, ${capitalize(pokeArr[0].abilities[1])}`}</p>
-            <p>Type: {`${capitalize(pokeArr[8].type[0])}, ${capitalize(pokeArr[8].type[1])}`}</p>
+            <p>Base Experience: {pokeArr[0].base_experience}</p>
 
         </div>
     )
