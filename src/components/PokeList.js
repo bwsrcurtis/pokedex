@@ -5,9 +5,11 @@ const capitalize = s => (s && s[0].toUpperCase() + s.slice(1)) || ""
 const PokeList = ({ pokeArr }) => {
     return (
         <div className='pokemon-name-list-div'>
-            <p className='choose'>CHOOSE NEXT POKEMON</p>
+            <div className='search-div'>
+                <input type='text' placeholder='Pokemon Name or Type'></input>
+            </div>
             <div className='pokemon-list-div'>
-                <p className='pokemon-list normal'>{capitalize(pokeArr[0].name)}</p>
+                <p className='pokemon-list normal'>{`(${pokeArr[0].id}) ${capitalize(pokeArr[0].name)}`}</p>
                 <p className='pokemon-list fire'>{capitalize(pokeArr[0].name)}</p>
                 <p className='pokemon-list water'>{capitalize(pokeArr[0].name)}</p>
                 <p className='pokemon-list grass'>{capitalize(pokeArr[0].name)}</p>

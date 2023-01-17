@@ -3,6 +3,7 @@ import { pokeData } from '../assets/pokedata.js'
 import PokeImage from './PokeImage.js';
 import PokeList from './PokeList.js';
 import PokeStats from './PokeStats.js';
+import PokeDesc from './PokeDesc.js';
 
 
 let pokeArr = pokeData;
@@ -17,6 +18,7 @@ const Pokedex = () => {
                 <PokeImage pokeArr={pokeArr} />
                 <PokeList pokeArr={pokeArr} />
                 <PokeStats pokeArr={pokeArr} />
+                <PokeDesc pokeArr={pokeArr} />
             </div>
         </div>
     );
