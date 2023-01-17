@@ -9,35 +9,7 @@ const PokeList = ({ pokeArr }) => {
                 <input type='text' placeholder='Pokemon Name or Type'></input>
             </div>
             <div className='pokemon-list-div'>
-                <p className='pokemon-list normal'>{`(${pokeArr[0].id}) ${capitalize(pokeArr[0].name)}`}</p>
-                <p className='pokemon-list fire'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list water'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list grass'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list electric'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list ice'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list fighting'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list poison'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list ground'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list flying'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list psychic'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list bug'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list rock'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list ghost'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list dark'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list dragon'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list steel'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list fairy'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list'>{capitalize(pokeArr[0].name)}</p>
-                <p className='pokemon-list'>{capitalize(pokeArr[0].name)}</p>
-
+                {pokeArr.map((x) => <p key={x.id} className={`pokemon-list ${x.type[0]}`}>{`${capitalize(x.name)}`}</p>)}
             </div>
         </div>
     )
