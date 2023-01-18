@@ -13,11 +13,14 @@ const Pokedex = () => {
 
     const [selectedPokemon, setSelectedPokemon] = useState(0)
 
+    const [active, setActive] = useState(true)
+
     const selectPokemon = (e) => {
         // set the index of the selected pokemon
         let name = e.target.innerText.toLowerCase()
         let index = pokeArr.findIndex(x => x.name === name)
         setSelectedPokemon(index)
+        setActive(true)
     }
 
     const filterPokeArr = (e) => {
@@ -40,11 +43,18 @@ const Pokedex = () => {
         }
     }
 
+
+    const triggerFade = () => {
+        setActive(prevState => {
+            return !prevState
+        })
+    }
+
     return (
         <div className='pokedex'>
             <h1 className='title'>Pokédex</h1>
             <div className='pokedex-grid'>
-                <PokeImage pokeArr={pokeArr} selectedPokemon={selectedPokemon} />
+                <PokeImage pokeArr={pokeArr} selectedPokemon={selectedPokemon} active={active} triggerFade={triggerFade} />
                 <PokeList pokeArr={pokeArr} selectPokemon={selectPokemon} filter={filterPokeArr} />
                 <PokeStats pokeArr={pokeArr} selectedPokemon={selectedPokemon} />
                 <PokeDesc pokeArr={pokeArr} selectedPokemon={selectedPokemon} />
