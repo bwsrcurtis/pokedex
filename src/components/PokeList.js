@@ -6,7 +6,7 @@ const PokeList = ({ pokeArr, selectPokemon, filter }) => {
     return (
         <div className='pokemon-name-list-div'>
             <div className='search-div'>
-                <input onChange={filter} type='text' placeholder='Name, Type, or Ability'></input>
+                <input onChange={filter} type='text' placeholder='Name, Type, Ability'></input>
             </div>
             <div className='pokemon-list-div'>
                 {pokeArr.map((x) => <p onClick={selectPokemon} key={x.id} className={`pokemon-list ${x.type[0]}`}>{`${capitalize(x.name)}`}</p>)}
