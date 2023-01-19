@@ -1941,7 +1941,7 @@ export const pokeData = [
 		"weight": 325,
 		"is_default": true,
 		"abilities": ["run-away", "keen-eye", "frisk"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 163,
@@ -1953,7 +1953,7 @@ export const pokeData = [
 		"weight": 212,
 		"is_default": true,
 		"abilities": ["insomnia", "keen-eye", "tinted-lens"],
-		"type": []
+		"type": ["normal", "flying"]
 	},
 	{
 		"id": 164,
@@ -1965,7 +1965,7 @@ export const pokeData = [
 		"weight": 408,
 		"is_default": true,
 		"abilities": ["insomnia", "keen-eye", "tinted-lens"],
-		"type": []
+		"type": ["normal", "flying"]
 	},
 	{
 		"id": 165,
@@ -1977,7 +1977,7 @@ export const pokeData = [
 		"weight": 108,
 		"is_default": true,
 		"abilities": ["early-bird", "swarm", "rattled"],
-		"type": []
+		"type": ["bug", "flying"]
 	},
 	{
 		"id": 166,
@@ -1989,7 +1989,7 @@ export const pokeData = [
 		"weight": 356,
 		"is_default": true,
 		"abilities": ["early-bird", "swarm", "iron-fist"],
-		"type": []
+		"type": ["bug", "flying"]
 	},
 	{
 		"id": 167,
@@ -2001,7 +2001,7 @@ export const pokeData = [
 		"weight": 85,
 		"is_default": true,
 		"abilities": ["insomnia", "swarm", "sniper"],
-		"type": []
+		"type": ["bug", "poison"]
 	},
 	{
 		"id": 168,
@@ -2013,7 +2013,7 @@ export const pokeData = [
 		"weight": 335,
 		"is_default": true,
 		"abilities": ["insomnia", "swarm", "sniper"],
-		"type": []
+		"type": ["bug", "poison"]
 	},
 	{
 		"id": 169,
@@ -2025,7 +2025,7 @@ export const pokeData = [
 		"weight": 750,
 		"is_default": true,
 		"abilities": ["inner-focus", "infiltrator"],
-		"type": []
+		"type": ["poison", "flying"]
 	},
 	{
 		"id": 170,
@@ -2037,7 +2037,7 @@ export const pokeData = [
 		"weight": 120,
 		"is_default": true,
 		"abilities": ["volt-absorb", "water-absorb", "illuminate"],
-		"type": []
+		"type": ["water", "electric"]
 	},
 	{
 		"id": 171,
@@ -2049,7 +2049,7 @@ export const pokeData = [
 		"weight": 225,
 		"is_default": true,
 		"abilities": ["volt-absorb", "water-absorb", "illuminate"],
-		"type": []
+		"type": ["water", "electric"]
 	},
 	{
 		"id": 172,
@@ -2061,7 +2061,7 @@ export const pokeData = [
 		"weight": 20,
 		"is_default": true,
 		"abilities": ["static", "lightning-rod"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 173,
@@ -2073,7 +2073,7 @@ export const pokeData = [
 		"weight": 30,
 		"is_default": true,
 		"abilities": ["cute-charm", "magic-guard", "friend-guard"],
-		"type": []
+		"type": ["fairy"]
 	},
 	{
 		"id": 174,
@@ -2085,7 +2085,7 @@ export const pokeData = [
 		"weight": 10,
 		"is_default": true,
 		"abilities": ["cute-charm", "friend-guard", "competitive"],
-		"type": []
+		"type": ["normal", "fairy"]
 	},
 	{
 		"id": 175,
@@ -2097,7 +2097,7 @@ export const pokeData = [
 		"weight": 15,
 		"is_default": true,
 		"abilities": ["serene-grace", "hustle", "super-luck"],
-		"type": []
+		"type": ["fairy"]
 	},
 	{
 		"id": 176,
@@ -2109,7 +2109,7 @@ export const pokeData = [
 		"weight": 32,
 		"is_default": true,
 		"abilities": ["serene-grace", "hustle", "super-luck"],
-		"type": []
+		"type": ["fairy", "flying"]
 	},
 	{
 		"id": 177,
@@ -2121,7 +2121,7 @@ export const pokeData = [
 		"weight": 20,
 		"is_default": true,
 		"abilities": ["synchronize", "early-bird", "magic-bounce"],
-		"type": []
+		"type": ["psychic", "flying"]
 	},
 	{
 		"id": 178,
@@ -2133,7 +2133,7 @@ export const pokeData = [
 		"weight": 150,
 		"is_default": true,
 		"abilities": ["synchronize", "early-bird", "magic-bounce"],
-		"type": []
+		"type": ["psychic", "flying"]
 	},
 	{
 		"id": 179,
@@ -2145,7 +2145,7 @@ export const pokeData = [
 		"weight": 78,
 		"is_default": true,
 		"abilities": ["static", "plus"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 180,
@@ -2157,7 +2157,7 @@ export const pokeData = [
 		"weight": 133,
 		"is_default": true,
 		"abilities": ["static", "plus"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 181,
@@ -2169,7 +2169,7 @@ export const pokeData = [
 		"weight": 615,
 		"is_default": true,
 		"abilities": ["static", "plus"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 182,
@@ -2181,7 +2181,7 @@ export const pokeData = [
 		"weight": 58,
 		"is_default": true,
 		"abilities": ["chlorophyll", "healer"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 183,
@@ -2193,7 +2193,7 @@ export const pokeData = [
 		"weight": 85,
 		"is_default": true,
 		"abilities": ["huge-power", "thick-fat", "sap-sipper"],
-		"type": []
+		"type": ["water", "fairy"]
 	},
 	{
 		"id": 184,
@@ -2205,7 +2205,7 @@ export const pokeData = [
 		"weight": 285,
 		"is_default": true,
 		"abilities": ["huge-power", "thick-fat", "sap-sipper"],
-		"type": []
+		"type": ["water", "fairy"]
 	},
 	{
 		"id": 185,
@@ -2217,7 +2217,7 @@ export const pokeData = [
 		"weight": 380,
 		"is_default": true,
 		"abilities": ["sturdy", "rock-head", "rattled"],
-		"type": []
+		"type": ["rock"]
 	},
 	{
 		"id": 186,
@@ -2229,7 +2229,7 @@ export const pokeData = [
 		"weight": 339,
 		"is_default": true,
 		"abilities": ["drizzle", "damp", "water-absorb"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 187,
@@ -2241,7 +2241,7 @@ export const pokeData = [
 		"weight": 5,
 		"is_default": true,
 		"abilities": ["chlorophyll", "leaf-guard", "infiltrator"],
-		"type": []
+		"type": ["grass", "flying"]
 	},
 	{
 		"id": 188,
@@ -2253,7 +2253,7 @@ export const pokeData = [
 		"weight": 10,
 		"is_default": true,
 		"abilities": ["chlorophyll", "leaf-guard", "infiltrator"],
-		"type": []
+		"type": ["grass", "flying"]
 	},
 	{
 		"id": 189,
@@ -2265,7 +2265,7 @@ export const pokeData = [
 		"weight": 30,
 		"is_default": true,
 		"abilities": ["chlorophyll", "leaf-guard", "infiltrator"],
-		"type": []
+		"type": ["grass", "flying"]
 	},
 	{
 		"id": 190,
@@ -2277,7 +2277,7 @@ export const pokeData = [
 		"weight": 115,
 		"is_default": true,
 		"abilities": ["run-away", "pickup", "skill-link"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 191,
@@ -2289,7 +2289,7 @@ export const pokeData = [
 		"weight": 18,
 		"is_default": true,
 		"abilities": ["chlorophyll", "early-bird", "solar-power"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 192,
@@ -2301,7 +2301,7 @@ export const pokeData = [
 		"weight": 85,
 		"is_default": true,
 		"abilities": ["chlorophyll", "early-bird", "solar-power"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 193,
@@ -2313,7 +2313,7 @@ export const pokeData = [
 		"weight": 380,
 		"is_default": true,
 		"abilities": ["speed-boost", "compound-eyes", "frisk"],
-		"type": []
+		"type": ["bug", "flying"]
 	},
 	{
 		"id": 194,
@@ -2325,7 +2325,7 @@ export const pokeData = [
 		"weight": 85,
 		"is_default": true,
 		"abilities": ["damp", "water-absorb", "unaware"],
-		"type": []
+		"type": ["water", "ground"]
 	},
 	{
 		"id": 195,
@@ -2337,7 +2337,7 @@ export const pokeData = [
 		"weight": 750,
 		"is_default": true,
 		"abilities": ["damp", "water-absorb", "unaware"],
-		"type": []
+		"type": ["water", "ground"]
 	},
 	{
 		"id": 196,
@@ -2349,7 +2349,7 @@ export const pokeData = [
 		"weight": 265,
 		"is_default": true,
 		"abilities": ["synchronize", "magic-bounce"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 197,
@@ -2361,7 +2361,7 @@ export const pokeData = [
 		"weight": 270,
 		"is_default": true,
 		"abilities": ["synchronize", "inner-focus"],
-		"type": []
+		"type": ["dark"]
 	},
 	{
 		"id": 198,
@@ -2373,7 +2373,7 @@ export const pokeData = [
 		"weight": 21,
 		"is_default": true,
 		"abilities": ["insomnia", "super-luck", "prankster"],
-		"type": []
+		"type": ["dark", "flying"]
 	},
 	{
 		"id": 199,
@@ -2385,7 +2385,7 @@ export const pokeData = [
 		"weight": 795,
 		"is_default": true,
 		"abilities": ["oblivious", "own-tempo", "regenerator"],
-		"type": []
+		"type": ["water", "psychic"]
 	},
 	{
 		"id": 200,
@@ -2397,7 +2397,7 @@ export const pokeData = [
 		"weight": 10,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["ghost"]
 	},
 	{
 		"id": 201,
@@ -2409,7 +2409,7 @@ export const pokeData = [
 		"weight": 50,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 202,
@@ -2421,7 +2421,7 @@ export const pokeData = [
 		"weight": 285,
 		"is_default": true,
 		"abilities": ["shadow-tag", "telepathy"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 203,
@@ -2433,7 +2433,7 @@ export const pokeData = [
 		"weight": 415,
 		"is_default": true,
 		"abilities": ["inner-focus", "early-bird", "sap-sipper"],
-		"type": []
+		"type": ["normal", "psychic"]
 	},
 	{
 		"id": 204,
@@ -2445,7 +2445,7 @@ export const pokeData = [
 		"weight": 72,
 		"is_default": true,
 		"abilities": ["sturdy", "overcoat"],
-		"type": []
+		"type": ["bug"]
 	},
 	{
 		"id": 205,
@@ -2457,7 +2457,7 @@ export const pokeData = [
 		"weight": 1258,
 		"is_default": true,
 		"abilities": ["sturdy", "overcoat"],
-		"type": []
+		"type": ["bug", "steel"]
 	},
 	{
 		"id": 206,
@@ -2469,7 +2469,7 @@ export const pokeData = [
 		"weight": 140,
 		"is_default": true,
 		"abilities": ["serene-grace", "run-away", "rattled"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 207,
@@ -2481,7 +2481,7 @@ export const pokeData = [
 		"weight": 648,
 		"is_default": true,
 		"abilities": ["sand-veil", "immunity", "hyper-cutter"],
-		"type": []
+		"type": ["ground", "flying"]
 	},
 	{
 		"id": 208,
@@ -2493,7 +2493,7 @@ export const pokeData = [
 		"weight": 4000,
 		"is_default": true,
 		"abilities": ["sturdy", "rock-head", "sheer-force"],
-		"type": []
+		"type": ["steel", "ground"]
 	},
 	{
 		"id": 209,
@@ -2505,7 +2505,7 @@ export const pokeData = [
 		"weight": 78,
 		"is_default": true,
 		"abilities": ["intimidate", "run-away", "rattled"],
-		"type": []
+		"type": ["fairy"]
 	},
 	{
 		"id": 210,
@@ -2517,7 +2517,7 @@ export const pokeData = [
 		"weight": 487,
 		"is_default": true,
 		"abilities": ["intimidate", "quick-feet", "rattled"],
-		"type": []
+		"type": ["fairy"]
 	},
 	{
 		"id": 211,
@@ -2529,7 +2529,7 @@ export const pokeData = [
 		"weight": 39,
 		"is_default": true,
 		"abilities": ["intimidate", "swift-swim", "poison-point"],
-		"type": []
+		"type": ["water", "poison"]
 	},
 	{
 		"id": 212,
@@ -2541,7 +2541,7 @@ export const pokeData = [
 		"weight": 1180,
 		"is_default": true,
 		"abilities": ["swarm", "technician", "light-metal"],
-		"type": []
+		"type": ["bug", "steel"]
 	},
 	{
 		"id": 213,
@@ -2553,7 +2553,7 @@ export const pokeData = [
 		"weight": 205,
 		"is_default": true,
 		"abilities": ["sturdy", "gluttony", "contrary"],
-		"type": []
+		"type": ["bug", "rock"]
 	},
 	{
 		"id": 214,
@@ -2565,7 +2565,7 @@ export const pokeData = [
 		"weight": 540,
 		"is_default": true,
 		"abilities": ["guts", "swarm", "moxie"],
-		"type": []
+		"type": ["bug", "fighting"]
 	},
 	{
 		"id": 215,
@@ -2577,7 +2577,7 @@ export const pokeData = [
 		"weight": 280,
 		"is_default": true,
 		"abilities": ["inner-focus", "keen-eye", "pickpocket"],
-		"type": []
+		"type": ["dark", "ice"]
 	},
 	{
 		"id": 216,
@@ -2589,7 +2589,7 @@ export const pokeData = [
 		"weight": 88,
 		"is_default": true,
 		"abilities": ["pickup", "quick-feet", "honey-gather"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 217,
@@ -2601,7 +2601,7 @@ export const pokeData = [
 		"weight": 1258,
 		"is_default": true,
 		"abilities": ["guts", "quick-feet", "unnerve"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 218,
@@ -2613,7 +2613,7 @@ export const pokeData = [
 		"weight": 350,
 		"is_default": true,
 		"abilities": ["magma-armor", "flame-body", "weak-armor"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 219,
@@ -2625,7 +2625,7 @@ export const pokeData = [
 		"weight": 550,
 		"is_default": true,
 		"abilities": ["magma-armor", "flame-body", "weak-armor"],
-		"type": []
+		"type": ["fire", "rock"]
 	},
 	{
 		"id": 220,
@@ -2637,7 +2637,7 @@ export const pokeData = [
 		"weight": 65,
 		"is_default": true,
 		"abilities": ["oblivious", "thick-fat", "snow-cloak"],
-		"type": []
+		"type": ["ice", "ground"]
 	},
 	{
 		"id": 221,
@@ -2649,7 +2649,7 @@ export const pokeData = [
 		"weight": 558,
 		"is_default": true,
 		"abilities": ["oblivious", "thick-fat", "snow-cloak"],
-		"type": []
+		"type": ["ice", "ground"]
 	},
 	{
 		"id": 222,
@@ -2661,7 +2661,7 @@ export const pokeData = [
 		"weight": 50,
 		"is_default": true,
 		"abilities": ["natural-cure", "hustle", "regenerator"],
-		"type": []
+		"type": ["water", "rock"]
 	},
 	{
 		"id": 223,
@@ -2673,7 +2673,7 @@ export const pokeData = [
 		"weight": 120,
 		"is_default": true,
 		"abilities": ["hustle", "sniper", "moody"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 224,
@@ -2685,7 +2685,7 @@ export const pokeData = [
 		"weight": 285,
 		"is_default": true,
 		"abilities": ["suction-cups", "sniper", "moody"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 225,
@@ -2697,7 +2697,7 @@ export const pokeData = [
 		"weight": 160,
 		"is_default": true,
 		"abilities": ["insomnia", "hustle", "vital-spirit"],
-		"type": []
+		"type": ["ice", "flying"]
 	},
 	{
 		"id": 226,
@@ -2709,7 +2709,7 @@ export const pokeData = [
 		"weight": 2200,
 		"is_default": true,
 		"abilities": ["water-absorb", "swift-swim", "water-veil"],
-		"type": []
+		"type": ["water", "flying"]
 	},
 	{
 		"id": 227,
@@ -2721,7 +2721,7 @@ export const pokeData = [
 		"weight": 505,
 		"is_default": true,
 		"abilities": ["sturdy", "keen-eye", "weak-armor"],
-		"type": []
+		"type": ["steel", "flying"]
 	},
 	{
 		"id": 228,
@@ -2733,7 +2733,7 @@ export const pokeData = [
 		"weight": 108,
 		"is_default": true,
 		"abilities": ["flash-fire", "early-bird", "unnerve"],
-		"type": []
+		"type": ["dark", "fire"]
 	},
 	{
 		"id": 229,
@@ -2745,7 +2745,7 @@ export const pokeData = [
 		"weight": 350,
 		"is_default": true,
 		"abilities": ["flash-fire", "early-bird", "unnerve"],
-		"type": []
+		"type": ["dark", "fire"]
 	},
 	{
 		"id": 230,
@@ -2757,7 +2757,7 @@ export const pokeData = [
 		"weight": 1520,
 		"is_default": true,
 		"abilities": ["damp", "swift-swim", "sniper"],
-		"type": []
+		"type": ["water", "dragon"]
 	},
 	{
 		"id": 231,
@@ -2769,7 +2769,7 @@ export const pokeData = [
 		"weight": 335,
 		"is_default": true,
 		"abilities": ["sand-veil", "pickup"],
-		"type": []
+		"type": ["ground"]
 	},
 	{
 		"id": 232,
@@ -2781,7 +2781,7 @@ export const pokeData = [
 		"weight": 1200,
 		"is_default": true,
 		"abilities": ["sturdy", "sand-veil"],
-		"type": []
+		"type": ["ground"]
 	},
 	{
 		"id": 233,
@@ -2793,7 +2793,7 @@ export const pokeData = [
 		"weight": 325,
 		"is_default": true,
 		"abilities": ["trace", "download", "analytic"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 234,
@@ -2805,7 +2805,7 @@ export const pokeData = [
 		"weight": 712,
 		"is_default": true,
 		"abilities": ["intimidate", "frisk", "sap-sipper"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 235,
@@ -2817,7 +2817,7 @@ export const pokeData = [
 		"weight": 580,
 		"is_default": true,
 		"abilities": ["own-tempo", "technician", "moody"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 236,
@@ -2829,7 +2829,7 @@ export const pokeData = [
 		"weight": 210,
 		"is_default": true,
 		"abilities": ["guts", "vital-spirit", "steadfast"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 237,
@@ -2841,7 +2841,7 @@ export const pokeData = [
 		"weight": 480,
 		"is_default": true,
 		"abilities": ["intimidate", "steadfast", "technician"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 238,
@@ -2853,7 +2853,7 @@ export const pokeData = [
 		"weight": 60,
 		"is_default": true,
 		"abilities": ["oblivious", "hydration", "forewarn"],
-		"type": []
+		"type": ["ice", "psychic"]
 	},
 	{
 		"id": 239,
@@ -2865,7 +2865,7 @@ export const pokeData = [
 		"weight": 235,
 		"is_default": true,
 		"abilities": ["static", "vital-spirit"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 240,
@@ -2877,7 +2877,7 @@ export const pokeData = [
 		"weight": 214,
 		"is_default": true,
 		"abilities": ["flame-body", "vital-spirit"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 241,
@@ -2889,7 +2889,7 @@ export const pokeData = [
 		"weight": 755,
 		"is_default": true,
 		"abilities": ["thick-fat", "scrappy", "sap-sipper"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 242,
@@ -2901,7 +2901,7 @@ export const pokeData = [
 		"weight": 468,
 		"is_default": true,
 		"abilities": ["natural-cure", "serene-grace", "healer"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 243,
@@ -2913,7 +2913,7 @@ export const pokeData = [
 		"weight": 1780,
 		"is_default": true,
 		"abilities": ["inner-focus", "pressure"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 244,
@@ -2925,7 +2925,7 @@ export const pokeData = [
 		"weight": 1980,
 		"is_default": true,
 		"abilities": ["inner-focus", "pressure"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 245,
@@ -2937,7 +2937,7 @@ export const pokeData = [
 		"weight": 1870,
 		"is_default": true,
 		"abilities": ["inner-focus", "pressure"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 246,
@@ -2949,7 +2949,7 @@ export const pokeData = [
 		"weight": 720,
 		"is_default": true,
 		"abilities": ["sand-veil", "guts"],
-		"type": []
+		"type": ["rock", "ground"]
 	},
 	{
 		"id": 247,
@@ -2961,7 +2961,7 @@ export const pokeData = [
 		"weight": 1520,
 		"is_default": true,
 		"abilities": ["shed-skin"],
-		"type": []
+		"type": ["rock", "ground"]
 	},
 	{
 		"id": 248,
@@ -2973,7 +2973,7 @@ export const pokeData = [
 		"weight": 2020,
 		"is_default": true,
 		"abilities": ["sand-stream", "unnerve"],
-		"type": []
+		"type": ["rock", "dark"]
 	},
 	{
 		"id": 249,
@@ -2985,7 +2985,7 @@ export const pokeData = [
 		"weight": 2160,
 		"is_default": true,
 		"abilities": ["pressure", "multiscale"],
-		"type": []
+		"type": ["psychic", "flying"]
 	},
 	{
 		"id": 250,
@@ -2997,7 +2997,7 @@ export const pokeData = [
 		"weight": 1990,
 		"is_default": true,
 		"abilities": ["pressure", "regenerator"],
-		"type": []
+		"type": ["fire", "flying"]
 	},
 	{
 		"id": 251,
@@ -3009,7 +3009,7 @@ export const pokeData = [
 		"weight": 50,
 		"is_default": true,
 		"abilities": ["natural-cure"],
-		"type": []
+		"type": ["psychic", "grass"]
 	},
 	{
 		"id": 252,
@@ -3021,7 +3021,7 @@ export const pokeData = [
 		"weight": 50,
 		"is_default": true,
 		"abilities": ["overgrow", "unburden"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 253,
@@ -3033,7 +3033,7 @@ export const pokeData = [
 		"weight": 216,
 		"is_default": true,
 		"abilities": ["overgrow", "unburden"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 254,
@@ -3045,7 +3045,7 @@ export const pokeData = [
 		"weight": 522,
 		"is_default": true,
 		"abilities": ["overgrow", "unburden"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 255,
@@ -3057,7 +3057,7 @@ export const pokeData = [
 		"weight": 25,
 		"is_default": true,
 		"abilities": ["speed-boost", "blaze"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 256,
@@ -3069,7 +3069,7 @@ export const pokeData = [
 		"weight": 195,
 		"is_default": true,
 		"abilities": ["speed-boost", "blaze"],
-		"type": []
+		"type": ["fire", "fighting"]
 	},
 	{
 		"id": 257,
@@ -3081,7 +3081,7 @@ export const pokeData = [
 		"weight": 520,
 		"is_default": true,
 		"abilities": ["speed-boost", "blaze"],
-		"type": []
+		"type": ["fire", "fighting"]
 	},
 	{
 		"id": 258,
@@ -3093,7 +3093,7 @@ export const pokeData = [
 		"weight": 76,
 		"is_default": true,
 		"abilities": ["damp", "torrent"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 259,
@@ -3105,7 +3105,7 @@ export const pokeData = [
 		"weight": 280,
 		"is_default": true,
 		"abilities": ["damp", "torrent"],
-		"type": []
+		"type": ["water", "ground"]
 	},
 	{
 		"id": 260,
@@ -3117,7 +3117,7 @@ export const pokeData = [
 		"weight": 819,
 		"is_default": true,
 		"abilities": ["damp", "torrent"],
-		"type": []
+		"type": ["water", "ground"]
 	},
 	{
 		"id": 261,
@@ -3129,7 +3129,7 @@ export const pokeData = [
 		"weight": 136,
 		"is_default": true,
 		"abilities": ["run-away", "quick-feet", "rattled"],
-		"type": []
+		"type": ["dark"]
 	},
 	{
 		"id": 262,
@@ -3141,7 +3141,7 @@ export const pokeData = [
 		"weight": 370,
 		"is_default": true,
 		"abilities": ["intimidate", "quick-feet", "moxie"],
-		"type": []
+		"type": ["dark"]
 	},
 	{
 		"id": 263,
@@ -3153,7 +3153,7 @@ export const pokeData = [
 		"weight": 175,
 		"is_default": true,
 		"abilities": ["pickup", "gluttony", "quick-feet"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 264,
@@ -3165,7 +3165,7 @@ export const pokeData = [
 		"weight": 325,
 		"is_default": true,
 		"abilities": ["pickup", "gluttony", "quick-feet"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 265,
@@ -3177,7 +3177,7 @@ export const pokeData = [
 		"weight": 36,
 		"is_default": true,
 		"abilities": ["shield-dust", "run-away"],
-		"type": []
+		"type": ["bug"]
 	},
 	{
 		"id": 266,
@@ -3189,7 +3189,7 @@ export const pokeData = [
 		"weight": 100,
 		"is_default": true,
 		"abilities": ["shed-skin"],
-		"type": []
+		"type": ["bug"]
 	},
 	{
 		"id": 267,
@@ -3201,7 +3201,7 @@ export const pokeData = [
 		"weight": 284,
 		"is_default": true,
 		"abilities": ["swarm", "rivalry"],
-		"type": []
+		"type": ["bug", "flying"]
 	},
 	{
 		"id": 268,
@@ -3213,7 +3213,7 @@ export const pokeData = [
 		"weight": 115,
 		"is_default": true,
 		"abilities": ["shed-skin"],
-		"type": []
+		"type": ["bug"]
 	},
 	{
 		"id": 269,
@@ -3225,7 +3225,7 @@ export const pokeData = [
 		"weight": 316,
 		"is_default": true,
 		"abilities": ["compound-eyes", "shield-dust"],
-		"type": []
+		"type": ["bug", "poison"]
 	},
 	{
 		"id": 270,
@@ -3237,7 +3237,7 @@ export const pokeData = [
 		"weight": 26,
 		"is_default": true,
 		"abilities": ["own-tempo", "swift-swim", "rain-dish"],
-		"type": []
+		"type": ["water", "grass"]
 	},
 	{
 		"id": 271,
@@ -3249,7 +3249,7 @@ export const pokeData = [
 		"weight": 325,
 		"is_default": true,
 		"abilities": ["own-tempo", "swift-swim", "rain-dish"],
-		"type": []
+		"type": ["water", "grass"]
 	},
 	{
 		"id": 272,
@@ -3261,7 +3261,7 @@ export const pokeData = [
 		"weight": 550,
 		"is_default": true,
 		"abilities": ["own-tempo", "swift-swim", "rain-dish"],
-		"type": []
+		"type": ["water", "grass"]
 	},
 	{
 		"id": 273,
@@ -3273,7 +3273,7 @@ export const pokeData = [
 		"weight": 40,
 		"is_default": true,
 		"abilities": ["chlorophyll", "early-bird", "pickpocket"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 274,
@@ -3285,7 +3285,7 @@ export const pokeData = [
 		"weight": 280,
 		"is_default": true,
 		"abilities": ["chlorophyll", "early-bird", "pickpocket"],
-		"type": []
+		"type": ["grass", "dark"]
 	},
 	{
 		"id": 275,
@@ -3297,7 +3297,7 @@ export const pokeData = [
 		"weight": 596,
 		"is_default": true,
 		"abilities": ["chlorophyll", "early-bird", "pickpocket"],
-		"type": []
+		"type": ["grass", "dark"]
 	},
 	{
 		"id": 276,
@@ -3309,7 +3309,7 @@ export const pokeData = [
 		"weight": 23,
 		"is_default": true,
 		"abilities": ["guts", "scrappy"],
-		"type": []
+		"type": ["normal", "flying"]
 	},
 	{
 		"id": 277,
@@ -3321,7 +3321,7 @@ export const pokeData = [
 		"weight": 198,
 		"is_default": true,
 		"abilities": ["guts", "scrappy"],
-		"type": []
+		"type": ["normal", "flying"]
 	},
 	{
 		"id": 278,
@@ -3333,7 +3333,7 @@ export const pokeData = [
 		"weight": 95,
 		"is_default": true,
 		"abilities": ["rain-dish", "keen-eye", "hydration"],
-		"type": []
+		"type": ["water", "flying"]
 	},
 	{
 		"id": 279,
@@ -3345,7 +3345,7 @@ export const pokeData = [
 		"weight": 280,
 		"is_default": true,
 		"abilities": ["drizzle", "rain-dish", "keen-eye"],
-		"type": []
+		"type": ["water", "flying"]
 	},
 	{
 		"id": 280,
@@ -3357,7 +3357,7 @@ export const pokeData = [
 		"weight": 66,
 		"is_default": true,
 		"abilities": ["synchronize", "trace", "telepathy"],
-		"type": []
+		"type": ["psychic", "fairy"]
 	},
 	{
 		"id": 281,
@@ -3369,7 +3369,7 @@ export const pokeData = [
 		"weight": 202,
 		"is_default": true,
 		"abilities": ["synchronize", "trace", "telepathy"],
-		"type": []
+		"type": ["psychic", "fairy"]
 	},
 	{
 		"id": 282,
@@ -3381,7 +3381,7 @@ export const pokeData = [
 		"weight": 484,
 		"is_default": true,
 		"abilities": ["synchronize", "trace", "telepathy"],
-		"type": []
+		"type": ["psychic", "fairy"]
 	},
 	{
 		"id": 283,
@@ -3393,7 +3393,7 @@ export const pokeData = [
 		"weight": 17,
 		"is_default": true,
 		"abilities": ["swift-swim", "rain-dish"],
-		"type": []
+		"type": ["bug", "water"]
 	},
 	{
 		"id": 284,
@@ -3405,7 +3405,7 @@ export const pokeData = [
 		"weight": 36,
 		"is_default": true,
 		"abilities": ["intimidate", "unnerve"],
-		"type": []
+		"type": ["bug", "flying"]
 	},
 	{
 		"id": 285,
@@ -3417,7 +3417,7 @@ export const pokeData = [
 		"weight": 45,
 		"is_default": true,
 		"abilities": ["effect-spore", "poison-heal", "quick-feet"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 286,
@@ -3429,7 +3429,7 @@ export const pokeData = [
 		"weight": 392,
 		"is_default": true,
 		"abilities": ["effect-spore", "poison-heal", "technician"],
-		"type": []
+		"type": ["grass", "fighting"]
 	},
 	{
 		"id": 287,
@@ -3441,7 +3441,7 @@ export const pokeData = [
 		"weight": 240,
 		"is_default": true,
 		"abilities": ["truant"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 288,
@@ -3453,7 +3453,7 @@ export const pokeData = [
 		"weight": 465,
 		"is_default": true,
 		"abilities": ["vital-spirit"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 289,
@@ -3465,7 +3465,7 @@ export const pokeData = [
 		"weight": 1305,
 		"is_default": true,
 		"abilities": ["truant"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 290,
@@ -3477,7 +3477,7 @@ export const pokeData = [
 		"weight": 55,
 		"is_default": true,
 		"abilities": ["compound-eyes", "run-away"],
-		"type": []
+		"type": ["bug", "ground"]
 	},
 	{
 		"id": 291,
@@ -3489,7 +3489,7 @@ export const pokeData = [
 		"weight": 120,
 		"is_default": true,
 		"abilities": ["speed-boost", "infiltrator"],
-		"type": []
+		"type": ["bug", "flying"]
 	},
 	{
 		"id": 292,
@@ -3501,7 +3501,7 @@ export const pokeData = [
 		"weight": 12,
 		"is_default": true,
 		"abilities": ["wonder-guard"],
-		"type": []
+		"type": ["bug", "ghost"]
 	},
 	{
 		"id": 293,
@@ -3513,7 +3513,7 @@ export const pokeData = [
 		"weight": 163,
 		"is_default": true,
 		"abilities": ["soundproof", "rattled"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 294,
@@ -3525,7 +3525,7 @@ export const pokeData = [
 		"weight": 405,
 		"is_default": true,
 		"abilities": ["soundproof", "scrappy"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 295,
@@ -3537,7 +3537,7 @@ export const pokeData = [
 		"weight": 840,
 		"is_default": true,
 		"abilities": ["soundproof", "scrappy"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 296,
@@ -3549,7 +3549,7 @@ export const pokeData = [
 		"weight": 864,
 		"is_default": true,
 		"abilities": ["thick-fat", "guts", "sheer-force"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 297,
@@ -3561,7 +3561,7 @@ export const pokeData = [
 		"weight": 2538,
 		"is_default": true,
 		"abilities": ["thick-fat", "guts", "sheer-force"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 298,
@@ -3573,7 +3573,7 @@ export const pokeData = [
 		"weight": 20,
 		"is_default": true,
 		"abilities": ["huge-power", "thick-fat", "sap-sipper"],
-		"type": []
+		"type": ["normal", "fairy"]
 	},
 	{
 		"id": 299,
@@ -3585,7 +3585,7 @@ export const pokeData = [
 		"weight": 970,
 		"is_default": true,
 		"abilities": ["sturdy", "magnet-pull", "sand-force"],
-		"type": []
+		"type": ["rock"]
 	},
 	{
 		"id": 300,
@@ -3597,7 +3597,7 @@ export const pokeData = [
 		"weight": 110,
 		"is_default": true,
 		"abilities": ["cute-charm", "normalize", "wonder-skin"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 301,
@@ -3609,7 +3609,7 @@ export const pokeData = [
 		"weight": 326,
 		"is_default": true,
 		"abilities": ["cute-charm", "normalize", "wonder-skin"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 302,
@@ -3621,7 +3621,7 @@ export const pokeData = [
 		"weight": 110,
 		"is_default": true,
 		"abilities": ["keen-eye", "stall", "prankster"],
-		"type": []
+		"type": ["dark", "ghost"]
 	},
 	{
 		"id": 303,
@@ -3633,7 +3633,7 @@ export const pokeData = [
 		"weight": 115,
 		"is_default": true,
 		"abilities": ["intimidate", "hyper-cutter", "sheer-force"],
-		"type": []
+		"type": ["steel", "fairy"]
 	},
 	{
 		"id": 304,
@@ -3645,7 +3645,7 @@ export const pokeData = [
 		"weight": 600,
 		"is_default": true,
 		"abilities": ["sturdy", "rock-head", "heavy-metal"],
-		"type": []
+		"type": ["steel", "rock"]
 	},
 	{
 		"id": 305,
@@ -3657,7 +3657,7 @@ export const pokeData = [
 		"weight": 1200,
 		"is_default": true,
 		"abilities": ["sturdy", "rock-head", "heavy-metal"],
-		"type": []
+		"type": ["steel", "rock"]
 	},
 	{
 		"id": 306,
@@ -3669,7 +3669,7 @@ export const pokeData = [
 		"weight": 3600,
 		"is_default": true,
 		"abilities": ["sturdy", "rock-head", "heavy-metal"],
-		"type": []
+		"type": ["steel", "rock"]
 	},
 	{
 		"id": 307,
@@ -3681,7 +3681,7 @@ export const pokeData = [
 		"weight": 112,
 		"is_default": true,
 		"abilities": ["pure-power", "telepathy"],
-		"type": []
+		"type": ["fighting", "psychic"]
 	},
 	{
 		"id": 308,
@@ -3693,7 +3693,7 @@ export const pokeData = [
 		"weight": 315,
 		"is_default": true,
 		"abilities": ["pure-power", "telepathy"],
-		"type": []
+		"type": ["fighting", "psychic"]
 	},
 	{
 		"id": 309,
@@ -3705,7 +3705,7 @@ export const pokeData = [
 		"weight": 152,
 		"is_default": true,
 		"abilities": ["static", "lightning-rod", "minus"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 310,
@@ -3717,7 +3717,7 @@ export const pokeData = [
 		"weight": 402,
 		"is_default": true,
 		"abilities": ["static", "lightning-rod", "minus"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 311,
@@ -3729,7 +3729,7 @@ export const pokeData = [
 		"weight": 42,
 		"is_default": true,
 		"abilities": ["lightning-rod", "plus"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 312,
@@ -3741,7 +3741,7 @@ export const pokeData = [
 		"weight": 42,
 		"is_default": true,
 		"abilities": ["volt-absorb", "minus"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 313,
@@ -3753,7 +3753,7 @@ export const pokeData = [
 		"weight": 177,
 		"is_default": true,
 		"abilities": ["illuminate", "swarm", "prankster"],
-		"type": []
+		"type": ["bug"]
 	},
 	{
 		"id": 314,
@@ -3765,7 +3765,7 @@ export const pokeData = [
 		"weight": 177,
 		"is_default": true,
 		"abilities": ["oblivious", "tinted-lens", "prankster"],
-		"type": []
+		"type": ["bug"]
 	},
 	{
 		"id": 315,
@@ -3777,7 +3777,7 @@ export const pokeData = [
 		"weight": 20,
 		"is_default": true,
 		"abilities": ["natural-cure", "poison-point", "leaf-guard"],
-		"type": []
+		"type": ["grass", "poison"]
 	},
 	{
 		"id": 316,
@@ -3789,7 +3789,7 @@ export const pokeData = [
 		"weight": 103,
 		"is_default": true,
 		"abilities": ["sticky-hold", "liquid-ooze", "gluttony"],
-		"type": []
+		"type": ["poison"]
 	},
 	{
 		"id": 317,
@@ -3801,7 +3801,7 @@ export const pokeData = [
 		"weight": 800,
 		"is_default": true,
 		"abilities": ["sticky-hold", "liquid-ooze", "gluttony"],
-		"type": []
+		"type": ["poison"]
 	},
 	{
 		"id": 318,
@@ -3813,7 +3813,7 @@ export const pokeData = [
 		"weight": 208,
 		"is_default": true,
 		"abilities": ["speed-boost", "rough-skin"],
-		"type": []
+		"type": ["water", "dark"]
 	},
 	{
 		"id": 319,
@@ -3825,7 +3825,7 @@ export const pokeData = [
 		"weight": 888,
 		"is_default": true,
 		"abilities": ["speed-boost", "rough-skin"],
-		"type": []
+		"type": ["water", "dark"]
 	},
 	{
 		"id": 320,
@@ -3837,7 +3837,7 @@ export const pokeData = [
 		"weight": 1300,
 		"is_default": true,
 		"abilities": ["oblivious", "water-veil", "pressure"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 321,
@@ -3849,7 +3849,7 @@ export const pokeData = [
 		"weight": 3980,
 		"is_default": true,
 		"abilities": ["oblivious", "water-veil", "pressure"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 322,
@@ -3861,7 +3861,7 @@ export const pokeData = [
 		"weight": 240,
 		"is_default": true,
 		"abilities": ["oblivious", "own-tempo", "simple"],
-		"type": []
+		"type": ["fire", "ground"]
 	},
 	{
 		"id": 323,
@@ -3873,7 +3873,7 @@ export const pokeData = [
 		"weight": 2200,
 		"is_default": true,
 		"abilities": ["magma-armor", "anger-point", "solid-rock"],
-		"type": []
+		"type": ["fire", "ground"]
 	},
 	{
 		"id": 324,
@@ -3885,7 +3885,7 @@ export const pokeData = [
 		"weight": 804,
 		"is_default": true,
 		"abilities": ["drought", "white-smoke", "shell-armor"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 325,
@@ -3897,7 +3897,7 @@ export const pokeData = [
 		"weight": 306,
 		"is_default": true,
 		"abilities": ["own-tempo", "thick-fat", "gluttony"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 326,
@@ -3909,7 +3909,7 @@ export const pokeData = [
 		"weight": 715,
 		"is_default": true,
 		"abilities": ["own-tempo", "thick-fat", "gluttony"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 327,
@@ -3921,7 +3921,7 @@ export const pokeData = [
 		"weight": 50,
 		"is_default": true,
 		"abilities": ["own-tempo", "tangled-feet", "contrary"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 328,
@@ -3933,7 +3933,7 @@ export const pokeData = [
 		"weight": 150,
 		"is_default": true,
 		"abilities": ["hyper-cutter", "arena-trap", "sheer-force"],
-		"type": []
+		"type": ["ground"]
 	},
 	{
 		"id": 329,
@@ -3945,7 +3945,7 @@ export const pokeData = [
 		"weight": 153,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["ground", "dragon"]
 	},
 	{
 		"id": 330,
@@ -3957,7 +3957,7 @@ export const pokeData = [
 		"weight": 820,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["ground", "dragon"]
 	},
 	{
 		"id": 331,
@@ -3969,7 +3969,7 @@ export const pokeData = [
 		"weight": 513,
 		"is_default": true,
 		"abilities": ["sand-veil", "water-absorb"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 332,
@@ -3981,7 +3981,7 @@ export const pokeData = [
 		"weight": 774,
 		"is_default": true,
 		"abilities": ["sand-veil", "water-absorb"],
-		"type": []
+		"type": ["grass", "dark"]
 	},
 	{
 		"id": 333,
@@ -3993,7 +3993,7 @@ export const pokeData = [
 		"weight": 12,
 		"is_default": true,
 		"abilities": ["cloud-nine", "natural-cure"],
-		"type": []
+		"type": ["normal", "flying"]
 	},
 	{
 		"id": 334,
@@ -4005,7 +4005,7 @@ export const pokeData = [
 		"weight": 206,
 		"is_default": true,
 		"abilities": ["cloud-nine", "natural-cure"],
-		"type": []
+		"type": ["dragon", "flying"]
 	},
 	{
 		"id": 335,
@@ -4017,7 +4017,7 @@ export const pokeData = [
 		"weight": 403,
 		"is_default": true,
 		"abilities": ["immunity", "toxic-boost"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 336,
@@ -4029,7 +4029,7 @@ export const pokeData = [
 		"weight": 525,
 		"is_default": true,
 		"abilities": ["shed-skin", "infiltrator"],
-		"type": []
+		"type": ["poison"]
 	},
 	{
 		"id": 337,
@@ -4041,7 +4041,7 @@ export const pokeData = [
 		"weight": 1680,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["rock", "psychic"]
 	},
 	{
 		"id": 338,
@@ -4053,7 +4053,7 @@ export const pokeData = [
 		"weight": 1540,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["rock", "psychic"]
 	},
 	{
 		"id": 339,
@@ -4065,7 +4065,7 @@ export const pokeData = [
 		"weight": 19,
 		"is_default": true,
 		"abilities": ["oblivious", "hydration", "anticipation"],
-		"type": []
+		"type": ["water", "ground"]
 	},
 	{
 		"id": 340,
@@ -4077,7 +4077,7 @@ export const pokeData = [
 		"weight": 236,
 		"is_default": true,
 		"abilities": ["oblivious", "hydration", "anticipation"],
-		"type": []
+		"type": ["water", "ground"]
 	},
 	{
 		"id": 341,
@@ -4089,7 +4089,7 @@ export const pokeData = [
 		"weight": 115,
 		"is_default": true,
 		"abilities": ["hyper-cutter", "shell-armor", "adaptability"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 342,
@@ -4101,7 +4101,7 @@ export const pokeData = [
 		"weight": 328,
 		"is_default": true,
 		"abilities": ["hyper-cutter", "shell-armor", "adaptability"],
-		"type": []
+		"type": ["water", "dark"]
 	},
 	{
 		"id": 343,
@@ -4113,7 +4113,7 @@ export const pokeData = [
 		"weight": 215,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["ground", "psychic"]
 	},
 	{
 		"id": 344,
@@ -4125,7 +4125,7 @@ export const pokeData = [
 		"weight": 1080,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["ground", "psychic"]
 	},
 	{
 		"id": 345,
@@ -4137,7 +4137,7 @@ export const pokeData = [
 		"weight": 238,
 		"is_default": true,
 		"abilities": ["suction-cups", "storm-drain"],
-		"type": []
+		"type": ["rock", "grass"]
 	},
 	{
 		"id": 346,
@@ -4149,7 +4149,7 @@ export const pokeData = [
 		"weight": 604,
 		"is_default": true,
 		"abilities": ["suction-cups", "storm-drain"],
-		"type": []
+		"type": ["rock", "grass"]
 	},
 	{
 		"id": 347,
@@ -4161,7 +4161,7 @@ export const pokeData = [
 		"weight": 125,
 		"is_default": true,
 		"abilities": ["battle-armor", "swift-swim"],
-		"type": []
+		"type": ["rock", "bug"]
 	},
 	{
 		"id": 348,
@@ -4173,7 +4173,7 @@ export const pokeData = [
 		"weight": 682,
 		"is_default": true,
 		"abilities": ["battle-armor", "swift-swim"],
-		"type": []
+		"type": ["rock", "bug"]
 	},
 	{
 		"id": 349,
@@ -4185,7 +4185,7 @@ export const pokeData = [
 		"weight": 74,
 		"is_default": true,
 		"abilities": ["oblivious", "swift-swim", "adaptability"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 350,
@@ -4197,7 +4197,7 @@ export const pokeData = [
 		"weight": 1620,
 		"is_default": true,
 		"abilities": ["cute-charm", "marvel-scale", "competitive"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 351,
@@ -4209,7 +4209,7 @@ export const pokeData = [
 		"weight": 8,
 		"is_default": true,
 		"abilities": ["forecast"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 352,
@@ -4221,7 +4221,7 @@ export const pokeData = [
 		"weight": 220,
 		"is_default": true,
 		"abilities": ["color-change", "protean"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 353,
@@ -4233,7 +4233,7 @@ export const pokeData = [
 		"weight": 23,
 		"is_default": true,
 		"abilities": ["insomnia", "frisk", "cursed-body"],
-		"type": []
+		"type": ["ghost"]
 	},
 	{
 		"id": 354,
@@ -4245,7 +4245,7 @@ export const pokeData = [
 		"weight": 125,
 		"is_default": true,
 		"abilities": ["insomnia", "frisk", "cursed-body"],
-		"type": []
+		"type": ["ghost"]
 	},
 	{
 		"id": 355,
@@ -4257,7 +4257,7 @@ export const pokeData = [
 		"weight": 150,
 		"is_default": true,
 		"abilities": ["levitate", "frisk"],
-		"type": []
+		"type": ["ghost"]
 	},
 	{
 		"id": 356,
@@ -4269,7 +4269,7 @@ export const pokeData = [
 		"weight": 306,
 		"is_default": true,
 		"abilities": ["pressure", "frisk"],
-		"type": []
+		"type": ["ghost"]
 	},
 	{
 		"id": 357,
@@ -4281,7 +4281,7 @@ export const pokeData = [
 		"weight": 1000,
 		"is_default": true,
 		"abilities": ["chlorophyll", "solar-power", "harvest"],
-		"type": []
+		"type": ["grass", "flying"]
 	},
 	{
 		"id": 358,
@@ -4293,7 +4293,7 @@ export const pokeData = [
 		"weight": 10,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 359,
@@ -4305,7 +4305,7 @@ export const pokeData = [
 		"weight": 470,
 		"is_default": true,
 		"abilities": ["pressure", "super-luck", "justified"],
-		"type": []
+		"type": ["dark"]
 	},
 	{
 		"id": 360,
@@ -4317,7 +4317,7 @@ export const pokeData = [
 		"weight": 140,
 		"is_default": true,
 		"abilities": ["shadow-tag", "telepathy"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 361,
@@ -4329,7 +4329,7 @@ export const pokeData = [
 		"weight": 168,
 		"is_default": true,
 		"abilities": ["inner-focus", "ice-body", "moody"],
-		"type": []
+		"type": ["ice"]
 	},
 	{
 		"id": 362,
@@ -4341,7 +4341,7 @@ export const pokeData = [
 		"weight": 2565,
 		"is_default": true,
 		"abilities": ["inner-focus", "ice-body", "moody"],
-		"type": []
+		"type": ["ice"]
 	},
 	{
 		"id": 363,
@@ -4353,7 +4353,7 @@ export const pokeData = [
 		"weight": 395,
 		"is_default": true,
 		"abilities": ["oblivious", "thick-fat", "ice-body"],
-		"type": []
+		"type": ["ice", "water"]
 	},
 	{
 		"id": 364,
@@ -4365,7 +4365,7 @@ export const pokeData = [
 		"weight": 876,
 		"is_default": true,
 		"abilities": ["oblivious", "thick-fat", "ice-body"],
-		"type": []
+		"type": ["ice", "water"]
 	},
 	{
 		"id": 365,
@@ -4377,7 +4377,7 @@ export const pokeData = [
 		"weight": 1506,
 		"is_default": true,
 		"abilities": ["oblivious", "thick-fat", "ice-body"],
-		"type": []
+		"type": ["ice", "water"]
 	},
 	{
 		"id": 366,
@@ -4389,7 +4389,7 @@ export const pokeData = [
 		"weight": 525,
 		"is_default": true,
 		"abilities": ["shell-armor", "rattled"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 367,
@@ -4401,7 +4401,7 @@ export const pokeData = [
 		"weight": 270,
 		"is_default": true,
 		"abilities": ["swift-swim", "water-veil"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 368,
@@ -4413,7 +4413,7 @@ export const pokeData = [
 		"weight": 226,
 		"is_default": true,
 		"abilities": ["swift-swim", "hydration"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 369,
@@ -4425,7 +4425,7 @@ export const pokeData = [
 		"weight": 234,
 		"is_default": true,
 		"abilities": ["sturdy", "swift-swim", "rock-head"],
-		"type": []
+		"type": ["water", "rock"]
 	},
 	{
 		"id": 370,
@@ -4437,7 +4437,7 @@ export const pokeData = [
 		"weight": 87,
 		"is_default": true,
 		"abilities": ["swift-swim", "hydration"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 371,
@@ -4449,7 +4449,7 @@ export const pokeData = [
 		"weight": 421,
 		"is_default": true,
 		"abilities": ["rock-head", "sheer-force"],
-		"type": []
+		"type": ["dragon"]
 	},
 	{
 		"id": 372,
@@ -4461,7 +4461,7 @@ export const pokeData = [
 		"weight": 1105,
 		"is_default": true,
 		"abilities": ["rock-head", "overcoat"],
-		"type": []
+		"type": ["dragon"]
 	},
 	{
 		"id": 373,
@@ -4473,7 +4473,7 @@ export const pokeData = [
 		"weight": 1026,
 		"is_default": true,
 		"abilities": ["intimidate", "moxie"],
-		"type": []
+		"type": ["dragon", "flying"]
 	},
 	{
 		"id": 374,
@@ -4485,7 +4485,7 @@ export const pokeData = [
 		"weight": 952,
 		"is_default": true,
 		"abilities": ["clear-body", "light-metal"],
-		"type": []
+		"type": ["steel", "psychic"]
 	},
 	{
 		"id": 375,
@@ -4497,7 +4497,7 @@ export const pokeData = [
 		"weight": 2025,
 		"is_default": true,
 		"abilities": ["clear-body", "light-metal"],
-		"type": []
+		"type": ["steel", "psychic"]
 	},
 	{
 		"id": 376,
@@ -4509,7 +4509,7 @@ export const pokeData = [
 		"weight": 5500,
 		"is_default": true,
 		"abilities": ["clear-body", "light-metal"],
-		"type": []
+		"type": ["steel", "psychic"]
 	},
 	{
 		"id": 377,
@@ -4521,7 +4521,7 @@ export const pokeData = [
 		"weight": 2300,
 		"is_default": true,
 		"abilities": ["sturdy", "clear-body"],
-		"type": []
+		"type": ["rock"]
 	},
 	{
 		"id": 378,
@@ -4533,7 +4533,7 @@ export const pokeData = [
 		"weight": 1750,
 		"is_default": true,
 		"abilities": ["clear-body", "ice-body"],
-		"type": []
+		"type": ["ice"]
 	},
 	{
 		"id": 379,
@@ -4545,7 +4545,7 @@ export const pokeData = [
 		"weight": 2050,
 		"is_default": true,
 		"abilities": ["clear-body", "light-metal"],
-		"type": []
+		"type": ["steel"]
 	},
 	{
 		"id": 380,
@@ -4557,7 +4557,7 @@ export const pokeData = [
 		"weight": 400,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["dragon", "psychic"]
 	},
 	{
 		"id": 381,
@@ -4569,7 +4569,7 @@ export const pokeData = [
 		"weight": 600,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["dragon", "psychic"]
 	},
 	{
 		"id": 382,
@@ -4581,7 +4581,7 @@ export const pokeData = [
 		"weight": 3520,
 		"is_default": true,
 		"abilities": ["drizzle"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 383,
@@ -4593,7 +4593,7 @@ export const pokeData = [
 		"weight": 9500,
 		"is_default": true,
 		"abilities": ["drought"],
-		"type": []
+		"type": ["ground"]
 	},
 	{
 		"id": 384,
@@ -4605,7 +4605,7 @@ export const pokeData = [
 		"weight": 2065,
 		"is_default": true,
 		"abilities": ["air-lock"],
-		"type": []
+		"type": ["dragon", "flying"]
 	},
 	{
 		"id": 385,
@@ -4617,7 +4617,7 @@ export const pokeData = [
 		"weight": 11,
 		"is_default": true,
 		"abilities": ["serene-grace"],
-		"type": []
+		"type": ["steel", "psychic"]
 	},
 	{
 		"id": 386,
@@ -4629,7 +4629,7 @@ export const pokeData = [
 		"weight": 608,
 		"is_default": true,
 		"abilities": ["pressure"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 387,
@@ -4641,7 +4641,7 @@ export const pokeData = [
 		"weight": 102,
 		"is_default": true,
 		"abilities": ["overgrow", "shell-armor"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 388,
@@ -4653,7 +4653,7 @@ export const pokeData = [
 		"weight": 970,
 		"is_default": true,
 		"abilities": ["overgrow", "shell-armor"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 389,
@@ -4665,7 +4665,7 @@ export const pokeData = [
 		"weight": 3100,
 		"is_default": true,
 		"abilities": ["overgrow", "shell-armor"],
-		"type": []
+		"type": ["grass", "ground"]
 	},
 	{
 		"id": 390,
@@ -4677,7 +4677,7 @@ export const pokeData = [
 		"weight": 62,
 		"is_default": true,
 		"abilities": ["blaze", "iron-fist"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 391,
@@ -4689,7 +4689,7 @@ export const pokeData = [
 		"weight": 220,
 		"is_default": true,
 		"abilities": ["blaze", "iron-fist"],
-		"type": []
+		"type": ["fire", "fighting"]
 	},
 	{
 		"id": 392,
@@ -4701,7 +4701,7 @@ export const pokeData = [
 		"weight": 550,
 		"is_default": true,
 		"abilities": ["blaze", "iron-fist"],
-		"type": []
+		"type": ["fire", "fighting"]
 	},
 	{
 		"id": 393,
@@ -4713,7 +4713,7 @@ export const pokeData = [
 		"weight": 52,
 		"is_default": true,
 		"abilities": ["torrent", "defiant"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 394,
@@ -4725,7 +4725,7 @@ export const pokeData = [
 		"weight": 230,
 		"is_default": true,
 		"abilities": ["torrent", "defiant"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 395,
@@ -4737,7 +4737,7 @@ export const pokeData = [
 		"weight": 845,
 		"is_default": true,
 		"abilities": ["torrent", "defiant"],
-		"type": []
+		"type": ["water", "steel"]
 	},
 	{
 		"id": 396,
@@ -4749,7 +4749,7 @@ export const pokeData = [
 		"weight": 20,
 		"is_default": true,
 		"abilities": ["keen-eye", "reckless"],
-		"type": []
+		"type": ["normal", "flying"]
 	},
 	{
 		"id": 397,
@@ -4761,7 +4761,7 @@ export const pokeData = [
 		"weight": 155,
 		"is_default": true,
 		"abilities": ["intimidate", "reckless"],
-		"type": []
+		"type": ["normal", "flying"]
 	},
 	{
 		"id": 398,
@@ -4773,7 +4773,7 @@ export const pokeData = [
 		"weight": 249,
 		"is_default": true,
 		"abilities": ["intimidate", "reckless"],
-		"type": []
+		"type": ["normal", "flying"]
 	},
 	{
 		"id": 399,
@@ -4785,7 +4785,7 @@ export const pokeData = [
 		"weight": 200,
 		"is_default": true,
 		"abilities": ["simple", "unaware", "moody"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 400,
@@ -4797,7 +4797,7 @@ export const pokeData = [
 		"weight": 315,
 		"is_default": true,
 		"abilities": ["simple", "unaware", "moody"],
-		"type": []
+		"type": ["normal", "water"]
 	},
 	{
 		"id": 401,
@@ -4809,7 +4809,7 @@ export const pokeData = [
 		"weight": 22,
 		"is_default": true,
 		"abilities": ["run-away", "shed-skin"],
-		"type": []
+		"type": ["bug"]
 	},
 	{
 		"id": 402,
@@ -4821,7 +4821,7 @@ export const pokeData = [
 		"weight": 255,
 		"is_default": true,
 		"abilities": ["swarm", "technician"],
-		"type": []
+		"type": ["bug"]
 	},
 	{
 		"id": 403,
@@ -4833,7 +4833,7 @@ export const pokeData = [
 		"weight": 95,
 		"is_default": true,
 		"abilities": ["intimidate", "guts", "rivalry"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 404,
@@ -4845,7 +4845,7 @@ export const pokeData = [
 		"weight": 305,
 		"is_default": true,
 		"abilities": ["intimidate", "guts", "rivalry"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 405,
@@ -4857,7 +4857,7 @@ export const pokeData = [
 		"weight": 420,
 		"is_default": true,
 		"abilities": ["intimidate", "guts", "rivalry"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 406,
@@ -4869,7 +4869,7 @@ export const pokeData = [
 		"weight": 12,
 		"is_default": true,
 		"abilities": ["natural-cure", "poison-point", "leaf-guard"],
-		"type": []
+		"type": ["grass", "poison"]
 	},
 	{
 		"id": 407,
@@ -4881,7 +4881,7 @@ export const pokeData = [
 		"weight": 145,
 		"is_default": true,
 		"abilities": ["natural-cure", "poison-point", "technician"],
-		"type": []
+		"type": ["grass", "poison"]
 	},
 	{
 		"id": 408,
@@ -4893,7 +4893,7 @@ export const pokeData = [
 		"weight": 315,
 		"is_default": true,
 		"abilities": ["mold-breaker", "sheer-force"],
-		"type": []
+		"type": ["rock"]
 	},
 	{
 		"id": 409,
@@ -4905,7 +4905,7 @@ export const pokeData = [
 		"weight": 1025,
 		"is_default": true,
 		"abilities": ["mold-breaker", "sheer-force"],
-		"type": []
+		"type": ["rock"]
 	},
 	{
 		"id": 410,
@@ -4917,7 +4917,7 @@ export const pokeData = [
 		"weight": 570,
 		"is_default": true,
 		"abilities": ["sturdy", "soundproof"],
-		"type": []
+		"type": ["rock", "steel"]
 	},
 	{
 		"id": 411,
@@ -4929,7 +4929,7 @@ export const pokeData = [
 		"weight": 1495,
 		"is_default": true,
 		"abilities": ["sturdy", "soundproof"],
-		"type": []
+		"type": ["rock", "steel"]
 	},
 	{
 		"id": 412,
@@ -4941,7 +4941,7 @@ export const pokeData = [
 		"weight": 34,
 		"is_default": true,
 		"abilities": ["shed-skin", "overcoat"],
-		"type": []
+		"type": ["bug"]
 	},
 	{
 		"id": 413,
@@ -4953,7 +4953,7 @@ export const pokeData = [
 		"weight": 65,
 		"is_default": true,
 		"abilities": ["anticipation", "overcoat"],
-		"type": []
+		"type": ["bug", "grass"]
 	},
 	{
 		"id": 414,
@@ -4965,7 +4965,7 @@ export const pokeData = [
 		"weight": 233,
 		"is_default": true,
 		"abilities": ["swarm", "tinted-lens"],
-		"type": []
+		"type": ["bug", "flying"]
 	},
 	{
 		"id": 415,
@@ -4977,7 +4977,7 @@ export const pokeData = [
 		"weight": 55,
 		"is_default": true,
 		"abilities": ["hustle", "honey-gather"],
-		"type": []
+		"type": ["bug", "flying"]
 	},
 	{
 		"id": 416,
@@ -4989,7 +4989,7 @@ export const pokeData = [
 		"weight": 385,
 		"is_default": true,
 		"abilities": ["pressure", "unnerve"],
-		"type": []
+		"type": ["bug", "flying"]
 	},
 	{
 		"id": 417,
@@ -5001,7 +5001,7 @@ export const pokeData = [
 		"weight": 39,
 		"is_default": true,
 		"abilities": ["volt-absorb", "run-away", "pickup"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 418,
@@ -5013,7 +5013,7 @@ export const pokeData = [
 		"weight": 295,
 		"is_default": true,
 		"abilities": ["swift-swim", "water-veil"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 419,
@@ -5025,7 +5025,7 @@ export const pokeData = [
 		"weight": 335,
 		"is_default": true,
 		"abilities": ["swift-swim", "water-veil"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 420,
@@ -5037,7 +5037,7 @@ export const pokeData = [
 		"weight": 33,
 		"is_default": true,
 		"abilities": ["chlorophyll"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 421,
@@ -5049,7 +5049,7 @@ export const pokeData = [
 		"weight": 93,
 		"is_default": true,
 		"abilities": ["flower-gift"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 422,
@@ -5061,7 +5061,7 @@ export const pokeData = [
 		"weight": 63,
 		"is_default": true,
 		"abilities": ["sticky-hold", "storm-drain", "sand-force"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 423,
@@ -5073,7 +5073,7 @@ export const pokeData = [
 		"weight": 299,
 		"is_default": true,
 		"abilities": ["sticky-hold", "storm-drain", "sand-force"],
-		"type": []
+		"type": ["water", "ground"]
 	},
 	{
 		"id": 424,
@@ -5085,7 +5085,7 @@ export const pokeData = [
 		"weight": 203,
 		"is_default": true,
 		"abilities": ["pickup", "skill-link", "technician"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 425,
@@ -5097,7 +5097,7 @@ export const pokeData = [
 		"weight": 12,
 		"is_default": true,
 		"abilities": ["unburden", "aftermath", "flare-boost"],
-		"type": []
+		"type": ["ghost", "flying"]
 	},
 	{
 		"id": 426,
@@ -5109,7 +5109,7 @@ export const pokeData = [
 		"weight": 150,
 		"is_default": true,
 		"abilities": ["unburden", "aftermath", "flare-boost"],
-		"type": []
+		"type": ["ghost", "flying"]
 	},
 	{
 		"id": 427,
@@ -5121,7 +5121,7 @@ export const pokeData = [
 		"weight": 55,
 		"is_default": true,
 		"abilities": ["limber", "run-away", "klutz"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 428,
@@ -5133,7 +5133,7 @@ export const pokeData = [
 		"weight": 333,
 		"is_default": true,
 		"abilities": ["limber", "cute-charm", "klutz"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 429,
@@ -5145,7 +5145,7 @@ export const pokeData = [
 		"weight": 44,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["ghost"]
 	},
 	{
 		"id": 430,
@@ -5157,7 +5157,7 @@ export const pokeData = [
 		"weight": 273,
 		"is_default": true,
 		"abilities": ["insomnia", "super-luck", "moxie"],
-		"type": []
+		"type": ["dark", "flying"]
 	},
 	{
 		"id": 431,
@@ -5169,7 +5169,7 @@ export const pokeData = [
 		"weight": 39,
 		"is_default": true,
 		"abilities": ["limber", "own-tempo", "keen-eye"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 432,
@@ -5181,7 +5181,7 @@ export const pokeData = [
 		"weight": 438,
 		"is_default": true,
 		"abilities": ["own-tempo", "thick-fat", "defiant"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 433,
@@ -5193,7 +5193,7 @@ export const pokeData = [
 		"weight": 6,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 434,
@@ -5205,7 +5205,7 @@ export const pokeData = [
 		"weight": 192,
 		"is_default": true,
 		"abilities": ["stench", "keen-eye", "aftermath"],
-		"type": []
+		"type": ["poison", "dark"]
 	},
 	{
 		"id": 435,
@@ -5217,7 +5217,7 @@ export const pokeData = [
 		"weight": 380,
 		"is_default": true,
 		"abilities": ["stench", "keen-eye", "aftermath"],
-		"type": []
+		"type": ["poison", "dark"]
 	},
 	{
 		"id": 436,
@@ -5229,7 +5229,7 @@ export const pokeData = [
 		"weight": 605,
 		"is_default": true,
 		"abilities": ["levitate", "heatproof", "heavy-metal"],
-		"type": []
+		"type": ["steel", "psychic"]
 	},
 	{
 		"id": 437,
@@ -5241,7 +5241,7 @@ export const pokeData = [
 		"weight": 1870,
 		"is_default": true,
 		"abilities": ["levitate", "heatproof", "heavy-metal"],
-		"type": []
+		"type": ["steel", "psychic"]
 	},
 	{
 		"id": 438,
@@ -5253,7 +5253,7 @@ export const pokeData = [
 		"weight": 150,
 		"is_default": true,
 		"abilities": ["sturdy", "rock-head", "rattled"],
-		"type": []
+		"type": ["rock"]
 	},
 	{
 		"id": 439,
@@ -5265,7 +5265,7 @@ export const pokeData = [
 		"weight": 130,
 		"is_default": true,
 		"abilities": ["soundproof", "technician", "filter"],
-		"type": []
+		"type": ["psychic", "fairy"]
 	},
 	{
 		"id": 440,
@@ -5277,7 +5277,7 @@ export const pokeData = [
 		"weight": 244,
 		"is_default": true,
 		"abilities": ["natural-cure", "serene-grace", "friend-guard"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 441,
@@ -5289,7 +5289,7 @@ export const pokeData = [
 		"weight": 19,
 		"is_default": true,
 		"abilities": ["keen-eye", "tangled-feet", "big-pecks"],
-		"type": []
+		"type": ["normal", "flying"]
 	},
 	{
 		"id": 442,
@@ -5301,7 +5301,7 @@ export const pokeData = [
 		"weight": 1080,
 		"is_default": true,
 		"abilities": ["pressure", "infiltrator"],
-		"type": []
+		"type": ["ghost", "dark"]
 	},
 	{
 		"id": 443,
@@ -5313,7 +5313,7 @@ export const pokeData = [
 		"weight": 205,
 		"is_default": true,
 		"abilities": ["sand-veil", "rough-skin"],
-		"type": []
+		"type": ["dragon", "ground"]
 	},
 	{
 		"id": 444,
@@ -5325,7 +5325,7 @@ export const pokeData = [
 		"weight": 560,
 		"is_default": true,
 		"abilities": ["sand-veil", "rough-skin"],
-		"type": []
+		"type": ["dragon", "ground"]
 	},
 	{
 		"id": 445,
@@ -5337,7 +5337,7 @@ export const pokeData = [
 		"weight": 950,
 		"is_default": true,
 		"abilities": ["sand-veil", "rough-skin"],
-		"type": []
+		"type": ["dragon", "ground"]
 	},
 	{
 		"id": 446,
@@ -5349,7 +5349,7 @@ export const pokeData = [
 		"weight": 1050,
 		"is_default": true,
 		"abilities": ["thick-fat", "pickup", "gluttony"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 447,
@@ -5361,7 +5361,7 @@ export const pokeData = [
 		"weight": 202,
 		"is_default": true,
 		"abilities": ["inner-focus", "steadfast", "prankster"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 448,
@@ -5373,7 +5373,7 @@ export const pokeData = [
 		"weight": 540,
 		"is_default": true,
 		"abilities": ["inner-focus", "steadfast", "justified"],
-		"type": []
+		"type": ["fighting", "steel"]
 	},
 	{
 		"id": 449,
@@ -5385,7 +5385,7 @@ export const pokeData = [
 		"weight": 495,
 		"is_default": true,
 		"abilities": ["sand-stream", "sand-force"],
-		"type": []
+		"type": ["ground"]
 	},
 	{
 		"id": 450,
@@ -5397,7 +5397,7 @@ export const pokeData = [
 		"weight": 3000,
 		"is_default": true,
 		"abilities": ["sand-stream", "sand-force"],
-		"type": []
+		"type": ["ground"]
 	},
 	{
 		"id": 451,
@@ -5409,7 +5409,7 @@ export const pokeData = [
 		"weight": 120,
 		"is_default": true,
 		"abilities": ["battle-armor", "keen-eye", "sniper"],
-		"type": []
+		"type": ["poison", "bug"]
 	},
 	{
 		"id": 452,
@@ -5421,7 +5421,7 @@ export const pokeData = [
 		"weight": 615,
 		"is_default": true,
 		"abilities": ["battle-armor", "keen-eye", "sniper"],
-		"type": []
+		"type": ["poison", "dark"]
 	},
 	{
 		"id": 453,
@@ -5433,7 +5433,7 @@ export const pokeData = [
 		"weight": 230,
 		"is_default": true,
 		"abilities": ["dry-skin", "anticipation", "poison-touch"],
-		"type": []
+		"type": ["poison", "fighting"]
 	},
 	{
 		"id": 454,
@@ -5445,7 +5445,7 @@ export const pokeData = [
 		"weight": 444,
 		"is_default": true,
 		"abilities": ["dry-skin", "anticipation", "poison-touch"],
-		"type": []
+		"type": ["poison", "fighting"]
 	},
 	{
 		"id": 455,
@@ -5457,7 +5457,7 @@ export const pokeData = [
 		"weight": 270,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 456,
@@ -5469,7 +5469,7 @@ export const pokeData = [
 		"weight": 70,
 		"is_default": true,
 		"abilities": ["swift-swim", "water-veil", "storm-drain"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 457,
@@ -5481,7 +5481,7 @@ export const pokeData = [
 		"weight": 240,
 		"is_default": true,
 		"abilities": ["swift-swim", "water-veil", "storm-drain"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 458,
@@ -5493,7 +5493,7 @@ export const pokeData = [
 		"weight": 650,
 		"is_default": true,
 		"abilities": ["water-absorb", "swift-swim", "water-veil"],
-		"type": []
+		"type": ["water", "flying"]
 	},
 	{
 		"id": 459,
@@ -5505,7 +5505,7 @@ export const pokeData = [
 		"weight": 505,
 		"is_default": true,
 		"abilities": ["soundproof", "snow-warning"],
-		"type": []
+		"type": ["grass", "ice"]
 	},
 	{
 		"id": 460,
@@ -5517,7 +5517,7 @@ export const pokeData = [
 		"weight": 1355,
 		"is_default": true,
 		"abilities": ["soundproof", "snow-warning"],
-		"type": []
+		"type": ["grass", "ice"]
 	},
 	{
 		"id": 461,
@@ -5529,7 +5529,7 @@ export const pokeData = [
 		"weight": 340,
 		"is_default": true,
 		"abilities": ["pressure", "pickpocket"],
-		"type": []
+		"type": ["dark", "ice"]
 	},
 	{
 		"id": 462,
@@ -5541,7 +5541,7 @@ export const pokeData = [
 		"weight": 1800,
 		"is_default": true,
 		"abilities": ["sturdy", "magnet-pull", "analytic"],
-		"type": []
+		"type": ["electric", "steel"]
 	},
 	{
 		"id": 463,
@@ -5553,7 +5553,7 @@ export const pokeData = [
 		"weight": 1400,
 		"is_default": true,
 		"abilities": ["oblivious", "cloud-nine", "own-tempo"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 464,
@@ -5565,7 +5565,7 @@ export const pokeData = [
 		"weight": 2828,
 		"is_default": true,
 		"abilities": ["lightning-rod", "solid-rock", "reckless"],
-		"type": []
+		"type": ["ground", "rock"]
 	},
 	{
 		"id": 465,
@@ -5577,7 +5577,7 @@ export const pokeData = [
 		"weight": 1286,
 		"is_default": true,
 		"abilities": ["chlorophyll", "leaf-guard", "regenerator"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 466,
@@ -5589,7 +5589,7 @@ export const pokeData = [
 		"weight": 1386,
 		"is_default": true,
 		"abilities": ["vital-spirit", "motor-drive"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 467,
@@ -5601,7 +5601,7 @@ export const pokeData = [
 		"weight": 680,
 		"is_default": true,
 		"abilities": ["flame-body", "vital-spirit"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 468,
@@ -5613,7 +5613,7 @@ export const pokeData = [
 		"weight": 380,
 		"is_default": true,
 		"abilities": ["serene-grace", "hustle", "super-luck"],
-		"type": []
+		"type": ["fairy", "flying"]
 	},
 	{
 		"id": 469,
@@ -5625,7 +5625,7 @@ export const pokeData = [
 		"weight": 515,
 		"is_default": true,
 		"abilities": ["speed-boost", "tinted-lens", "frisk"],
-		"type": []
+		"type": ["bug", "flying"]
 	},
 	{
 		"id": 470,
@@ -5637,7 +5637,7 @@ export const pokeData = [
 		"weight": 255,
 		"is_default": true,
 		"abilities": ["chlorophyll", "leaf-guard"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 471,
@@ -5649,7 +5649,7 @@ export const pokeData = [
 		"weight": 259,
 		"is_default": true,
 		"abilities": ["snow-cloak", "ice-body"],
-		"type": []
+		"type": ["ice"]
 	},
 	{
 		"id": 472,
@@ -5661,7 +5661,7 @@ export const pokeData = [
 		"weight": 425,
 		"is_default": true,
 		"abilities": ["sand-veil", "hyper-cutter", "poison-heal"],
-		"type": []
+		"type": ["ground", "flying"]
 	},
 	{
 		"id": 473,
@@ -5673,7 +5673,7 @@ export const pokeData = [
 		"weight": 2910,
 		"is_default": true,
 		"abilities": ["oblivious", "thick-fat", "snow-cloak"],
-		"type": []
+		"type": ["ice", "ground"]
 	},
 	{
 		"id": 474,
@@ -5685,7 +5685,7 @@ export const pokeData = [
 		"weight": 340,
 		"is_default": true,
 		"abilities": ["download", "adaptability", "analytic"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 475,
@@ -5697,7 +5697,7 @@ export const pokeData = [
 		"weight": 520,
 		"is_default": true,
 		"abilities": ["steadfast", "justified"],
-		"type": []
+		"type": ["psychic", "fighting"]
 	},
 	{
 		"id": 476,
@@ -5709,7 +5709,7 @@ export const pokeData = [
 		"weight": 3400,
 		"is_default": true,
 		"abilities": ["sturdy", "magnet-pull", "sand-force"],
-		"type": []
+		"type": ["rock", "steel"]
 	},
 	{
 		"id": 477,
@@ -5721,7 +5721,7 @@ export const pokeData = [
 		"weight": 1066,
 		"is_default": true,
 		"abilities": ["pressure", "frisk"],
-		"type": []
+		"type": ["ghost"]
 	},
 	{
 		"id": 478,
@@ -5733,7 +5733,7 @@ export const pokeData = [
 		"weight": 266,
 		"is_default": true,
 		"abilities": ["snow-cloak", "cursed-body"],
-		"type": []
+		"type": ["ice", "ghost"]
 	},
 	{
 		"id": 479,
@@ -5745,7 +5745,7 @@ export const pokeData = [
 		"weight": 3,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["electric", "ghost"]
 	},
 	{
 		"id": 480,
@@ -5757,7 +5757,7 @@ export const pokeData = [
 		"weight": 3,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 481,
@@ -5769,7 +5769,7 @@ export const pokeData = [
 		"weight": 3,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 482,
@@ -5781,7 +5781,7 @@ export const pokeData = [
 		"weight": 3,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 483,
@@ -5793,7 +5793,7 @@ export const pokeData = [
 		"weight": 6830,
 		"is_default": true,
 		"abilities": ["pressure", "telepathy"],
-		"type": []
+		"type": ["steel", "dragon"]
 	},
 	{
 		"id": 484,
@@ -5805,7 +5805,7 @@ export const pokeData = [
 		"weight": 3360,
 		"is_default": true,
 		"abilities": ["pressure", "telepathy"],
-		"type": []
+		"type": ["water", "dragon"]
 	},
 	{
 		"id": 485,
@@ -5817,7 +5817,7 @@ export const pokeData = [
 		"weight": 4300,
 		"is_default": true,
 		"abilities": ["flash-fire", "flame-body"],
-		"type": []
+		"type": ["fire", "steel"]
 	},
 	{
 		"id": 486,
@@ -5829,7 +5829,7 @@ export const pokeData = [
 		"weight": 4200,
 		"is_default": true,
 		"abilities": ["slow-start"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 487,
@@ -5841,7 +5841,7 @@ export const pokeData = [
 		"weight": 7500,
 		"is_default": true,
 		"abilities": ["pressure", "telepathy"],
-		"type": []
+		"type": ["ghost", "dragon"]
 	},
 	{
 		"id": 488,
@@ -5853,7 +5853,7 @@ export const pokeData = [
 		"weight": 856,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 489,
@@ -5865,7 +5865,7 @@ export const pokeData = [
 		"weight": 31,
 		"is_default": true,
 		"abilities": ["hydration"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 490,
@@ -5877,7 +5877,7 @@ export const pokeData = [
 		"weight": 14,
 		"is_default": true,
 		"abilities": ["hydration"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 491,
@@ -5889,7 +5889,7 @@ export const pokeData = [
 		"weight": 505,
 		"is_default": true,
 		"abilities": ["bad-dreams"],
-		"type": []
+		"type": ["dark"]
 	},
 	{
 		"id": 492,
@@ -5901,7 +5901,7 @@ export const pokeData = [
 		"weight": 21,
 		"is_default": true,
 		"abilities": ["natural-cure"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 493,
@@ -5913,7 +5913,7 @@ export const pokeData = [
 		"weight": 3200,
 		"is_default": true,
 		"abilities": ["multitype"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 494,
@@ -5925,7 +5925,7 @@ export const pokeData = [
 		"weight": 40,
 		"is_default": true,
 		"abilities": ["victory-star"],
-		"type": []
+		"type": ["psychic", "fire"]
 	},
 	{
 		"id": 495,
@@ -5937,7 +5937,7 @@ export const pokeData = [
 		"weight": 81,
 		"is_default": true,
 		"abilities": ["overgrow", "contrary"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 496,
@@ -5949,7 +5949,7 @@ export const pokeData = [
 		"weight": 160,
 		"is_default": true,
 		"abilities": ["overgrow", "contrary"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 497,
@@ -5961,7 +5961,7 @@ export const pokeData = [
 		"weight": 630,
 		"is_default": true,
 		"abilities": ["overgrow", "contrary"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 498,
@@ -5973,7 +5973,7 @@ export const pokeData = [
 		"weight": 99,
 		"is_default": true,
 		"abilities": ["thick-fat", "blaze"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 499,
@@ -5985,7 +5985,7 @@ export const pokeData = [
 		"weight": 555,
 		"is_default": true,
 		"abilities": ["thick-fat", "blaze"],
-		"type": []
+		"type": ["fire", "fighting"]
 	},
 	{
 		"id": 500,
@@ -5997,7 +5997,7 @@ export const pokeData = [
 		"weight": 1500,
 		"is_default": true,
 		"abilities": ["blaze", "reckless"],
-		"type": []
+		"type": ["fire", "fighting"]
 	},
 	{
 		"id": 501,
@@ -6009,7 +6009,7 @@ export const pokeData = [
 		"weight": 59,
 		"is_default": true,
 		"abilities": ["torrent", "shell-armor"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 502,
@@ -6021,7 +6021,7 @@ export const pokeData = [
 		"weight": 245,
 		"is_default": true,
 		"abilities": ["torrent", "shell-armor"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 503,
@@ -6033,7 +6033,7 @@ export const pokeData = [
 		"weight": 946,
 		"is_default": true,
 		"abilities": ["torrent", "shell-armor"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 504,
@@ -6045,7 +6045,7 @@ export const pokeData = [
 		"weight": 116,
 		"is_default": true,
 		"abilities": ["run-away", "keen-eye", "analytic"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 505,
@@ -6057,7 +6057,7 @@ export const pokeData = [
 		"weight": 270,
 		"is_default": true,
 		"abilities": ["illuminate", "keen-eye", "analytic"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 506,
@@ -6069,7 +6069,7 @@ export const pokeData = [
 		"weight": 41,
 		"is_default": true,
 		"abilities": ["run-away", "pickup", "vital-spirit"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 507,
@@ -6081,7 +6081,7 @@ export const pokeData = [
 		"weight": 147,
 		"is_default": true,
 		"abilities": ["intimidate", "scrappy", "sand-rush"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 508,
@@ -6093,7 +6093,7 @@ export const pokeData = [
 		"weight": 610,
 		"is_default": true,
 		"abilities": ["intimidate", "scrappy", "sand-rush"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 509,
@@ -6105,7 +6105,7 @@ export const pokeData = [
 		"weight": 101,
 		"is_default": true,
 		"abilities": ["limber", "unburden", "prankster"],
-		"type": []
+		"type": ["dark"]
 	},
 	{
 		"id": 510,
@@ -6117,7 +6117,7 @@ export const pokeData = [
 		"weight": 375,
 		"is_default": true,
 		"abilities": ["limber", "unburden", "prankster"],
-		"type": []
+		"type": ["dark"]
 	},
 	{
 		"id": 511,
@@ -6129,7 +6129,7 @@ export const pokeData = [
 		"weight": 105,
 		"is_default": true,
 		"abilities": ["overgrow", "gluttony"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 512,
@@ -6141,7 +6141,7 @@ export const pokeData = [
 		"weight": 305,
 		"is_default": true,
 		"abilities": ["overgrow", "gluttony"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 513,
@@ -6153,7 +6153,7 @@ export const pokeData = [
 		"weight": 110,
 		"is_default": true,
 		"abilities": ["blaze", "gluttony"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 514,
@@ -6165,7 +6165,7 @@ export const pokeData = [
 		"weight": 280,
 		"is_default": true,
 		"abilities": ["blaze", "gluttony"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 515,
@@ -6177,7 +6177,7 @@ export const pokeData = [
 		"weight": 135,
 		"is_default": true,
 		"abilities": ["torrent", "gluttony"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 516,
@@ -6189,7 +6189,7 @@ export const pokeData = [
 		"weight": 290,
 		"is_default": true,
 		"abilities": ["torrent", "gluttony"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 517,
@@ -6201,7 +6201,7 @@ export const pokeData = [
 		"weight": 233,
 		"is_default": true,
 		"abilities": ["synchronize", "forewarn", "telepathy"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 518,
@@ -6213,7 +6213,7 @@ export const pokeData = [
 		"weight": 605,
 		"is_default": true,
 		"abilities": ["synchronize", "forewarn", "telepathy"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 519,
@@ -6225,7 +6225,7 @@ export const pokeData = [
 		"weight": 21,
 		"is_default": true,
 		"abilities": ["rivalry", "super-luck", "big-pecks"],
-		"type": []
+		"type": ["normal", "flying"]
 	},
 	{
 		"id": 520,
@@ -6237,7 +6237,7 @@ export const pokeData = [
 		"weight": 150,
 		"is_default": true,
 		"abilities": ["rivalry", "super-luck", "big-pecks"],
-		"type": []
+		"type": ["normal", "flying"]
 	},
 	{
 		"id": 521,
@@ -6249,7 +6249,7 @@ export const pokeData = [
 		"weight": 290,
 		"is_default": true,
 		"abilities": ["rivalry", "super-luck", "big-pecks"],
-		"type": []
+		"type": ["normal", "flying"]
 	},
 	{
 		"id": 522,
@@ -6261,7 +6261,7 @@ export const pokeData = [
 		"weight": 298,
 		"is_default": true,
 		"abilities": ["lightning-rod", "motor-drive", "sap-sipper"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 523,
@@ -6273,7 +6273,7 @@ export const pokeData = [
 		"weight": 795,
 		"is_default": true,
 		"abilities": ["lightning-rod", "motor-drive", "sap-sipper"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 524,
@@ -6285,7 +6285,7 @@ export const pokeData = [
 		"weight": 180,
 		"is_default": true,
 		"abilities": ["sturdy", "weak-armor", "sand-force"],
-		"type": []
+		"type": ["rock"]
 	},
 	{
 		"id": 525,
@@ -6297,7 +6297,7 @@ export const pokeData = [
 		"weight": 1020,
 		"is_default": true,
 		"abilities": ["sturdy", "weak-armor", "sand-force"],
-		"type": []
+		"type": ["rock"]
 	},
 	{
 		"id": 526,
@@ -6309,7 +6309,7 @@ export const pokeData = [
 		"weight": 2600,
 		"is_default": true,
 		"abilities": ["sturdy", "sand-stream", "sand-force"],
-		"type": []
+		"type": ["rock"]
 	},
 	{
 		"id": 527,
@@ -6321,7 +6321,7 @@ export const pokeData = [
 		"weight": 21,
 		"is_default": true,
 		"abilities": ["simple", "klutz", "unaware"],
-		"type": []
+		"type": ["psychic", "flying"]
 	},
 	{
 		"id": 528,
@@ -6333,7 +6333,7 @@ export const pokeData = [
 		"weight": 105,
 		"is_default": true,
 		"abilities": ["simple", "klutz", "unaware"],
-		"type": []
+		"type": ["psychic", "flying"]
 	},
 	{
 		"id": 529,
@@ -6345,7 +6345,7 @@ export const pokeData = [
 		"weight": 85,
 		"is_default": true,
 		"abilities": ["mold-breaker", "sand-rush", "sand-force"],
-		"type": []
+		"type": ["ground"]
 	},
 	{
 		"id": 530,
@@ -6357,7 +6357,7 @@ export const pokeData = [
 		"weight": 404,
 		"is_default": true,
 		"abilities": ["mold-breaker", "sand-rush", "sand-force"],
-		"type": []
+		"type": ["ground", "steel"]
 	},
 	{
 		"id": 531,
@@ -6369,7 +6369,7 @@ export const pokeData = [
 		"weight": 310,
 		"is_default": true,
 		"abilities": ["klutz", "healer", "regenerator"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 532,
@@ -6381,7 +6381,7 @@ export const pokeData = [
 		"weight": 125,
 		"is_default": true,
 		"abilities": ["guts", "iron-fist", "sheer-force"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 533,
@@ -6393,7 +6393,7 @@ export const pokeData = [
 		"weight": 400,
 		"is_default": true,
 		"abilities": ["guts", "iron-fist", "sheer-force"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 534,
@@ -6405,7 +6405,7 @@ export const pokeData = [
 		"weight": 870,
 		"is_default": true,
 		"abilities": ["guts", "iron-fist", "sheer-force"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 535,
@@ -6417,7 +6417,7 @@ export const pokeData = [
 		"weight": 45,
 		"is_default": true,
 		"abilities": ["water-absorb", "swift-swim", "hydration"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 536,
@@ -6429,7 +6429,7 @@ export const pokeData = [
 		"weight": 170,
 		"is_default": true,
 		"abilities": ["water-absorb", "swift-swim", "hydration"],
-		"type": []
+		"type": ["water", "ground"]
 	},
 	{
 		"id": 537,
@@ -6441,7 +6441,7 @@ export const pokeData = [
 		"weight": 620,
 		"is_default": true,
 		"abilities": ["water-absorb", "swift-swim", "poison-touch"],
-		"type": []
+		"type": ["water", "ground"]
 	},
 	{
 		"id": 538,
@@ -6453,7 +6453,7 @@ export const pokeData = [
 		"weight": 555,
 		"is_default": true,
 		"abilities": ["inner-focus", "guts", "mold-breaker"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 539,
@@ -6465,7 +6465,7 @@ export const pokeData = [
 		"weight": 510,
 		"is_default": true,
 		"abilities": ["sturdy", "inner-focus", "mold-breaker"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 540,
@@ -6477,7 +6477,7 @@ export const pokeData = [
 		"weight": 25,
 		"is_default": true,
 		"abilities": ["chlorophyll", "swarm", "overcoat"],
-		"type": []
+		"type": ["bug", "grass"]
 	},
 	{
 		"id": 541,
@@ -6489,7 +6489,7 @@ export const pokeData = [
 		"weight": 73,
 		"is_default": true,
 		"abilities": ["chlorophyll", "leaf-guard", "overcoat"],
-		"type": []
+		"type": ["bug", "grass"]
 	},
 	{
 		"id": 542,
@@ -6501,7 +6501,7 @@ export const pokeData = [
 		"weight": 205,
 		"is_default": true,
 		"abilities": ["chlorophyll", "swarm", "overcoat"],
-		"type": []
+		"type": ["bug", "grass"]
 	},
 	{
 		"id": 543,
@@ -6513,7 +6513,7 @@ export const pokeData = [
 		"weight": 53,
 		"is_default": true,
 		"abilities": ["speed-boost", "poison-point", "swarm"],
-		"type": []
+		"type": ["bug", "poison"]
 	},
 	{
 		"id": 544,
@@ -6525,7 +6525,7 @@ export const pokeData = [
 		"weight": 585,
 		"is_default": true,
 		"abilities": ["speed-boost", "poison-point", "swarm"],
-		"type": []
+		"type": ["bug", "poison"]
 	},
 	{
 		"id": 545,
@@ -6537,7 +6537,7 @@ export const pokeData = [
 		"weight": 2005,
 		"is_default": true,
 		"abilities": ["speed-boost", "poison-point", "swarm"],
-		"type": []
+		"type": ["bug", "poison"]
 	},
 	{
 		"id": 546,
@@ -6549,7 +6549,7 @@ export const pokeData = [
 		"weight": 6,
 		"is_default": true,
 		"abilities": ["chlorophyll", "infiltrator", "prankster"],
-		"type": []
+		"type": ["grass", "fairy"]
 	},
 	{
 		"id": 547,
@@ -6561,7 +6561,7 @@ export const pokeData = [
 		"weight": 66,
 		"is_default": true,
 		"abilities": ["chlorophyll", "infiltrator", "prankster"],
-		"type": []
+		"type": ["grass", "fairy"]
 	},
 	{
 		"id": 548,
@@ -6573,7 +6573,7 @@ export const pokeData = [
 		"weight": 66,
 		"is_default": true,
 		"abilities": ["own-tempo", "chlorophyll", "leaf-guard"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 549,
@@ -6585,7 +6585,7 @@ export const pokeData = [
 		"weight": 163,
 		"is_default": true,
 		"abilities": ["own-tempo", "chlorophyll", "leaf-guard"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 550,
@@ -6597,7 +6597,7 @@ export const pokeData = [
 		"weight": 180,
 		"is_default": true,
 		"abilities": ["adaptability", "mold-breaker", "reckless"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 551,
@@ -6609,7 +6609,7 @@ export const pokeData = [
 		"weight": 152,
 		"is_default": true,
 		"abilities": ["intimidate", "anger-point", "moxie"],
-		"type": []
+		"type": ["ground", "dark"]
 	},
 	{
 		"id": 552,
@@ -6621,7 +6621,7 @@ export const pokeData = [
 		"weight": 334,
 		"is_default": true,
 		"abilities": ["intimidate", "anger-point", "moxie"],
-		"type": []
+		"type": ["ground", "dark"]
 	},
 	{
 		"id": 553,
@@ -6633,7 +6633,7 @@ export const pokeData = [
 		"weight": 963,
 		"is_default": true,
 		"abilities": ["intimidate", "anger-point", "moxie"],
-		"type": []
+		"type": ["ground", "dark"]
 	},
 	{
 		"id": 554,
@@ -6645,7 +6645,7 @@ export const pokeData = [
 		"weight": 375,
 		"is_default": true,
 		"abilities": ["inner-focus", "hustle"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 555,
@@ -6657,7 +6657,7 @@ export const pokeData = [
 		"weight": 929,
 		"is_default": true,
 		"abilities": ["sheer-force", "zen-mode"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 556,
@@ -6669,7 +6669,7 @@ export const pokeData = [
 		"weight": 280,
 		"is_default": true,
 		"abilities": ["water-absorb", "chlorophyll", "storm-drain"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 557,
@@ -6681,7 +6681,7 @@ export const pokeData = [
 		"weight": 145,
 		"is_default": true,
 		"abilities": ["sturdy", "shell-armor", "weak-armor"],
-		"type": []
+		"type": ["bug", "rock"]
 	},
 	{
 		"id": 558,
@@ -6693,7 +6693,7 @@ export const pokeData = [
 		"weight": 2000,
 		"is_default": true,
 		"abilities": ["sturdy", "shell-armor", "weak-armor"],
-		"type": []
+		"type": ["bug", "rock"]
 	},
 	{
 		"id": 559,
@@ -6705,7 +6705,7 @@ export const pokeData = [
 		"weight": 118,
 		"is_default": true,
 		"abilities": ["intimidate", "shed-skin", "moxie"],
-		"type": []
+		"type": ["dark", "fighting"]
 	},
 	{
 		"id": 560,
@@ -6717,7 +6717,7 @@ export const pokeData = [
 		"weight": 300,
 		"is_default": true,
 		"abilities": ["intimidate", "shed-skin", "moxie"],
-		"type": []
+		"type": ["dark", "fighting"]
 	},
 	{
 		"id": 561,
@@ -6729,7 +6729,7 @@ export const pokeData = [
 		"weight": 140,
 		"is_default": true,
 		"abilities": ["magic-guard", "tinted-lens", "wonder-skin"],
-		"type": []
+		"type": ["psychic", "flying"]
 	},
 	{
 		"id": 562,
@@ -6741,7 +6741,7 @@ export const pokeData = [
 		"weight": 15,
 		"is_default": true,
 		"abilities": ["mummy"],
-		"type": []
+		"type": ["ghost"]
 	},
 	{
 		"id": 563,
@@ -6753,7 +6753,7 @@ export const pokeData = [
 		"weight": 765,
 		"is_default": true,
 		"abilities": ["mummy"],
-		"type": []
+		"type": ["ghost"]
 	},
 	{
 		"id": 564,
@@ -6765,7 +6765,7 @@ export const pokeData = [
 		"weight": 165,
 		"is_default": true,
 		"abilities": ["sturdy", "swift-swim", "solid-rock"],
-		"type": []
+		"type": ["water", "rock"]
 	},
 	{
 		"id": 565,
@@ -6777,7 +6777,7 @@ export const pokeData = [
 		"weight": 810,
 		"is_default": true,
 		"abilities": ["sturdy", "swift-swim", "solid-rock"],
-		"type": []
+		"type": ["water", "rock"]
 	},
 	{
 		"id": 566,
@@ -6789,7 +6789,7 @@ export const pokeData = [
 		"weight": 95,
 		"is_default": true,
 		"abilities": ["defeatist"],
-		"type": []
+		"type": ["rock", "flying"]
 	},
 	{
 		"id": 567,
@@ -6801,7 +6801,7 @@ export const pokeData = [
 		"weight": 320,
 		"is_default": true,
 		"abilities": ["defeatist"],
-		"type": []
+		"type": ["rock", "flying"]
 	},
 	{
 		"id": 568,
@@ -6813,7 +6813,7 @@ export const pokeData = [
 		"weight": 310,
 		"is_default": true,
 		"abilities": ["stench", "sticky-hold", "aftermath"],
-		"type": []
+		"type": ["poison"]
 	},
 	{
 		"id": 569,
@@ -6825,7 +6825,7 @@ export const pokeData = [
 		"weight": 1073,
 		"is_default": true,
 		"abilities": ["stench", "aftermath", "weak-armor"],
-		"type": []
+		"type": ["poison"]
 	},
 	{
 		"id": 570,
@@ -6837,7 +6837,7 @@ export const pokeData = [
 		"weight": 125,
 		"is_default": true,
 		"abilities": ["illusion"],
-		"type": []
+		"type": ["dark"]
 	},
 	{
 		"id": 571,
@@ -6849,7 +6849,7 @@ export const pokeData = [
 		"weight": 811,
 		"is_default": true,
 		"abilities": ["illusion"],
-		"type": []
+		"type": ["dark"]
 	},
 	{
 		"id": 572,
@@ -6861,7 +6861,7 @@ export const pokeData = [
 		"weight": 58,
 		"is_default": true,
 		"abilities": ["cute-charm", "skill-link", "technician"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 573,
@@ -6873,7 +6873,7 @@ export const pokeData = [
 		"weight": 75,
 		"is_default": true,
 		"abilities": ["cute-charm", "skill-link", "technician"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 574,
@@ -6885,7 +6885,7 @@ export const pokeData = [
 		"weight": 58,
 		"is_default": true,
 		"abilities": ["shadow-tag", "frisk", "competitive"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 575,
@@ -6897,7 +6897,7 @@ export const pokeData = [
 		"weight": 180,
 		"is_default": true,
 		"abilities": ["shadow-tag", "frisk", "competitive"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 576,
@@ -6909,7 +6909,7 @@ export const pokeData = [
 		"weight": 440,
 		"is_default": true,
 		"abilities": ["shadow-tag", "frisk", "competitive"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 577,
@@ -6921,7 +6921,7 @@ export const pokeData = [
 		"weight": 10,
 		"is_default": true,
 		"abilities": ["magic-guard", "overcoat", "regenerator"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 578,
@@ -6933,7 +6933,7 @@ export const pokeData = [
 		"weight": 80,
 		"is_default": true,
 		"abilities": ["magic-guard", "overcoat", "regenerator"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 579,
@@ -6945,7 +6945,7 @@ export const pokeData = [
 		"weight": 201,
 		"is_default": true,
 		"abilities": ["magic-guard", "overcoat", "regenerator"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 580,
@@ -6957,7 +6957,7 @@ export const pokeData = [
 		"weight": 55,
 		"is_default": true,
 		"abilities": ["keen-eye", "hydration", "big-pecks"],
-		"type": []
+		"type": ["water", "flying"]
 	},
 	{
 		"id": 581,
@@ -6969,7 +6969,7 @@ export const pokeData = [
 		"weight": 242,
 		"is_default": true,
 		"abilities": ["keen-eye", "hydration", "big-pecks"],
-		"type": []
+		"type": ["water", "flying"]
 	},
 	{
 		"id": 582,
@@ -6981,7 +6981,7 @@ export const pokeData = [
 		"weight": 57,
 		"is_default": true,
 		"abilities": ["snow-cloak", "ice-body", "weak-armor"],
-		"type": []
+		"type": ["ice"]
 	},
 	{
 		"id": 583,
@@ -6993,7 +6993,7 @@ export const pokeData = [
 		"weight": 410,
 		"is_default": true,
 		"abilities": ["snow-cloak", "ice-body", "weak-armor"],
-		"type": []
+		"type": ["ice"]
 	},
 	{
 		"id": 584,
@@ -7005,7 +7005,7 @@ export const pokeData = [
 		"weight": 575,
 		"is_default": true,
 		"abilities": ["ice-body", "snow-warning", "weak-armor"],
-		"type": []
+		"type": ["ice"]
 	},
 	{
 		"id": 585,
@@ -7017,7 +7017,7 @@ export const pokeData = [
 		"weight": 195,
 		"is_default": true,
 		"abilities": ["serene-grace", "chlorophyll", "sap-sipper"],
-		"type": []
+		"type": ["normal", "grass"]
 	},
 	{
 		"id": 586,
@@ -7029,7 +7029,7 @@ export const pokeData = [
 		"weight": 925,
 		"is_default": true,
 		"abilities": ["serene-grace", "chlorophyll", "sap-sipper"],
-		"type": []
+		"type": ["normal", "grass"]
 	},
 	{
 		"id": 587,
@@ -7041,7 +7041,7 @@ export const pokeData = [
 		"weight": 50,
 		"is_default": true,
 		"abilities": ["static", "motor-drive"],
-		"type": []
+		"type": ["electric", "flying"]
 	},
 	{
 		"id": 588,
@@ -7053,7 +7053,7 @@ export const pokeData = [
 		"weight": 59,
 		"is_default": true,
 		"abilities": ["shed-skin", "swarm", "no-guard"],
-		"type": []
+		"type": ["bug"]
 	},
 	{
 		"id": 589,
@@ -7065,7 +7065,7 @@ export const pokeData = [
 		"weight": 330,
 		"is_default": true,
 		"abilities": ["swarm", "shell-armor", "overcoat"],
-		"type": []
+		"type": ["bug", "steel"]
 	},
 	{
 		"id": 590,
@@ -7077,7 +7077,7 @@ export const pokeData = [
 		"weight": 10,
 		"is_default": true,
 		"abilities": ["effect-spore", "regenerator"],
-		"type": []
+		"type": ["grass", "poison"]
 	},
 	{
 		"id": 591,
@@ -7089,7 +7089,7 @@ export const pokeData = [
 		"weight": 105,
 		"is_default": true,
 		"abilities": ["effect-spore", "regenerator"],
-		"type": []
+		"type": ["grass", "poison"]
 	},
 	{
 		"id": 592,
@@ -7101,7 +7101,7 @@ export const pokeData = [
 		"weight": 330,
 		"is_default": true,
 		"abilities": ["damp", "water-absorb", "cursed-body"],
-		"type": []
+		"type": ["water", "ghost"]
 	},
 	{
 		"id": 593,
@@ -7113,7 +7113,7 @@ export const pokeData = [
 		"weight": 1350,
 		"is_default": true,
 		"abilities": ["damp", "water-absorb", "cursed-body"],
-		"type": []
+		"type": ["water", "ghost"]
 	},
 	{
 		"id": 594,
@@ -7125,7 +7125,7 @@ export const pokeData = [
 		"weight": 316,
 		"is_default": true,
 		"abilities": ["hydration", "healer", "regenerator"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 595,
@@ -7137,7 +7137,7 @@ export const pokeData = [
 		"weight": 6,
 		"is_default": true,
 		"abilities": ["compound-eyes", "swarm", "unnerve"],
-		"type": []
+		"type": ["bug", "electric"]
 	},
 	{
 		"id": 596,
@@ -7149,7 +7149,7 @@ export const pokeData = [
 		"weight": 143,
 		"is_default": true,
 		"abilities": ["compound-eyes", "swarm", "unnerve"],
-		"type": []
+		"type": ["bug", "electric"]
 	},
 	{
 		"id": 597,
@@ -7161,7 +7161,7 @@ export const pokeData = [
 		"weight": 188,
 		"is_default": true,
 		"abilities": ["iron-barbs"],
-		"type": []
+		"type": ["grass", "steel"]
 	},
 	{
 		"id": 598,
@@ -7173,7 +7173,7 @@ export const pokeData = [
 		"weight": 1100,
 		"is_default": true,
 		"abilities": ["anticipation", "iron-barbs"],
-		"type": []
+		"type": ["grass", "steel"]
 	},
 	{
 		"id": 599,
@@ -7185,7 +7185,7 @@ export const pokeData = [
 		"weight": 210,
 		"is_default": true,
 		"abilities": ["clear-body", "plus", "minus"],
-		"type": []
+		"type": ["steel"]
 	},
 	{
 		"id": 600,
@@ -7197,7 +7197,7 @@ export const pokeData = [
 		"weight": 510,
 		"is_default": true,
 		"abilities": ["clear-body", "plus", "minus"],
-		"type": []
+		"type": ["steel"]
 	},
 	{
 		"id": 601,
@@ -7209,7 +7209,7 @@ export const pokeData = [
 		"weight": 810,
 		"is_default": true,
 		"abilities": ["clear-body", "plus", "minus"],
-		"type": []
+		"type": ["steel"]
 	},
 	{
 		"id": 602,
@@ -7221,7 +7221,7 @@ export const pokeData = [
 		"weight": 3,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 603,
@@ -7233,7 +7233,7 @@ export const pokeData = [
 		"weight": 220,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 604,
@@ -7245,7 +7245,7 @@ export const pokeData = [
 		"weight": 805,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 605,
@@ -7257,7 +7257,7 @@ export const pokeData = [
 		"weight": 90,
 		"is_default": true,
 		"abilities": ["synchronize", "telepathy", "analytic"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 606,
@@ -7269,7 +7269,7 @@ export const pokeData = [
 		"weight": 345,
 		"is_default": true,
 		"abilities": ["synchronize", "telepathy", "analytic"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 607,
@@ -7281,7 +7281,7 @@ export const pokeData = [
 		"weight": 31,
 		"is_default": true,
 		"abilities": ["flash-fire", "flame-body", "infiltrator"],
-		"type": []
+		"type": ["ghost", "fire"]
 	},
 	{
 		"id": 608,
@@ -7293,7 +7293,7 @@ export const pokeData = [
 		"weight": 130,
 		"is_default": true,
 		"abilities": ["flash-fire", "flame-body", "infiltrator"],
-		"type": []
+		"type": ["ghost", "fire"]
 	},
 	{
 		"id": 609,
@@ -7305,7 +7305,7 @@ export const pokeData = [
 		"weight": 343,
 		"is_default": true,
 		"abilities": ["flash-fire", "flame-body", "infiltrator"],
-		"type": []
+		"type": ["ghost", "fire"]
 	},
 	{
 		"id": 610,
@@ -7317,7 +7317,7 @@ export const pokeData = [
 		"weight": 180,
 		"is_default": true,
 		"abilities": ["rivalry", "mold-breaker", "unnerve"],
-		"type": []
+		"type": ["dragon"]
 	},
 	{
 		"id": 611,
@@ -7329,7 +7329,7 @@ export const pokeData = [
 		"weight": 360,
 		"is_default": true,
 		"abilities": ["rivalry", "mold-breaker", "unnerve"],
-		"type": []
+		"type": ["dragon"]
 	},
 	{
 		"id": 612,
@@ -7341,7 +7341,7 @@ export const pokeData = [
 		"weight": 1055,
 		"is_default": true,
 		"abilities": ["rivalry", "mold-breaker", "unnerve"],
-		"type": []
+		"type": ["dragon"]
 	},
 	{
 		"id": 613,
@@ -7353,7 +7353,7 @@ export const pokeData = [
 		"weight": 85,
 		"is_default": true,
 		"abilities": ["snow-cloak", "rattled", "slush-rush"],
-		"type": []
+		"type": ["ice"]
 	},
 	{
 		"id": 614,
@@ -7365,7 +7365,7 @@ export const pokeData = [
 		"weight": 2600,
 		"is_default": true,
 		"abilities": ["swift-swim", "snow-cloak", "slush-rush"],
-		"type": []
+		"type": ["ice"]
 	},
 	{
 		"id": 615,
@@ -7377,7 +7377,7 @@ export const pokeData = [
 		"weight": 1480,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["ice"]
 	},
 	{
 		"id": 616,
@@ -7389,7 +7389,7 @@ export const pokeData = [
 		"weight": 77,
 		"is_default": true,
 		"abilities": ["shell-armor", "hydration", "overcoat"],
-		"type": []
+		"type": ["bug"]
 	},
 	{
 		"id": 617,
@@ -7401,7 +7401,7 @@ export const pokeData = [
 		"weight": 253,
 		"is_default": true,
 		"abilities": ["sticky-hold", "unburden", "hydration"],
-		"type": []
+		"type": ["bug"]
 	},
 	{
 		"id": 618,
@@ -7413,7 +7413,7 @@ export const pokeData = [
 		"weight": 110,
 		"is_default": true,
 		"abilities": ["limber", "sand-veil", "static"],
-		"type": []
+		"type": ["ground", "electric"]
 	},
 	{
 		"id": 619,
@@ -7425,7 +7425,7 @@ export const pokeData = [
 		"weight": 200,
 		"is_default": true,
 		"abilities": ["inner-focus", "reckless", "regenerator"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 620,
@@ -7437,7 +7437,7 @@ export const pokeData = [
 		"weight": 355,
 		"is_default": true,
 		"abilities": ["inner-focus", "reckless", "regenerator"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 621,
@@ -7449,7 +7449,7 @@ export const pokeData = [
 		"weight": 1390,
 		"is_default": true,
 		"abilities": ["rough-skin", "mold-breaker", "sheer-force"],
-		"type": []
+		"type": ["dragon"]
 	},
 	{
 		"id": 622,
@@ -7461,7 +7461,7 @@ export const pokeData = [
 		"weight": 920,
 		"is_default": true,
 		"abilities": ["iron-fist", "no-guard", "klutz"],
-		"type": []
+		"type": ["ground", "ghost"]
 	},
 	{
 		"id": 623,
@@ -7473,7 +7473,7 @@ export const pokeData = [
 		"weight": 3300,
 		"is_default": true,
 		"abilities": ["iron-fist", "no-guard", "klutz"],
-		"type": []
+		"type": ["ground", "ghost"]
 	},
 	{
 		"id": 624,
@@ -7485,7 +7485,7 @@ export const pokeData = [
 		"weight": 102,
 		"is_default": true,
 		"abilities": ["inner-focus", "pressure", "defiant"],
-		"type": []
+		"type": ["dark", "steel"]
 	},
 	{
 		"id": 625,
@@ -7497,7 +7497,7 @@ export const pokeData = [
 		"weight": 700,
 		"is_default": true,
 		"abilities": ["inner-focus", "pressure", "defiant"],
-		"type": []
+		"type": ["dark", "steel"]
 	},
 	{
 		"id": 626,
@@ -7509,7 +7509,7 @@ export const pokeData = [
 		"weight": 946,
 		"is_default": true,
 		"abilities": ["soundproof", "reckless", "sap-sipper"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 627,
@@ -7521,7 +7521,7 @@ export const pokeData = [
 		"weight": 105,
 		"is_default": true,
 		"abilities": ["keen-eye", "hustle", "sheer-force"],
-		"type": []
+		"type": ["normal", "flying"]
 	},
 	{
 		"id": 628,
@@ -7533,7 +7533,7 @@ export const pokeData = [
 		"weight": 410,
 		"is_default": true,
 		"abilities": ["keen-eye", "sheer-force", "defiant"],
-		"type": []
+		"type": ["normal", "flying"]
 	},
 	{
 		"id": 629,
@@ -7545,7 +7545,7 @@ export const pokeData = [
 		"weight": 90,
 		"is_default": true,
 		"abilities": ["weak-armor", "overcoat", "big-pecks"],
-		"type": []
+		"type": ["dark", "flying"]
 	},
 	{
 		"id": 630,
@@ -7557,7 +7557,7 @@ export const pokeData = [
 		"weight": 395,
 		"is_default": true,
 		"abilities": ["weak-armor", "overcoat", "big-pecks"],
-		"type": []
+		"type": ["dark", "flying"]
 	},
 	{
 		"id": 631,
@@ -7569,7 +7569,7 @@ export const pokeData = [
 		"weight": 580,
 		"is_default": true,
 		"abilities": ["flash-fire", "white-smoke", "gluttony"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 632,
@@ -7581,7 +7581,7 @@ export const pokeData = [
 		"weight": 330,
 		"is_default": true,
 		"abilities": ["truant", "hustle", "swarm"],
-		"type": []
+		"type": ["bug", "steel"]
 	},
 	{
 		"id": 633,
@@ -7593,7 +7593,7 @@ export const pokeData = [
 		"weight": 173,
 		"is_default": true,
 		"abilities": ["hustle"],
-		"type": []
+		"type": ["dark", "dragon"]
 	},
 	{
 		"id": 634,
@@ -7605,7 +7605,7 @@ export const pokeData = [
 		"weight": 500,
 		"is_default": true,
 		"abilities": ["hustle"],
-		"type": []
+		"type": ["dark", "dragon"]
 	},
 	{
 		"id": 635,
@@ -7617,7 +7617,7 @@ export const pokeData = [
 		"weight": 1600,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["dark", "dragon"]
 	},
 	{
 		"id": 636,
@@ -7629,7 +7629,7 @@ export const pokeData = [
 		"weight": 288,
 		"is_default": true,
 		"abilities": ["flame-body", "swarm"],
-		"type": []
+		"type": ["bug", "fire"]
 	},
 	{
 		"id": 637,
@@ -7641,7 +7641,7 @@ export const pokeData = [
 		"weight": 460,
 		"is_default": true,
 		"abilities": ["flame-body", "swarm"],
-		"type": []
+		"type": ["bug", "fire"]
 	},
 	{
 		"id": 638,
@@ -7653,7 +7653,7 @@ export const pokeData = [
 		"weight": 2500,
 		"is_default": true,
 		"abilities": ["justified"],
-		"type": []
+		"type": ["steel", "fighting"]
 	},
 	{
 		"id": 639,
@@ -7665,7 +7665,7 @@ export const pokeData = [
 		"weight": 2600,
 		"is_default": true,
 		"abilities": ["justified"],
-		"type": []
+		"type": ["rock", "fighting"]
 	},
 	{
 		"id": 640,
@@ -7677,7 +7677,7 @@ export const pokeData = [
 		"weight": 2000,
 		"is_default": true,
 		"abilities": ["justified"],
-		"type": []
+		"type": ["grass", "fighting"]
 	},
 	{
 		"id": 641,
@@ -7689,7 +7689,7 @@ export const pokeData = [
 		"weight": 630,
 		"is_default": true,
 		"abilities": ["defiant", "prankster"],
-		"type": []
+		"type": ["flying"]
 	},
 	{
 		"id": 642,
@@ -7701,7 +7701,7 @@ export const pokeData = [
 		"weight": 610,
 		"is_default": true,
 		"abilities": ["defiant", "prankster"],
-		"type": []
+		"type": ["electric", "flying"]
 	},
 	{
 		"id": 643,
@@ -7713,7 +7713,7 @@ export const pokeData = [
 		"weight": 3300,
 		"is_default": true,
 		"abilities": ["turboblaze"],
-		"type": []
+		"type": ["dragon", "fire"]
 	},
 	{
 		"id": 644,
@@ -7725,7 +7725,7 @@ export const pokeData = [
 		"weight": 3450,
 		"is_default": true,
 		"abilities": ["teravolt"],
-		"type": []
+		"type": ["dragon", "electric"]
 	},
 	{
 		"id": 645,
@@ -7737,7 +7737,7 @@ export const pokeData = [
 		"weight": 680,
 		"is_default": true,
 		"abilities": ["sheer-force", "sand-force"],
-		"type": []
+		"type": ["ground", "flying"]
 	},
 	{
 		"id": 646,
@@ -7749,7 +7749,7 @@ export const pokeData = [
 		"weight": 3250,
 		"is_default": true,
 		"abilities": ["pressure"],
-		"type": []
+		"type": ["dragon", "ice"]
 	},
 	{
 		"id": 647,
@@ -7761,7 +7761,7 @@ export const pokeData = [
 		"weight": 485,
 		"is_default": true,
 		"abilities": ["justified"],
-		"type": []
+		"type": ["water", "fighting"]
 	},
 	{
 		"id": 648,
@@ -7773,7 +7773,7 @@ export const pokeData = [
 		"weight": 65,
 		"is_default": true,
 		"abilities": ["serene-grace"],
-		"type": []
+		"type": ["normal", "psychic"]
 	},
 	{
 		"id": 649,
@@ -7785,7 +7785,7 @@ export const pokeData = [
 		"weight": 825,
 		"is_default": true,
 		"abilities": ["download"],
-		"type": []
+		"type": ["bug", "steel"]
 	},
 	{
 		"id": 650,
@@ -7797,7 +7797,7 @@ export const pokeData = [
 		"weight": 90,
 		"is_default": true,
 		"abilities": ["overgrow", "bulletproof"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 651,
@@ -7809,7 +7809,7 @@ export const pokeData = [
 		"weight": 290,
 		"is_default": true,
 		"abilities": ["overgrow", "bulletproof"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 652,
@@ -7821,7 +7821,7 @@ export const pokeData = [
 		"weight": 900,
 		"is_default": true,
 		"abilities": ["overgrow", "bulletproof"],
-		"type": []
+		"type": ["grass", "fighting"]
 	},
 	{
 		"id": 653,
@@ -7833,7 +7833,7 @@ export const pokeData = [
 		"weight": 94,
 		"is_default": true,
 		"abilities": ["blaze", "magician"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 654,
@@ -7845,7 +7845,7 @@ export const pokeData = [
 		"weight": 145,
 		"is_default": true,
 		"abilities": ["blaze", "magician"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 655,
@@ -7857,7 +7857,7 @@ export const pokeData = [
 		"weight": 390,
 		"is_default": true,
 		"abilities": ["blaze", "magician"],
-		"type": []
+		"type": ["fire", "psychic"]
 	},
 	{
 		"id": 656,
@@ -7869,7 +7869,7 @@ export const pokeData = [
 		"weight": 70,
 		"is_default": true,
 		"abilities": ["torrent", "protean"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 657,
@@ -7881,7 +7881,7 @@ export const pokeData = [
 		"weight": 109,
 		"is_default": true,
 		"abilities": ["torrent", "protean"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 658,
@@ -7893,7 +7893,7 @@ export const pokeData = [
 		"weight": 400,
 		"is_default": true,
 		"abilities": ["torrent", "protean"],
-		"type": []
+		"type": ["water", "dark"]
 	},
 	{
 		"id": 659,
@@ -7905,7 +7905,7 @@ export const pokeData = [
 		"weight": 50,
 		"is_default": true,
 		"abilities": ["huge-power", "pickup", "cheek-pouch"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 660,
@@ -7917,7 +7917,7 @@ export const pokeData = [
 		"weight": 424,
 		"is_default": true,
 		"abilities": ["huge-power", "pickup", "cheek-pouch"],
-		"type": []
+		"type": ["normal", "ground"]
 	},
 	{
 		"id": 661,
@@ -7929,7 +7929,7 @@ export const pokeData = [
 		"weight": 17,
 		"is_default": true,
 		"abilities": ["big-pecks", "gale-wings"],
-		"type": []
+		"type": ["normal", "flying"]
 	},
 	{
 		"id": 662,
@@ -7941,7 +7941,7 @@ export const pokeData = [
 		"weight": 160,
 		"is_default": true,
 		"abilities": ["flame-body", "gale-wings"],
-		"type": []
+		"type": ["fire", "flying"]
 	},
 	{
 		"id": 663,
@@ -7953,7 +7953,7 @@ export const pokeData = [
 		"weight": 245,
 		"is_default": true,
 		"abilities": ["flame-body", "gale-wings"],
-		"type": []
+		"type": ["fire", "flying"]
 	},
 	{
 		"id": 664,
@@ -7965,7 +7965,7 @@ export const pokeData = [
 		"weight": 25,
 		"is_default": true,
 		"abilities": ["compound-eyes", "shield-dust", "friend-guard"],
-		"type": []
+		"type": ["bug"]
 	},
 	{
 		"id": 665,
@@ -7977,7 +7977,7 @@ export const pokeData = [
 		"weight": 84,
 		"is_default": true,
 		"abilities": ["shed-skin", "friend-guard"],
-		"type": []
+		"type": ["bug"]
 	},
 	{
 		"id": 666,
@@ -7989,7 +7989,7 @@ export const pokeData = [
 		"weight": 170,
 		"is_default": true,
 		"abilities": ["compound-eyes", "shield-dust", "friend-guard"],
-		"type": []
+		"type": ["bug", "flying"]
 	},
 	{
 		"id": 667,
@@ -8001,7 +8001,7 @@ export const pokeData = [
 		"weight": 135,
 		"is_default": true,
 		"abilities": ["rivalry", "unnerve", "moxie"],
-		"type": []
+		"type": ["fire", "normal"]
 	},
 	{
 		"id": 668,
@@ -8013,7 +8013,7 @@ export const pokeData = [
 		"weight": 815,
 		"is_default": true,
 		"abilities": ["rivalry", "unnerve", "moxie"],
-		"type": []
+		"type": ["fire", "normal"]
 	},
 	{
 		"id": 669,
@@ -8025,7 +8025,7 @@ export const pokeData = [
 		"weight": 1,
 		"is_default": true,
 		"abilities": ["flower-veil", "symbiosis"],
-		"type": []
+		"type": ["fairy"]
 	},
 	{
 		"id": 670,
@@ -8037,7 +8037,7 @@ export const pokeData = [
 		"weight": 9,
 		"is_default": true,
 		"abilities": ["flower-veil", "symbiosis"],
-		"type": []
+		"type": ["fairy"]
 	},
 	{
 		"id": 671,
@@ -8049,7 +8049,7 @@ export const pokeData = [
 		"weight": 100,
 		"is_default": true,
 		"abilities": ["flower-veil", "symbiosis"],
-		"type": []
+		"type": ["fairy"]
 	},
 	{
 		"id": 672,
@@ -8061,7 +8061,7 @@ export const pokeData = [
 		"weight": 310,
 		"is_default": true,
 		"abilities": ["sap-sipper", "grass-pelt"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 673,
@@ -8073,7 +8073,7 @@ export const pokeData = [
 		"weight": 910,
 		"is_default": true,
 		"abilities": ["sap-sipper", "grass-pelt"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 674,
@@ -8085,7 +8085,7 @@ export const pokeData = [
 		"weight": 80,
 		"is_default": true,
 		"abilities": ["iron-fist", "mold-breaker", "scrappy"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 675,
@@ -8097,7 +8097,7 @@ export const pokeData = [
 		"weight": 1360,
 		"is_default": true,
 		"abilities": ["iron-fist", "mold-breaker", "scrappy"],
-		"type": []
+		"type": ["fighting", "dark"]
 	},
 	{
 		"id": 676,
@@ -8109,7 +8109,7 @@ export const pokeData = [
 		"weight": 280,
 		"is_default": true,
 		"abilities": ["fur-coat"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 677,
@@ -8121,7 +8121,7 @@ export const pokeData = [
 		"weight": 35,
 		"is_default": true,
 		"abilities": ["own-tempo", "keen-eye", "infiltrator"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 678,
@@ -8133,7 +8133,7 @@ export const pokeData = [
 		"weight": 85,
 		"is_default": true,
 		"abilities": ["keen-eye", "infiltrator", "prankster"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 679,
@@ -8145,7 +8145,7 @@ export const pokeData = [
 		"weight": 20,
 		"is_default": true,
 		"abilities": ["no-guard"],
-		"type": []
+		"type": ["steel", "ghost"]
 	},
 	{
 		"id": 680,
@@ -8157,7 +8157,7 @@ export const pokeData = [
 		"weight": 45,
 		"is_default": true,
 		"abilities": ["no-guard"],
-		"type": []
+		"type": ["steel", "ghost"]
 	},
 	{
 		"id": 681,
@@ -8169,7 +8169,7 @@ export const pokeData = [
 		"weight": 530,
 		"is_default": true,
 		"abilities": ["stance-change"],
-		"type": []
+		"type": ["steel", "ghost"]
 	},
 	{
 		"id": 682,
@@ -8181,7 +8181,7 @@ export const pokeData = [
 		"weight": 5,
 		"is_default": true,
 		"abilities": ["healer", "aroma-veil"],
-		"type": []
+		"type": ["fairy"]
 	},
 	{
 		"id": 683,
@@ -8193,7 +8193,7 @@ export const pokeData = [
 		"weight": 155,
 		"is_default": true,
 		"abilities": ["healer", "aroma-veil"],
-		"type": []
+		"type": ["fairy"]
 	},
 	{
 		"id": 684,
@@ -8205,7 +8205,7 @@ export const pokeData = [
 		"weight": 35,
 		"is_default": true,
 		"abilities": ["unburden", "sweet-veil"],
-		"type": []
+		"type": ["fairy"]
 	},
 	{
 		"id": 685,
@@ -8217,7 +8217,7 @@ export const pokeData = [
 		"weight": 50,
 		"is_default": true,
 		"abilities": ["unburden", "sweet-veil"],
-		"type": []
+		"type": ["fairy"]
 	},
 	{
 		"id": 686,
@@ -8229,7 +8229,7 @@ export const pokeData = [
 		"weight": 35,
 		"is_default": true,
 		"abilities": ["suction-cups", "contrary", "infiltrator"],
-		"type": []
+		"type": ["dark", "psychic"]
 	},
 	{
 		"id": 687,
@@ -8241,7 +8241,7 @@ export const pokeData = [
 		"weight": 470,
 		"is_default": true,
 		"abilities": ["suction-cups", "contrary", "infiltrator"],
-		"type": []
+		"type": ["dark", "psychic"]
 	},
 	{
 		"id": 688,
@@ -8253,7 +8253,7 @@ export const pokeData = [
 		"weight": 310,
 		"is_default": true,
 		"abilities": ["sniper", "pickpocket", "tough-claws"],
-		"type": []
+		"type": ["rock", "water"]
 	},
 	{
 		"id": 689,
@@ -8265,7 +8265,7 @@ export const pokeData = [
 		"weight": 960,
 		"is_default": true,
 		"abilities": ["sniper", "pickpocket", "tough-claws"],
-		"type": []
+		"type": ["rock", "water"]
 	},
 	{
 		"id": 690,
@@ -8277,7 +8277,7 @@ export const pokeData = [
 		"weight": 73,
 		"is_default": true,
 		"abilities": ["poison-point", "adaptability", "poison-touch"],
-		"type": []
+		"type": ["poison", "water"]
 	},
 	{
 		"id": 691,
@@ -8289,7 +8289,7 @@ export const pokeData = [
 		"weight": 815,
 		"is_default": true,
 		"abilities": ["poison-point", "adaptability", "poison-touch"],
-		"type": []
+		"type": ["poison", "dragon"]
 	},
 	{
 		"id": 692,
@@ -8301,7 +8301,7 @@ export const pokeData = [
 		"weight": 83,
 		"is_default": true,
 		"abilities": ["mega-launcher"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 693,
@@ -8313,7 +8313,7 @@ export const pokeData = [
 		"weight": 353,
 		"is_default": true,
 		"abilities": ["mega-launcher"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 694,
@@ -8325,7 +8325,7 @@ export const pokeData = [
 		"weight": 60,
 		"is_default": true,
 		"abilities": ["sand-veil", "dry-skin", "solar-power"],
-		"type": []
+		"type": ["electric", "normal"]
 	},
 	{
 		"id": 695,
@@ -8337,7 +8337,7 @@ export const pokeData = [
 		"weight": 210,
 		"is_default": true,
 		"abilities": ["sand-veil", "dry-skin", "solar-power"],
-		"type": []
+		"type": ["electric", "normal"]
 	},
 	{
 		"id": 696,
@@ -8349,7 +8349,7 @@ export const pokeData = [
 		"weight": 260,
 		"is_default": true,
 		"abilities": ["sturdy", "strong-jaw"],
-		"type": []
+		"type": ["rock", "dragon"]
 	},
 	{
 		"id": 697,
@@ -8361,7 +8361,7 @@ export const pokeData = [
 		"weight": 2700,
 		"is_default": true,
 		"abilities": ["rock-head", "strong-jaw"],
-		"type": []
+		"type": ["rock", "dragon"]
 	},
 	{
 		"id": 698,
@@ -8373,7 +8373,7 @@ export const pokeData = [
 		"weight": 252,
 		"is_default": true,
 		"abilities": ["snow-warning", "refrigerate"],
-		"type": []
+		"type": ["rock", "ice"]
 	},
 	{
 		"id": 699,
@@ -8385,7 +8385,7 @@ export const pokeData = [
 		"weight": 2250,
 		"is_default": true,
 		"abilities": ["snow-warning", "refrigerate"],
-		"type": []
+		"type": ["rock", "ice"]
 	},
 	{
 		"id": 700,
@@ -8397,7 +8397,7 @@ export const pokeData = [
 		"weight": 235,
 		"is_default": true,
 		"abilities": ["cute-charm", "pixilate"],
-		"type": []
+		"type": ["fairy"]
 	},
 	{
 		"id": 701,
@@ -8409,7 +8409,7 @@ export const pokeData = [
 		"weight": 215,
 		"is_default": true,
 		"abilities": ["limber", "unburden", "mold-breaker"],
-		"type": []
+		"type": ["fighting", "flying"]
 	},
 	{
 		"id": 702,
@@ -8421,7 +8421,7 @@ export const pokeData = [
 		"weight": 22,
 		"is_default": true,
 		"abilities": ["pickup", "plus", "cheek-pouch"],
-		"type": []
+		"type": ["electric", "fairy"]
 	},
 	{
 		"id": 703,
@@ -8433,7 +8433,7 @@ export const pokeData = [
 		"weight": 57,
 		"is_default": true,
 		"abilities": ["sturdy", "clear-body"],
-		"type": []
+		"type": ["rock", "fairy"]
 	},
 	{
 		"id": 704,
@@ -8445,7 +8445,7 @@ export const pokeData = [
 		"weight": 28,
 		"is_default": true,
 		"abilities": ["hydration", "sap-sipper", "gooey"],
-		"type": []
+		"type": ["dragon"]
 	},
 	{
 		"id": 705,
@@ -8457,7 +8457,7 @@ export const pokeData = [
 		"weight": 175,
 		"is_default": true,
 		"abilities": ["hydration", "sap-sipper", "gooey"],
-		"type": []
+		"type": ["dragon"]
 	},
 	{
 		"id": 706,
@@ -8469,7 +8469,7 @@ export const pokeData = [
 		"weight": 1505,
 		"is_default": true,
 		"abilities": ["hydration", "sap-sipper", "gooey"],
-		"type": []
+		"type": ["dragon"]
 	},
 	{
 		"id": 707,
@@ -8481,7 +8481,7 @@ export const pokeData = [
 		"weight": 30,
 		"is_default": true,
 		"abilities": ["prankster", "magician"],
-		"type": []
+		"type": ["steel", "fairy"]
 	},
 	{
 		"id": 708,
@@ -8493,7 +8493,7 @@ export const pokeData = [
 		"weight": 70,
 		"is_default": true,
 		"abilities": ["natural-cure", "frisk", "harvest"],
-		"type": []
+		"type": ["ghost", "grass"]
 	},
 	{
 		"id": 709,
@@ -8505,7 +8505,7 @@ export const pokeData = [
 		"weight": 710,
 		"is_default": true,
 		"abilities": ["natural-cure", "frisk", "harvest"],
-		"type": []
+		"type": ["ghost", "grass"]
 	},
 	{
 		"id": 710,
@@ -8517,7 +8517,7 @@ export const pokeData = [
 		"weight": 50,
 		"is_default": true,
 		"abilities": ["insomnia", "pickup", "frisk"],
-		"type": []
+		"type": ["ghost", "grass"]
 	},
 	{
 		"id": 711,
@@ -8529,7 +8529,7 @@ export const pokeData = [
 		"weight": 125,
 		"is_default": true,
 		"abilities": ["insomnia", "pickup", "frisk"],
-		"type": []
+		"type": ["ghost", "grass"]
 	},
 	{
 		"id": 712,
@@ -8541,7 +8541,7 @@ export const pokeData = [
 		"weight": 995,
 		"is_default": true,
 		"abilities": ["sturdy", "own-tempo", "ice-body"],
-		"type": []
+		"type": ["ice"]
 	},
 	{
 		"id": 713,
@@ -8553,7 +8553,7 @@ export const pokeData = [
 		"weight": 5050,
 		"is_default": true,
 		"abilities": ["sturdy", "own-tempo", "ice-body"],
-		"type": []
+		"type": ["ice"]
 	},
 	{
 		"id": 714,
@@ -8565,7 +8565,7 @@ export const pokeData = [
 		"weight": 80,
 		"is_default": true,
 		"abilities": ["frisk", "telepathy", "infiltrator"],
-		"type": []
+		"type": ["flying", "dragon"]
 	},
 	{
 		"id": 715,
@@ -8577,7 +8577,7 @@ export const pokeData = [
 		"weight": 850,
 		"is_default": true,
 		"abilities": ["frisk", "telepathy", "infiltrator"],
-		"type": []
+		"type": ["flying", "dragon"]
 	},
 	{
 		"id": 716,
@@ -8589,7 +8589,7 @@ export const pokeData = [
 		"weight": 2150,
 		"is_default": true,
 		"abilities": ["fairy-aura"],
-		"type": []
+		"type": ["fairy"]
 	},
 	{
 		"id": 717,
@@ -8601,7 +8601,7 @@ export const pokeData = [
 		"weight": 2030,
 		"is_default": true,
 		"abilities": ["dark-aura"],
-		"type": []
+		"type": ["dark", "flying"]
 	},
 	{
 		"id": 718,
@@ -8613,7 +8613,7 @@ export const pokeData = [
 		"weight": 3050,
 		"is_default": true,
 		"abilities": ["aura-break"],
-		"type": []
+		"type": ["dragon", "ground"]
 	},
 	{
 		"id": 719,
@@ -8625,7 +8625,7 @@ export const pokeData = [
 		"weight": 88,
 		"is_default": true,
 		"abilities": ["clear-body"],
-		"type": []
+		"type": ["rock", "fairy"]
 	},
 	{
 		"id": 720,
@@ -8637,7 +8637,7 @@ export const pokeData = [
 		"weight": 90,
 		"is_default": true,
 		"abilities": ["magician"],
-		"type": []
+		"type": ["psychic", "ghost"]
 	},
 	{
 		"id": 721,
@@ -8649,7 +8649,7 @@ export const pokeData = [
 		"weight": 1950,
 		"is_default": true,
 		"abilities": ["water-absorb"],
-		"type": []
+		"type": ["fire", "water"]
 	},
 	{
 		"id": 722,
@@ -8661,7 +8661,7 @@ export const pokeData = [
 		"weight": 15,
 		"is_default": true,
 		"abilities": ["overgrow", "long-reach"],
-		"type": []
+		"type": ["grass", "flying"]
 	},
 	{
 		"id": 723,
@@ -8673,7 +8673,7 @@ export const pokeData = [
 		"weight": 160,
 		"is_default": true,
 		"abilities": ["overgrow", "long-reach"],
-		"type": []
+		"type": ["grass", "flying"]
 	},
 	{
 		"id": 724,
@@ -8685,7 +8685,7 @@ export const pokeData = [
 		"weight": 366,
 		"is_default": true,
 		"abilities": ["overgrow", "long-reach"],
-		"type": []
+		"type": ["grass", "ghost"]
 	},
 	{
 		"id": 725,
@@ -8697,7 +8697,7 @@ export const pokeData = [
 		"weight": 43,
 		"is_default": true,
 		"abilities": ["intimidate", "blaze"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 726,
@@ -8709,7 +8709,7 @@ export const pokeData = [
 		"weight": 250,
 		"is_default": true,
 		"abilities": ["intimidate", "blaze"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 727,
@@ -8721,7 +8721,7 @@ export const pokeData = [
 		"weight": 830,
 		"is_default": true,
 		"abilities": ["intimidate", "blaze"],
-		"type": []
+		"type": ["fire", "dark"]
 	},
 	{
 		"id": 728,
@@ -8733,7 +8733,7 @@ export const pokeData = [
 		"weight": 75,
 		"is_default": true,
 		"abilities": ["torrent", "liquid-voice"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 729,
@@ -8745,7 +8745,7 @@ export const pokeData = [
 		"weight": 175,
 		"is_default": true,
 		"abilities": ["torrent", "liquid-voice"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 730,
@@ -8757,7 +8757,7 @@ export const pokeData = [
 		"weight": 440,
 		"is_default": true,
 		"abilities": ["torrent", "liquid-voice"],
-		"type": []
+		"type": ["water", "fairy"]
 	},
 	{
 		"id": 731,
@@ -8769,7 +8769,7 @@ export const pokeData = [
 		"weight": 12,
 		"is_default": true,
 		"abilities": ["keen-eye", "pickup", "skill-link"],
-		"type": []
+		"type": ["normal", "flying"]
 	},
 	{
 		"id": 732,
@@ -8781,7 +8781,7 @@ export const pokeData = [
 		"weight": 148,
 		"is_default": true,
 		"abilities": ["keen-eye", "pickup", "skill-link"],
-		"type": []
+		"type": ["normal", "flying"]
 	},
 	{
 		"id": 733,
@@ -8793,7 +8793,7 @@ export const pokeData = [
 		"weight": 260,
 		"is_default": true,
 		"abilities": ["keen-eye", "skill-link", "sheer-force"],
-		"type": []
+		"type": ["normal", "flying"]
 	},
 	{
 		"id": 734,
@@ -8805,7 +8805,7 @@ export const pokeData = [
 		"weight": 60,
 		"is_default": true,
 		"abilities": ["adaptability", "strong-jaw", "stakeout"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 735,
@@ -8817,7 +8817,7 @@ export const pokeData = [
 		"weight": 142,
 		"is_default": true,
 		"abilities": ["adaptability", "strong-jaw", "stakeout"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 736,
@@ -8829,7 +8829,7 @@ export const pokeData = [
 		"weight": 44,
 		"is_default": true,
 		"abilities": ["swarm"],
-		"type": []
+		"type": ["bug"]
 	},
 	{
 		"id": 737,
@@ -8841,7 +8841,7 @@ export const pokeData = [
 		"weight": 105,
 		"is_default": true,
 		"abilities": ["battery"],
-		"type": []
+		"type": ["bug", "electric"]
 	},
 	{
 		"id": 738,
@@ -8853,7 +8853,7 @@ export const pokeData = [
 		"weight": 450,
 		"is_default": true,
 		"abilities": ["levitate"],
-		"type": []
+		"type": ["bug", "electric"]
 	},
 	{
 		"id": 739,
@@ -8865,7 +8865,7 @@ export const pokeData = [
 		"weight": 70,
 		"is_default": true,
 		"abilities": ["hyper-cutter", "anger-point", "iron-fist"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 740,
@@ -8877,7 +8877,7 @@ export const pokeData = [
 		"weight": 1800,
 		"is_default": true,
 		"abilities": ["hyper-cutter", "anger-point", "iron-fist"],
-		"type": []
+		"type": ["fighting", "ice"]
 	},
 	{
 		"id": 741,
@@ -8889,7 +8889,7 @@ export const pokeData = [
 		"weight": 34,
 		"is_default": true,
 		"abilities": ["dancer"],
-		"type": []
+		"type": ["fire", "flying"]
 	},
 	{
 		"id": 742,
@@ -8901,7 +8901,7 @@ export const pokeData = [
 		"weight": 2,
 		"is_default": true,
 		"abilities": ["shield-dust", "honey-gather", "sweet-veil"],
-		"type": []
+		"type": ["bug", "fairy"]
 	},
 	{
 		"id": 743,
@@ -8913,7 +8913,7 @@ export const pokeData = [
 		"weight": 5,
 		"is_default": true,
 		"abilities": ["shield-dust", "honey-gather", "sweet-veil"],
-		"type": []
+		"type": ["bug", "fairy"]
 	},
 	{
 		"id": 744,
@@ -8925,7 +8925,7 @@ export const pokeData = [
 		"weight": 92,
 		"is_default": true,
 		"abilities": ["keen-eye", "vital-spirit", "steadfast"],
-		"type": []
+		"type": ["rock"]
 	},
 	{
 		"id": 745,
@@ -8937,7 +8937,7 @@ export const pokeData = [
 		"weight": 250,
 		"is_default": true,
 		"abilities": ["keen-eye", "steadfast", "sand-rush"],
-		"type": []
+		"type": ["rock"]
 	},
 	{
 		"id": 746,
@@ -8949,7 +8949,7 @@ export const pokeData = [
 		"weight": 3,
 		"is_default": true,
 		"abilities": ["schooling"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 747,
@@ -8961,7 +8961,7 @@ export const pokeData = [
 		"weight": 80,
 		"is_default": true,
 		"abilities": ["limber", "regenerator", "merciless"],
-		"type": []
+		"type": ["poison", "water"]
 	},
 	{
 		"id": 748,
@@ -8973,7 +8973,7 @@ export const pokeData = [
 		"weight": 145,
 		"is_default": true,
 		"abilities": ["limber", "regenerator", "merciless"],
-		"type": []
+		"type": ["poison", "water"]
 	},
 	{
 		"id": 749,
@@ -8985,7 +8985,7 @@ export const pokeData = [
 		"weight": 1100,
 		"is_default": true,
 		"abilities": ["own-tempo", "inner-focus", "stamina"],
-		"type": []
+		"type": ["ground"]
 	},
 	{
 		"id": 750,
@@ -8997,7 +8997,7 @@ export const pokeData = [
 		"weight": 9200,
 		"is_default": true,
 		"abilities": ["own-tempo", "inner-focus", "stamina"],
-		"type": []
+		"type": ["ground"]
 	},
 	{
 		"id": 751,
@@ -9009,7 +9009,7 @@ export const pokeData = [
 		"weight": 40,
 		"is_default": true,
 		"abilities": ["water-absorb", "water-bubble"],
-		"type": []
+		"type": ["water", "bug"]
 	},
 	{
 		"id": 752,
@@ -9021,7 +9021,7 @@ export const pokeData = [
 		"weight": 820,
 		"is_default": true,
 		"abilities": ["water-absorb", "water-bubble"],
-		"type": []
+		"type": ["water", "bug"]
 	},
 	{
 		"id": 753,
@@ -9033,7 +9033,7 @@ export const pokeData = [
 		"weight": 15,
 		"is_default": true,
 		"abilities": ["leaf-guard", "contrary"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 754,
@@ -9045,7 +9045,7 @@ export const pokeData = [
 		"weight": 185,
 		"is_default": true,
 		"abilities": ["leaf-guard", "contrary"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 755,
@@ -9057,7 +9057,7 @@ export const pokeData = [
 		"weight": 15,
 		"is_default": true,
 		"abilities": ["effect-spore", "illuminate", "rain-dish"],
-		"type": []
+		"type": ["grass", "fairy"]
 	},
 	{
 		"id": 756,
@@ -9069,7 +9069,7 @@ export const pokeData = [
 		"weight": 115,
 		"is_default": true,
 		"abilities": ["effect-spore", "illuminate", "rain-dish"],
-		"type": []
+		"type": ["grass", "fairy"]
 	},
 	{
 		"id": 757,
@@ -9081,7 +9081,7 @@ export const pokeData = [
 		"weight": 48,
 		"is_default": true,
 		"abilities": ["oblivious", "corrosion"],
-		"type": []
+		"type": ["poison", "fire"]
 	},
 	{
 		"id": 758,
@@ -9093,7 +9093,7 @@ export const pokeData = [
 		"weight": 222,
 		"is_default": true,
 		"abilities": ["oblivious", "corrosion"],
-		"type": []
+		"type": ["poison", "fire"]
 	},
 	{
 		"id": 759,
@@ -9105,7 +9105,7 @@ export const pokeData = [
 		"weight": 68,
 		"is_default": true,
 		"abilities": ["cute-charm", "klutz", "fluffy"],
-		"type": []
+		"type": ["normal", "fighting"]
 	},
 	{
 		"id": 760,
@@ -9117,7 +9117,7 @@ export const pokeData = [
 		"weight": 1350,
 		"is_default": true,
 		"abilities": ["klutz", "unnerve", "fluffy"],
-		"type": []
+		"type": ["normal", "fighting"]
 	},
 	{
 		"id": 761,
@@ -9129,7 +9129,7 @@ export const pokeData = [
 		"weight": 32,
 		"is_default": true,
 		"abilities": ["oblivious", "leaf-guard", "sweet-veil"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 762,
@@ -9141,7 +9141,7 @@ export const pokeData = [
 		"weight": 82,
 		"is_default": true,
 		"abilities": ["oblivious", "leaf-guard", "sweet-veil"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 763,
@@ -9153,7 +9153,7 @@ export const pokeData = [
 		"weight": 214,
 		"is_default": true,
 		"abilities": ["leaf-guard", "sweet-veil", "queenly-majesty"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 764,
@@ -9165,7 +9165,7 @@ export const pokeData = [
 		"weight": 3,
 		"is_default": true,
 		"abilities": ["natural-cure", "flower-veil", "triage"],
-		"type": []
+		"type": ["fairy"]
 	},
 	{
 		"id": 765,
@@ -9177,7 +9177,7 @@ export const pokeData = [
 		"weight": 760,
 		"is_default": true,
 		"abilities": ["inner-focus", "telepathy", "symbiosis"],
-		"type": []
+		"type": ["normal", "psychic"]
 	},
 	{
 		"id": 766,
@@ -9189,7 +9189,7 @@ export const pokeData = [
 		"weight": 828,
 		"is_default": true,
 		"abilities": ["defiant", "receiver"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 767,
@@ -9201,7 +9201,7 @@ export const pokeData = [
 		"weight": 120,
 		"is_default": true,
 		"abilities": ["wimp-out"],
-		"type": []
+		"type": ["bug", "water"]
 	},
 	{
 		"id": 768,
@@ -9213,7 +9213,7 @@ export const pokeData = [
 		"weight": 1080,
 		"is_default": true,
 		"abilities": ["emergency-exit"],
-		"type": []
+		"type": ["bug", "water"]
 	},
 	{
 		"id": 769,
@@ -9225,7 +9225,7 @@ export const pokeData = [
 		"weight": 700,
 		"is_default": true,
 		"abilities": ["sand-veil", "water-compaction"],
-		"type": []
+		"type": ["ghost", "ground"]
 	},
 	{
 		"id": 770,
@@ -9237,7 +9237,7 @@ export const pokeData = [
 		"weight": 2500,
 		"is_default": true,
 		"abilities": ["sand-veil", "water-compaction"],
-		"type": []
+		"type": ["ghost", "ground"]
 	},
 	{
 		"id": 771,
@@ -9249,7 +9249,7 @@ export const pokeData = [
 		"weight": 12,
 		"is_default": true,
 		"abilities": ["unaware", "innards-out"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 772,
@@ -9261,7 +9261,7 @@ export const pokeData = [
 		"weight": 1205,
 		"is_default": true,
 		"abilities": ["battle-armor"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 773,
@@ -9273,7 +9273,7 @@ export const pokeData = [
 		"weight": 1005,
 		"is_default": true,
 		"abilities": ["rks-system"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 774,
@@ -9285,7 +9285,7 @@ export const pokeData = [
 		"weight": 400,
 		"is_default": true,
 		"abilities": ["shields-down"],
-		"type": []
+		"type": ["rock", "flying"]
 	},
 	{
 		"id": 775,
@@ -9297,7 +9297,7 @@ export const pokeData = [
 		"weight": 199,
 		"is_default": true,
 		"abilities": ["comatose"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 776,
@@ -9309,7 +9309,7 @@ export const pokeData = [
 		"weight": 2120,
 		"is_default": true,
 		"abilities": ["shell-armor"],
-		"type": []
+		"type": ["fire", "dragon"]
 	},
 	{
 		"id": 777,
@@ -9321,7 +9321,7 @@ export const pokeData = [
 		"weight": 33,
 		"is_default": true,
 		"abilities": ["sturdy", "lightning-rod", "iron-barbs"],
-		"type": []
+		"type": ["electric", "steel"]
 	},
 	{
 		"id": 778,
@@ -9333,7 +9333,7 @@ export const pokeData = [
 		"weight": 7,
 		"is_default": true,
 		"abilities": ["disguise"],
-		"type": []
+		"type": ["ghost", "fairy"]
 	},
 	{
 		"id": 779,
@@ -9345,7 +9345,7 @@ export const pokeData = [
 		"weight": 190,
 		"is_default": true,
 		"abilities": ["wonder-skin", "strong-jaw", "dazzling"],
-		"type": []
+		"type": ["water", "psychic"]
 	},
 	{
 		"id": 780,
@@ -9357,7 +9357,7 @@ export const pokeData = [
 		"weight": 1850,
 		"is_default": true,
 		"abilities": ["cloud-nine", "sap-sipper", "berserk"],
-		"type": []
+		"type": ["normal", "dragon"]
 	},
 	{
 		"id": 781,
@@ -9369,7 +9369,7 @@ export const pokeData = [
 		"weight": 2100,
 		"is_default": true,
 		"abilities": ["steelworker"],
-		"type": []
+		"type": ["ghost", "grass"]
 	},
 	{
 		"id": 782,
@@ -9381,7 +9381,7 @@ export const pokeData = [
 		"weight": 297,
 		"is_default": true,
 		"abilities": ["soundproof", "overcoat", "bulletproof"],
-		"type": []
+		"type": ["dragon"]
 	},
 	{
 		"id": 783,
@@ -9393,7 +9393,7 @@ export const pokeData = [
 		"weight": 470,
 		"is_default": true,
 		"abilities": ["soundproof", "overcoat", "bulletproof"],
-		"type": []
+		"type": ["dragon", "fighting"]
 	},
 	{
 		"id": 784,
@@ -9405,7 +9405,7 @@ export const pokeData = [
 		"weight": 782,
 		"is_default": true,
 		"abilities": ["soundproof", "overcoat", "bulletproof"],
-		"type": []
+		"type": ["dragon", "fighting"]
 	},
 	{
 		"id": 785,
@@ -9417,7 +9417,7 @@ export const pokeData = [
 		"weight": 205,
 		"is_default": true,
 		"abilities": ["telepathy", "electric-surge"],
-		"type": []
+		"type": ["electric", "fairy"]
 	},
 	{
 		"id": 786,
@@ -9429,7 +9429,7 @@ export const pokeData = [
 		"weight": 186,
 		"is_default": true,
 		"abilities": ["telepathy", "psychic-surge"],
-		"type": []
+		"type": ["psychic", "fairy"]
 	},
 	{
 		"id": 787,
@@ -9441,7 +9441,7 @@ export const pokeData = [
 		"weight": 455,
 		"is_default": true,
 		"abilities": ["telepathy", "grassy-surge"],
-		"type": []
+		"type": ["grass", "fairy"]
 	},
 	{
 		"id": 788,
@@ -9453,7 +9453,7 @@ export const pokeData = [
 		"weight": 212,
 		"is_default": true,
 		"abilities": ["telepathy", "misty-surge"],
-		"type": []
+		"type": ["water", "fairy"]
 	},
 	{
 		"id": 789,
@@ -9465,7 +9465,7 @@ export const pokeData = [
 		"weight": 1,
 		"is_default": true,
 		"abilities": ["unaware"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 790,
@@ -9477,7 +9477,7 @@ export const pokeData = [
 		"weight": 9999,
 		"is_default": true,
 		"abilities": ["sturdy"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 791,
@@ -9489,7 +9489,7 @@ export const pokeData = [
 		"weight": 2300,
 		"is_default": true,
 		"abilities": ["full-metal-body"],
-		"type": []
+		"type": ["psychic", "steel"]
 	},
 	{
 		"id": 792,
@@ -9501,7 +9501,7 @@ export const pokeData = [
 		"weight": 1200,
 		"is_default": true,
 		"abilities": ["shadow-shield"],
-		"type": []
+		"type": ["psychic", "ghost"]
 	},
 	{
 		"id": 793,
@@ -9513,7 +9513,7 @@ export const pokeData = [
 		"weight": 555,
 		"is_default": true,
 		"abilities": ["beast-boost"],
-		"type": []
+		"type": ["rock", "poison"]
 	},
 	{
 		"id": 794,
@@ -9525,7 +9525,7 @@ export const pokeData = [
 		"weight": 3336,
 		"is_default": true,
 		"abilities": ["beast-boost"],
-		"type": []
+		"type": ["bug", "fighting"]
 	},
 	{
 		"id": 795,
@@ -9537,7 +9537,7 @@ export const pokeData = [
 		"weight": 250,
 		"is_default": true,
 		"abilities": ["beast-boost"],
-		"type": []
+		"type": ["bug", "fighting"]
 	},
 	{
 		"id": 796,
@@ -9549,7 +9549,7 @@ export const pokeData = [
 		"weight": 1000,
 		"is_default": true,
 		"abilities": ["beast-boost"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 797,
@@ -9561,7 +9561,7 @@ export const pokeData = [
 		"weight": 9999,
 		"is_default": true,
 		"abilities": ["beast-boost"],
-		"type": []
+		"type": ["steel", "flying"]
 	},
 	{
 		"id": 798,
@@ -9573,7 +9573,7 @@ export const pokeData = [
 		"weight": 1,
 		"is_default": true,
 		"abilities": ["beast-boost"],
-		"type": []
+		"type": ["grass", "steel"]
 	},
 	{
 		"id": 799,
@@ -9585,7 +9585,7 @@ export const pokeData = [
 		"weight": 8880,
 		"is_default": true,
 		"abilities": ["beast-boost"],
-		"type": []
+		"type": ["dark", "dragon"]
 	},
 	{
 		"id": 800,
@@ -9597,7 +9597,7 @@ export const pokeData = [
 		"weight": 2300,
 		"is_default": true,
 		"abilities": ["prism-armor"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 801,
@@ -9609,7 +9609,7 @@ export const pokeData = [
 		"weight": 805,
 		"is_default": true,
 		"abilities": ["soul-heart"],
-		"type": []
+		"type": ["steel", "fairy"]
 	},
 	{
 		"id": 802,
@@ -9621,7 +9621,7 @@ export const pokeData = [
 		"weight": 222,
 		"is_default": true,
 		"abilities": ["technician"],
-		"type": []
+		"type": ["fighting", "ghost"]
 	},
 	{
 		"id": 803,
@@ -9633,7 +9633,7 @@ export const pokeData = [
 		"weight": 18,
 		"is_default": true,
 		"abilities": ["beast-boost"],
-		"type": []
+		"type": ["poison"]
 	},
 	{
 		"id": 804,
@@ -9645,7 +9645,7 @@ export const pokeData = [
 		"weight": 1500,
 		"is_default": true,
 		"abilities": ["beast-boost"],
-		"type": []
+		"type": ["poison", "dragon"]
 	},
 	{
 		"id": 805,
@@ -9657,7 +9657,7 @@ export const pokeData = [
 		"weight": 8200,
 		"is_default": true,
 		"abilities": ["beast-boost"],
-		"type": []
+		"type": ["rock", "steel"]
 	},
 	{
 		"id": 806,
@@ -9669,7 +9669,7 @@ export const pokeData = [
 		"weight": 130,
 		"is_default": true,
 		"abilities": ["beast-boost"],
-		"type": []
+		"type": ["fire", "ghost"]
 	},
 	{
 		"id": 807,
@@ -9681,7 +9681,7 @@ export const pokeData = [
 		"weight": 445,
 		"is_default": true,
 		"abilities": ["volt-absorb"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 808,
@@ -9693,7 +9693,7 @@ export const pokeData = [
 		"weight": 80,
 		"is_default": true,
 		"abilities": ["magnet-pull"],
-		"type": []
+		"type": ["steel"]
 	},
 	{
 		"id": 809,
@@ -9705,7 +9705,7 @@ export const pokeData = [
 		"weight": 8000,
 		"is_default": true,
 		"abilities": ["iron-fist"],
-		"type": []
+		"type": ["steel"]
 	},
 	{
 		"id": 810,
@@ -9717,7 +9717,7 @@ export const pokeData = [
 		"weight": 50,
 		"is_default": true,
 		"abilities": ["overgrow", "grassy-surge"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 811,
@@ -9729,7 +9729,7 @@ export const pokeData = [
 		"weight": 140,
 		"is_default": true,
 		"abilities": ["overgrow", "grassy-surge"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 812,
@@ -9741,7 +9741,7 @@ export const pokeData = [
 		"weight": 900,
 		"is_default": true,
 		"abilities": ["overgrow", "grassy-surge"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 813,
@@ -9753,7 +9753,7 @@ export const pokeData = [
 		"weight": 45,
 		"is_default": true,
 		"abilities": ["blaze", "libero"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 814,
@@ -9765,7 +9765,7 @@ export const pokeData = [
 		"weight": 90,
 		"is_default": true,
 		"abilities": ["blaze", "libero"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 815,
@@ -9777,7 +9777,7 @@ export const pokeData = [
 		"weight": 330,
 		"is_default": true,
 		"abilities": ["blaze", "libero"],
-		"type": []
+		"type": ["fire"]
 	},
 	{
 		"id": 816,
@@ -9789,7 +9789,7 @@ export const pokeData = [
 		"weight": 40,
 		"is_default": true,
 		"abilities": ["torrent", "sniper"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 817,
@@ -9801,7 +9801,7 @@ export const pokeData = [
 		"weight": 115,
 		"is_default": true,
 		"abilities": ["torrent", "sniper"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 818,
@@ -9813,7 +9813,7 @@ export const pokeData = [
 		"weight": 452,
 		"is_default": true,
 		"abilities": ["torrent", "sniper"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 819,
@@ -9825,7 +9825,7 @@ export const pokeData = [
 		"weight": 25,
 		"is_default": true,
 		"abilities": ["gluttony", "cheek-pouch"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 820,
@@ -9837,7 +9837,7 @@ export const pokeData = [
 		"weight": 60,
 		"is_default": true,
 		"abilities": ["gluttony", "cheek-pouch"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 821,
@@ -9849,7 +9849,7 @@ export const pokeData = [
 		"weight": 18,
 		"is_default": true,
 		"abilities": ["keen-eye", "unnerve", "big-pecks"],
-		"type": []
+		"type": ["flying"]
 	},
 	{
 		"id": 822,
@@ -9861,7 +9861,7 @@ export const pokeData = [
 		"weight": 160,
 		"is_default": true,
 		"abilities": ["keen-eye", "unnerve", "big-pecks"],
-		"type": []
+		"type": ["flying"]
 	},
 	{
 		"id": 823,
@@ -9873,7 +9873,7 @@ export const pokeData = [
 		"weight": 750,
 		"is_default": true,
 		"abilities": ["pressure", "unnerve", "mirror-armor"],
-		"type": []
+		"type": ["flying", "steel"]
 	},
 	{
 		"id": 824,
@@ -9885,7 +9885,7 @@ export const pokeData = [
 		"weight": 80,
 		"is_default": true,
 		"abilities": ["compound-eyes", "swarm", "telepathy"],
-		"type": []
+		"type": ["bug"]
 	},
 	{
 		"id": 825,
@@ -9897,7 +9897,7 @@ export const pokeData = [
 		"weight": 195,
 		"is_default": true,
 		"abilities": ["compound-eyes", "swarm", "telepathy"],
-		"type": []
+		"type": ["bug", "psychic"]
 	},
 	{
 		"id": 826,
@@ -9909,7 +9909,7 @@ export const pokeData = [
 		"weight": 408,
 		"is_default": true,
 		"abilities": ["swarm", "frisk", "telepathy"],
-		"type": []
+		"type": ["bug", "psychic"]
 	},
 	{
 		"id": 827,
@@ -9921,7 +9921,7 @@ export const pokeData = [
 		"weight": 89,
 		"is_default": true,
 		"abilities": ["run-away", "unburden", "stakeout"],
-		"type": []
+		"type": ["dark"]
 	},
 	{
 		"id": 828,
@@ -9933,7 +9933,7 @@ export const pokeData = [
 		"weight": 199,
 		"is_default": true,
 		"abilities": ["run-away", "unburden", "stakeout"],
-		"type": []
+		"type": ["dark"]
 	},
 	{
 		"id": 829,
@@ -9945,7 +9945,7 @@ export const pokeData = [
 		"weight": 22,
 		"is_default": true,
 		"abilities": ["effect-spore", "regenerator", "cotton-down"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 830,
@@ -9957,7 +9957,7 @@ export const pokeData = [
 		"weight": 25,
 		"is_default": true,
 		"abilities": ["effect-spore", "regenerator", "cotton-down"],
-		"type": []
+		"type": ["grass"]
 	},
 	{
 		"id": 831,
@@ -9969,7 +9969,7 @@ export const pokeData = [
 		"weight": 60,
 		"is_default": true,
 		"abilities": ["run-away", "bulletproof", "fluffy"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 832,
@@ -9981,7 +9981,7 @@ export const pokeData = [
 		"weight": 430,
 		"is_default": true,
 		"abilities": ["steadfast", "bulletproof", "fluffy"],
-		"type": []
+		"type": ["normal"]
 	},
 	{
 		"id": 833,
@@ -9993,7 +9993,7 @@ export const pokeData = [
 		"weight": 85,
 		"is_default": true,
 		"abilities": ["swift-swim", "shell-armor", "strong-jaw"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 834,
@@ -10005,7 +10005,7 @@ export const pokeData = [
 		"weight": 1155,
 		"is_default": true,
 		"abilities": ["swift-swim", "shell-armor", "strong-jaw"],
-		"type": []
+		"type": ["water", "rock"]
 	},
 	{
 		"id": 835,
@@ -10017,7 +10017,7 @@ export const pokeData = [
 		"weight": 135,
 		"is_default": true,
 		"abilities": ["rattled", "ball-fetch"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 836,
@@ -10029,7 +10029,7 @@ export const pokeData = [
 		"weight": 340,
 		"is_default": true,
 		"abilities": ["competitive", "strong-jaw"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 837,
@@ -10041,7 +10041,7 @@ export const pokeData = [
 		"weight": 120,
 		"is_default": true,
 		"abilities": ["flash-fire", "heatproof", "steam-engine"],
-		"type": []
+		"type": ["rock"]
 	},
 	{
 		"id": 838,
@@ -10053,7 +10053,7 @@ export const pokeData = [
 		"weight": 780,
 		"is_default": true,
 		"abilities": ["flash-fire", "flame-body", "steam-engine"],
-		"type": []
+		"type": ["rock", "fire"]
 	},
 	{
 		"id": 839,
@@ -10065,7 +10065,7 @@ export const pokeData = [
 		"weight": 3105,
 		"is_default": true,
 		"abilities": ["flash-fire", "flame-body", "steam-engine"],
-		"type": []
+		"type": ["rock", "fire"]
 	},
 	{
 		"id": 840,
@@ -10077,7 +10077,7 @@ export const pokeData = [
 		"weight": 5,
 		"is_default": true,
 		"abilities": ["gluttony", "bulletproof", "ripen"],
-		"type": []
+		"type": ["grass", "dragon"]
 	},
 	{
 		"id": 841,
@@ -10089,7 +10089,7 @@ export const pokeData = [
 		"weight": 10,
 		"is_default": true,
 		"abilities": ["hustle", "gluttony", "ripen"],
-		"type": []
+		"type": ["grass", "dragon"]
 	},
 	{
 		"id": 842,
@@ -10101,7 +10101,7 @@ export const pokeData = [
 		"weight": 130,
 		"is_default": true,
 		"abilities": ["thick-fat", "gluttony", "ripen"],
-		"type": []
+		"type": ["grass", "dragon"]
 	},
 	{
 		"id": 843,
@@ -10113,7 +10113,7 @@ export const pokeData = [
 		"weight": 76,
 		"is_default": true,
 		"abilities": ["sand-veil", "shed-skin", "sand-spit"],
-		"type": []
+		"type": ["ground"]
 	},
 	{
 		"id": 844,
@@ -10125,7 +10125,7 @@ export const pokeData = [
 		"weight": 655,
 		"is_default": true,
 		"abilities": ["sand-veil", "shed-skin", "sand-spit"],
-		"type": []
+		"type": ["ground"]
 	},
 	{
 		"id": 845,
@@ -10137,7 +10137,7 @@ export const pokeData = [
 		"weight": 180,
 		"is_default": true,
 		"abilities": ["gulp-missile"],
-		"type": []
+		"type": ["flying", "water"]
 	},
 	{
 		"id": 846,
@@ -10149,7 +10149,7 @@ export const pokeData = [
 		"weight": 10,
 		"is_default": true,
 		"abilities": ["swift-swim", "propeller-tail"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 847,
@@ -10161,7 +10161,7 @@ export const pokeData = [
 		"weight": 300,
 		"is_default": true,
 		"abilities": ["swift-swim", "propeller-tail"],
-		"type": []
+		"type": ["water"]
 	},
 	{
 		"id": 848,
@@ -10173,7 +10173,7 @@ export const pokeData = [
 		"weight": 110,
 		"is_default": true,
 		"abilities": ["static", "klutz", "rattled"],
-		"type": []
+		"type": ["electric", "poison"]
 	},
 	{
 		"id": 849,
@@ -10185,7 +10185,7 @@ export const pokeData = [
 		"weight": 400,
 		"is_default": true,
 		"abilities": ["plus", "technician", "punk-rock"],
-		"type": []
+		"type": ["electric", "poison"]
 	},
 	{
 		"id": 850,
@@ -10197,7 +10197,7 @@ export const pokeData = [
 		"weight": 10,
 		"is_default": true,
 		"abilities": ["flash-fire", "flame-body", "white-smoke"],
-		"type": []
+		"type": ["fire", "bug"]
 	},
 	{
 		"id": 851,
@@ -10209,7 +10209,7 @@ export const pokeData = [
 		"weight": 1200,
 		"is_default": true,
 		"abilities": ["flash-fire", "flame-body", "white-smoke"],
-		"type": []
+		"type": ["fire", "bug"]
 	},
 	{
 		"id": 852,
@@ -10221,7 +10221,7 @@ export const pokeData = [
 		"weight": 40,
 		"is_default": true,
 		"abilities": ["limber", "technician"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 853,
@@ -10233,7 +10233,7 @@ export const pokeData = [
 		"weight": 390,
 		"is_default": true,
 		"abilities": ["limber", "technician"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 854,
@@ -10245,7 +10245,7 @@ export const pokeData = [
 		"weight": 2,
 		"is_default": true,
 		"abilities": ["cursed-body", "weak-armor"],
-		"type": []
+		"type": ["ghost"]
 	},
 	{
 		"id": 855,
@@ -10257,7 +10257,7 @@ export const pokeData = [
 		"weight": 4,
 		"is_default": true,
 		"abilities": ["cursed-body", "weak-armor"],
-		"type": []
+		"type": ["ghost"]
 	},
 	{
 		"id": 856,
@@ -10269,7 +10269,7 @@ export const pokeData = [
 		"weight": 34,
 		"is_default": true,
 		"abilities": ["anticipation", "healer", "magic-bounce"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 857,
@@ -10281,7 +10281,7 @@ export const pokeData = [
 		"weight": 48,
 		"is_default": true,
 		"abilities": ["anticipation", "healer", "magic-bounce"],
-		"type": []
+		"type": ["psychic"]
 	},
 	{
 		"id": 858,
@@ -10293,7 +10293,7 @@ export const pokeData = [
 		"weight": 51,
 		"is_default": true,
 		"abilities": ["anticipation", "healer", "magic-bounce"],
-		"type": []
+		"type": ["psychic", "fairy"]
 	},
 	{
 		"id": 859,
@@ -10305,7 +10305,7 @@ export const pokeData = [
 		"weight": 55,
 		"is_default": true,
 		"abilities": ["frisk", "pickpocket", "prankster"],
-		"type": []
+		"type": ["dark", "fairy"]
 	},
 	{
 		"id": 860,
@@ -10317,7 +10317,7 @@ export const pokeData = [
 		"weight": 125,
 		"is_default": true,
 		"abilities": ["frisk", "pickpocket", "prankster"],
-		"type": []
+		"type": ["dark", "fairy"]
 	},
 	{
 		"id": 861,
@@ -10329,7 +10329,7 @@ export const pokeData = [
 		"weight": 610,
 		"is_default": true,
 		"abilities": ["frisk", "pickpocket", "prankster"],
-		"type": []
+		"type": ["dark", "fairy"]
 	},
 	{
 		"id": 862,
@@ -10341,7 +10341,7 @@ export const pokeData = [
 		"weight": 460,
 		"is_default": true,
 		"abilities": ["guts", "reckless", "defiant"],
-		"type": []
+		"type": ["dark", "normal"]
 	},
 	{
 		"id": 863,
@@ -10353,7 +10353,7 @@ export const pokeData = [
 		"weight": 280,
 		"is_default": true,
 		"abilities": ["battle-armor", "tough-claws", "steely-spirit"],
-		"type": []
+		"type": ["steel"]
 	},
 	{
 		"id": 864,
@@ -10365,7 +10365,7 @@ export const pokeData = [
 		"weight": 4,
 		"is_default": true,
 		"abilities": ["weak-armor", "perish-body"],
-		"type": []
+		"type": ["ghost"]
 	},
 	{
 		"id": 865,
@@ -10377,7 +10377,7 @@ export const pokeData = [
 		"weight": 1170,
 		"is_default": true,
 		"abilities": ["steadfast", "scrappy"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 866,
@@ -10389,7 +10389,7 @@ export const pokeData = [
 		"weight": 582,
 		"is_default": true,
 		"abilities": ["tangled-feet", "ice-body", "screen-cleaner"],
-		"type": []
+		"type": ["ice", "psychic"]
 	},
 	{
 		"id": 867,
@@ -10401,7 +10401,7 @@ export const pokeData = [
 		"weight": 666,
 		"is_default": true,
 		"abilities": ["wandering-spirit"],
-		"type": []
+		"type": ["ground", "ghost"]
 	},
 	{
 		"id": 868,
@@ -10413,7 +10413,7 @@ export const pokeData = [
 		"weight": 3,
 		"is_default": true,
 		"abilities": ["aroma-veil", "sweet-veil"],
-		"type": []
+		"type": ["fairy"]
 	},
 	{
 		"id": 869,
@@ -10425,7 +10425,7 @@ export const pokeData = [
 		"weight": 5,
 		"is_default": true,
 		"abilities": ["aroma-veil", "sweet-veil"],
-		"type": []
+		"type": ["fairy"]
 	},
 	{
 		"id": 870,
@@ -10437,7 +10437,7 @@ export const pokeData = [
 		"weight": 620,
 		"is_default": true,
 		"abilities": ["battle-armor", "defiant"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 871,
@@ -10449,7 +10449,7 @@ export const pokeData = [
 		"weight": 10,
 		"is_default": true,
 		"abilities": ["lightning-rod", "electric-surge"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 872,
@@ -10461,7 +10461,7 @@ export const pokeData = [
 		"weight": 38,
 		"is_default": true,
 		"abilities": ["shield-dust", "ice-scales"],
-		"type": []
+		"type": ["ice", "bug"]
 	},
 	{
 		"id": 873,
@@ -10473,7 +10473,7 @@ export const pokeData = [
 		"weight": 420,
 		"is_default": true,
 		"abilities": ["shield-dust", "ice-scales"],
-		"type": []
+		"type": ["ice", "bug"]
 	},
 	{
 		"id": 874,
@@ -10485,7 +10485,7 @@ export const pokeData = [
 		"weight": 5200,
 		"is_default": true,
 		"abilities": ["power-spot"],
-		"type": []
+		"type": ["rock"]
 	},
 	{
 		"id": 875,
@@ -10497,7 +10497,7 @@ export const pokeData = [
 		"weight": 890,
 		"is_default": true,
 		"abilities": ["ice-face"],
-		"type": []
+		"type": ["ice"]
 	},
 	{
 		"id": 876,
@@ -10509,7 +10509,7 @@ export const pokeData = [
 		"weight": 280,
 		"is_default": true,
 		"abilities": ["synchronize", "inner-focus", "psychic-surge"],
-		"type": []
+		"type": ["psychic", "normal"]
 	},
 	{
 		"id": 877,
@@ -10521,7 +10521,7 @@ export const pokeData = [
 		"weight": 30,
 		"is_default": true,
 		"abilities": ["hunger-switch"],
-		"type": []
+		"type": ["electric", "dark"]
 	},
 	{
 		"id": 878,
@@ -10533,7 +10533,7 @@ export const pokeData = [
 		"weight": 1000,
 		"is_default": true,
 		"abilities": ["sheer-force", "heavy-metal"],
-		"type": []
+		"type": ["steel"]
 	},
 	{
 		"id": 879,
@@ -10545,7 +10545,7 @@ export const pokeData = [
 		"weight": 6500,
 		"is_default": true,
 		"abilities": ["sheer-force", "heavy-metal"],
-		"type": []
+		"type": ["steel"]
 	},
 	{
 		"id": 880,
@@ -10557,7 +10557,7 @@ export const pokeData = [
 		"weight": 1900,
 		"is_default": true,
 		"abilities": ["volt-absorb", "hustle", "sand-rush"],
-		"type": []
+		"type": ["electric", "dragon"]
 	},
 	{
 		"id": 881,
@@ -10569,7 +10569,7 @@ export const pokeData = [
 		"weight": 1500,
 		"is_default": true,
 		"abilities": ["static", "volt-absorb", "slush-rush"],
-		"type": []
+		"type": ["electric", "ice"]
 	},
 	{
 		"id": 882,
@@ -10581,7 +10581,7 @@ export const pokeData = [
 		"weight": 2150,
 		"is_default": true,
 		"abilities": ["water-absorb", "sand-rush", "strong-jaw"],
-		"type": []
+		"type": ["water", "dragon"]
 	},
 	{
 		"id": 883,
@@ -10593,7 +10593,7 @@ export const pokeData = [
 		"weight": 1750,
 		"is_default": true,
 		"abilities": ["water-absorb", "ice-body", "slush-rush"],
-		"type": []
+		"type": ["water", "ice"]
 	},
 	{
 		"id": 884,
@@ -10605,7 +10605,7 @@ export const pokeData = [
 		"weight": 400,
 		"is_default": true,
 		"abilities": ["heavy-metal", "light-metal", "stalwart"],
-		"type": []
+		"type": ["steel", "dragon"]
 	},
 	{
 		"id": 885,
@@ -10617,7 +10617,7 @@ export const pokeData = [
 		"weight": 20,
 		"is_default": true,
 		"abilities": ["clear-body", "cursed-body", "infiltrator"],
-		"type": []
+		"type": ["dragon", "ghost"]
 	},
 	{
 		"id": 886,
@@ -10629,7 +10629,7 @@ export const pokeData = [
 		"weight": 110,
 		"is_default": true,
 		"abilities": ["clear-body", "cursed-body", "infiltrator"],
-		"type": []
+		"type": ["dragon", "ghost"]
 	},
 	{
 		"id": 887,
@@ -10641,7 +10641,7 @@ export const pokeData = [
 		"weight": 500,
 		"is_default": true,
 		"abilities": ["clear-body", "cursed-body", "infiltrator"],
-		"type": []
+		"type": ["dragon", "ghost"]
 	},
 	{
 		"id": 888,
@@ -10653,7 +10653,7 @@ export const pokeData = [
 		"weight": 1100,
 		"is_default": true,
 		"abilities": ["intrepid-sword"],
-		"type": []
+		"type": ["fairy"]
 	},
 	{
 		"id": 889,
@@ -10665,7 +10665,7 @@ export const pokeData = [
 		"weight": 2100,
 		"is_default": true,
 		"abilities": ["dauntless-shield"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 890,
@@ -10677,7 +10677,7 @@ export const pokeData = [
 		"weight": 9500,
 		"is_default": true,
 		"abilities": ["pressure"],
-		"type": []
+		"type": ["poison", "dragon"]
 	},
 	{
 		"id": 891,
@@ -10689,7 +10689,7 @@ export const pokeData = [
 		"weight": 120,
 		"is_default": true,
 		"abilities": ["inner-focus"],
-		"type": []
+		"type": ["fighting"]
 	},
 	{
 		"id": 892,
@@ -10701,7 +10701,7 @@ export const pokeData = [
 		"weight": 1050,
 		"is_default": true,
 		"abilities": ["unseen-fist"],
-		"type": []
+		"type": ["fighting", "dark"]
 	},
 	{
 		"id": 893,
@@ -10713,7 +10713,7 @@ export const pokeData = [
 		"weight": 700,
 		"is_default": true,
 		"abilities": ["leaf-guard"],
-		"type": []
+		"type": ["dark", "grass"]
 	},
 	{
 		"id": 894,
@@ -10725,7 +10725,7 @@ export const pokeData = [
 		"weight": 1450,
 		"is_default": true,
 		"abilities": ["transistor"],
-		"type": []
+		"type": ["electric"]
 	},
 	{
 		"id": 895,
@@ -10737,7 +10737,7 @@ export const pokeData = [
 		"weight": 2000,
 		"is_default": true,
 		"abilities": ["dragons-maw"],
-		"type": []
+		"type": ["dragon"]
 	},
 	{
 		"id": 896,
@@ -10749,7 +10749,7 @@ export const pokeData = [
 		"weight": 8000,
 		"is_default": true,
 		"abilities": ["chilling-neigh"],
-		"type": []
+		"type": ["ice"]
 	},
 	{
 		"id": 897,
@@ -10761,7 +10761,7 @@ export const pokeData = [
 		"weight": 445,
 		"is_default": true,
 		"abilities": ["grim-neigh"],
-		"type": []
+		"type": ["ghost"]
 	},
 	{
 		"id": 898,
@@ -10773,7 +10773,7 @@ export const pokeData = [
 		"weight": 77,
 		"is_default": true,
 		"abilities": ["unnerve"],
-		"type": []
+		"type": ["psychic", "grass"]
 	},
 	{
 		"id": 899,
@@ -10785,7 +10785,7 @@ export const pokeData = [
 		"weight": 951,
 		"is_default": true,
 		"abilities": ["intimidate", "frisk", "sap-sipper"],
-		"type": []
+		"type": ["normal", "psychic"]
 	},
 	{
 		"id": 900,
@@ -10797,7 +10797,7 @@ export const pokeData = [
 		"weight": 890,
 		"is_default": true,
 		"abilities": ["swarm", "steadfast", "sheer-force"],
-		"type": []
+		"type": ["bug", "rock"]
 	},
 	{
 		"id": 901,
@@ -10809,7 +10809,7 @@ export const pokeData = [
 		"weight": 2900,
 		"is_default": true,
 		"abilities": [],
-		"type": []
+		"type": ["ground", "normal"]
 	},
 	{
 		"id": 902,
@@ -10821,7 +10821,7 @@ export const pokeData = [
 		"weight": 1100,
 		"is_default": true,
 		"abilities": ["adaptability", "mold-breaker", "rattled"],
-		"type": []
+		"type": ["water", "ghost"]
 	},
 	{
 		"id": 903,
@@ -10833,7 +10833,7 @@ export const pokeData = [
 		"weight": 430,
 		"is_default": true,
 		"abilities": ["pressure", "poison-touch"],
-		"type": []
+		"type": ["fighting", "poison"]
 	},
 	{
 		"id": 904,
@@ -10845,7 +10845,7 @@ export const pokeData = [
 		"weight": 605,
 		"is_default": true,
 		"abilities": ["intimidate", "swift-swim", "poison-point"],
-		"type": []
+		"type": ["dark", "poison"]
 	},
 	{
 		"id": 905,
@@ -10857,6 +10857,6 @@ export const pokeData = [
 		"weight": 480,
 		"is_default": true,
 		"abilities": ["contrary", "healer"],
-		"type": []
+		"type": ["fairy", "flying"]
 	}
 ]
