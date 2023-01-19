@@ -137,7 +137,7 @@
 	background-color: rgb(39, 25, 25);
 	font-family: "Press Start 2P", "cursive";
 	color: green;
-	font-size: 0.75rem;
+	font-size: 1rem;
 }
 
 .pokestats-div > h3 {
@@ -145,7 +145,7 @@
 	padding-top: 1rem;
 	text-shadow: 0.07em 0 black, 0 0.07em black, -0.07em 0 white,
 		0 -0.07em black;
-	font-size: 1rem;
+	font-size: 1.25rem;
 }
 
 /* .type { */
