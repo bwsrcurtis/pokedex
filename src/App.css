@@ -15,7 +15,7 @@
 }
 
 .pokedex {
-	height: 90vh;
+	height: 90%;
 	margin: 1rem auto;
 	background-color: #3e3e3e;
 	left: 0;
@@ -26,17 +26,18 @@
 
 .pokedex-grid {
 	display: grid;
-	height: 85vh;
+	height: 95%;
+	width: 100%;
 	grid-template-rows: 1fr 1fr 1fr;
 	grid-template-columns: 2fr 1fr;
 }
 
 .image-div {
 	background-color: #383b47;
-	width: 80%;
-	height: 75%;
+	width: 85%;
+	height: 85%;
 	border-radius: 30% 70% 20% 40%;
-	margin: 0 1rem 0 1rem;
+	margin: 0 1rem 1rem 1rem;
 	filter: drop-shadow(5px 5px 3px black);
 	background-color: rgb(12, 9, 9);
 	overflow-y: hidden;
@@ -99,6 +100,7 @@
 	grid-column: 2 / 3;
 	grid-row: 1 / 3;
 	margin: 0 1rem 0 0;
+	width: 90%;
 	max-height: fit-content;
 	padding-bottom: 0.5rem;
 }
@@ -126,6 +128,8 @@
 
 .pokestats-div {
 	margin: 0 1rem;
+	width: 80%;
+	height: 100%;
 }
 
 .pokestats-div > h3 {
@@ -135,9 +139,19 @@
 	font-size: 2rem;
 }
 
+/* .type { */
+/* height: 10%; */
+/* } */
+
+/* .ability {
+	height: 15%;
+} */
+
 .pokemon-desc-div {
 	grid-column: 1 / 3;
 	grid-row: 3 / 3;
+	width: 100%;
+	height: 100%;
 	/* background-color: #ff2e2e; */
 	text-align: center;
 	display: flex;
