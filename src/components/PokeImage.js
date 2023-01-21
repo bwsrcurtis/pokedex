@@ -1,5 +1,3 @@
-import React from 'react'
-
 const PokeImage = ({ pokeArr, selectedPokemon, active, triggerFade }) => {
 
 
@@ -8,7 +6,7 @@ const PokeImage = ({ pokeArr, selectedPokemon, active, triggerFade }) => {
             <div className='image-bg'></div>
             <img onAnimationEnd={triggerFade} className={`poke-img ${active ? 'active' : 'finished'}`} src={pokeArr[selectedPokemon].imgURL} alt={pokeArr[selectedPokemon].name}></img>
         </div>
-    )
-}
+    );
+};
 
-export default PokeImage
+export default PokeImage;

@@ -1,10 +1,8 @@
-import React from 'react'
-
-const capitalize = s => (s && s[0].toUpperCase() + s.slice(1)) || ""
+const capitalize = s => (s && s[0].toUpperCase() + s.slice(1)) || '';
 
 const PokeStats = ({ pokeArr, selectedPokemon }) => {
-    let multipleTypes = pokeArr[selectedPokemon].type.length > 1
-    let multipleAbilities = pokeArr[selectedPokemon].abilities.length > 1
+    let multipleTypes = pokeArr[selectedPokemon].type.length > 1;
+    let multipleAbilities = pokeArr[selectedPokemon].abilities.length > 1;
     return (
 
         <div className='pokestats-div'>
@@ -23,7 +21,7 @@ const PokeStats = ({ pokeArr, selectedPokemon }) => {
             <p>Base Experience: {pokeArr[selectedPokemon].base_experience}</p>
 
         </div>
-    )
-}
+    );
+};
 
-export default PokeStats
+export default PokeStats;

@@ -1,6 +1,4 @@
-import React from 'react'
-
-const capitalize = s => (s && s[0].toUpperCase() + s.slice(1)) || ""
+const capitalize = s => (s && s[0].toUpperCase() + s.slice(1)) || '';
 
 const PokeList = ({ pokeArr, selectPokemon, filter }) => {
     return (
@@ -12,7 +10,7 @@ const PokeList = ({ pokeArr, selectPokemon, filter }) => {
                 {pokeArr.map((x) => <p onClick={selectPokemon} key={x.id} className={`pokemon-list ${x.type[0]}`}>{`${capitalize(x.name)}`}</p>)}
             </div>
         </div>
-    )
-}
+    );
+};
 
-export default PokeList
+export default PokeList;
